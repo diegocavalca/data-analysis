@@ -1,0 +1,31 @@
+
+===== WEEK 1 =====
+Data Analysis
+
+-> Steps:
+1. Question - Get Answer for question ou solve a problem
+2. Wrangle - Data Acquisition and Data Cleaning
+3. Explore - Building Intuitions and find patterns (stats, clustering, etc.)
+4. Conclusion - Classifications, predictions and so on. (Here ML comes in!)
+5. Communicate - Blog Post, Presentation, paper, email, and .. DataViz (reporting)!
+
+P.s.: 
+-> Theses steps are not linear, mainly in 2 and 3 steps: there are cycling issues!
+-> Wrangling:
+	- Data Acquisition: File, API, Scrapping, ... COMBINING (and structuring all these)!.
+
+
+===== WEEK 2 =====
+ Series (in Python Pandas) : It's similar to list and dictionary.
+ 	- Contains indexes values for each row
+ 		and columns with values (tabular structure)
+
+ 	- Eg.: pd.Series(ELEMENT[LIST or DICT])
+
+ 	- Missing Data: 
+ 		- Strings: MD is denoted as 'None'
+ 		- Numbers: MD is denoted as Nan (Not a Number)
+
+ 	P.s.: NaN <> None, and to test if a number (value X in Series) is equal
+ 		NaN, we should use 'np.isNan(X)' to do that. Underneath, numpy is 
+ 		handling numbers in Pandas Series.
