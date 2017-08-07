@@ -16,7 +16,7 @@ from sklearn import metrics
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import confusion_matrix
 import nltk
-#nltk.download('punkt')
+nltk.download('punkt')
 
 ######## PREPARANDO O CLASSIFICADOR / VECTORIZADOR ########
 cur_dir = os.path.dirname(__file__)
