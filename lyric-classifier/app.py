@@ -16,6 +16,7 @@ from sklearn import metrics
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import confusion_matrix
 import nltk
+#nltk.download('punkt')
 
 ######## PREPARANDO O CLASSIFICADOR / VECTORIZADOR ########
 cur_dir = os.path.dirname(__file__)
@@ -32,7 +33,7 @@ with open(os.path.join(cur_dir, 'resources/stopwords.txt'), 'r') as infile:
 
 # Vectorizador
 with open(os.path.join(cur_dir, 'resources/vectorizer.pkl'), 'rb') as fid:
-    vec = pickle.load(fid)
+   vec = pickle.load(fid)
 
 # Classificador
 with open(os.path.join(cur_dir, 'resources/classifier.pkl'), 'rb') as fid:
@@ -71,4 +72,4 @@ def results():
 	return render_template('index.html', form=form)
 
 if __name__ == '__main__':
-	app.run(debug=True)
+	app.run()
