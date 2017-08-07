@@ -15,8 +15,8 @@ Os arquivos do projeto estão organizador da seguinte forma:
 
 WEBAPP: Para a execução do webapp flask contruído, deve ser seguidos os seguintes passos:
 	1. Instalar o Python 3.6.1 ou superior no computador, bem como os pacotes descritos no arquivo requirements.txt (ou instalar a distribuição Anaconda e o pacote adicional 'wtforms')
-	2. Após extrair a pasta 'lyric-classifier' no computador, executar o seguinte comando no terminal:
-		'python PATH/lyric-classifier/app.py'
+	2. Após extrair o arquivo 'lyric-classifier.zip' em uma pasta no computador, executar o seguinte comando no terminal:
+		'python PATH/lyrics-classifier/app.py'
 	3. Acessar o endereço informado no prompt de comando no navegador, resultante da etapa anterior (em geral, http://127.0.0.1:5000)
 
 OBSERVAÇÕES IMPORTANTES: 
