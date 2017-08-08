@@ -1,48 +1,49 @@
 ---
-title: "An√°lise Bibliom√©trica com R"
+title: "An·lise BibliomÈtrica com R"
 output:
   pdf_document: default
   html_notebook: default
 ---
 
-Neste trabalho irei apresentar o workflow b√°sico para a realiza√ß√£o de uma an√°lise bibliom√©trica utilizando o R e o pacote Bibliometrix a partir dos dados de publica√ß√µes cient√≠ficas obtidas na base de dados [Scopus](http://www.scopus.com). 
+Neste trabalho irei apresentar o workflow b·sico para a realizaÁ„o de uma an·lise bibliomÈtrica utilizando o R e o pacote Bibliometrix a partir dos dados de publicaÁıes cientÌficas obtidas na base de dados [Scopus](http://www.scopus.com). 
 
-A prepara√ß√£o do ambiente (instala√ß√£o do R, RStudio e Bibliometrix) e a obten√ß√£o dos dados seguir√£o conforme a aula apresentada anteriormente. Mais informa√ß√µes sobre estas etapas podem ser obtidas [aqui](http://github.com/diegocavalca/data-science/bibliometric-analysis).
+A preparaÁ„o do ambiente (instalaÁ„o do R, RStudio e Bibliometrix) e a obtenÁ„o dos dados seguir„o conforme a aula apresentada anteriormente. Mais informaÁıes sobre estas etapas podem ser obtidas [aqui](http://github.com/diegocavalca/data-science/bibliometric-analysis).
 
 Este _markdown_ foi desenvolvido baseado no [material oficial](http://htmlpreview.github.io/?https://github.com/massimoaria/bibliometrix/master/vignettes/bibliometrix-vignette.html) do Bibliometrix.
 
 ***
 
-Inicialmente, se faz necess√°rio carregar o pacote _Bibliometrix_ no R, que ir√° ser respons√°vel por todo o processamento e an√°lise de indicadores de nosso trabalho.
+Inicialmente, se faz necess·rio carregar o pacote _Bibliometrix_ no R, que ir· ser respons·vel por todo o processamento e an·lise de indicadores de nosso trabalho.
 ```{r}
 library(bibliometrix)
 ```
 ***
-Com o ambiente preparado, iremos carregar os dados bibliom√©tricos obtidos junto a base de dados Scopus.
+Com o ambiente preparado, iremos carregar os dados bibliomÈtricos obtidos junto a base de dados Scopus.
 ```{r}
-D <- readLines("scopus.bib")
+D <- readLines("scopus2.bib")
 M <- convert2df(D, dbsource = "scopus", format = "bibtex")
 ```
 ***
-Para dar in√≠cio a an√°lise, √© necess√°rio executar o pr√©-processamento dos dados, preparando-os para posterior an√°lise de indicadores. Al√©m disso, algumas m√©tricas interessantes podem ser extra√≠das.
+Para dar inÌcio a an·lise, È necess·rio executar o prÈ-processamento dos dados, preparando-os para posterior an·lise de indicadores. AlÈm disso, algumas mÈtricas interessantes podem ser extraÌdas.
 ```{r}
 ### (grafico) Processar resultados bibliometricos
 results <- biblioAnalysis(M, sep = ";")
 plot(x = results, k = 10, pause = FALSE)
+#View(results$Authors)
 ```
 ***
-Com os dados preparados, o Bibliometrix oferece um resumo completo do conjunto de publica√ß√µes analisados, incluido:
+Com os dados preparados, o Bibliometrix oferece um resumo completo do conjunto de publicaÁıes analisados, incluido:
 
   * Resumo quantitativo
     + Artigos
-    + Peri√≥dicos
+    + PeriÛdicos
     + Palavras-chave (Autorais e Indexadas)
-    + Cita√ß√µes m√©dia por artigo
-    + Per√≠odo contemplado na pesquisa
-  * Evolu√ß√£o hist√≥rica (p/ ano)
+    + CitaÁıes mÈdia por artigo
+    + PerÌodo contemplado na pesquisa
+  * EvoluÁ„o histÛrica (p/ ano)
   * Autores mais produtivos
   * Artigos mais citados
-  * Produ√ß√£o cient√≠fica por pa√≠s
+  * ProduÁ„o cientÌfica por paÌs
   * etc.
 ```{r}
 ### (console) Resumo dos resultados 
@@ -50,9 +51,9 @@ S <- summary(object = results, k = 10, pause = FALSE)
 ```
 ***
 
-√â poss√≠vel tamb√©m realizar uma an√°lise cruzada entre os trabalhos do conjunto de dados onde, por exemplo, extrair quais os papers mais citados no conjunto de dados analisado.
+… possÌvel tambÈm realizar uma an·lise cruzada entre os trabalhos do conjunto de dados onde, por exemplo, extrair quais os papers mais citados no conjunto de dados analisado.
 ```{r}
-### (console/viewer) Refer√™ncias (Papers) mais citadas, no conjunto de dados
+### (console/viewer) ReferÍncias (Papers) mais citadas, no conjunto de dados
 CR_Papers = citations(M, field = "article", sep = ";")
 CR_Papers <- as.data.frame(CR_Papers$Cited[1:10])
 names(CR_Papers) <- c('Paper', 'Citations')
@@ -60,7 +61,7 @@ CR_Papers
 #View(CR_Papers)
 ```
 ***
-Ou ainda, √© poss√≠vel obter os autores mais referenciados dentro do conjunto de dados.
+Ou ainda, È possÌvel obter os autores mais referenciados dentro do conjunto de dados.
 ```{r}
 CR_Authors = citations(M, field = "author", sep = ";")
 CR_Authors <- as.data.frame(CR_Authors$Cited[1:10])
@@ -69,16 +70,16 @@ CR_Authors
 #View(CR_Authors)
 ```
 ***
-O Fator de Domin√¢ncia √© um importante indicador que mensura a produtividade de autores, calculando a raz√£o entre o n√∫mero de trabalhos em que o autor aparece como **Primeiro Autor** e o n√∫mero total de trabalhos multi-autorais em que este aparece.
+O Fator de Domin‚ncia È um importante indicador que mensura a produtividade de autores, calculando a raz„o entre o n˙mero de trabalhos em que o autor aparece como **Primeiro Autor** e o n˙mero total de trabalhos multi-autorais em que este aparece.
 ```{r}
 # k = 10 registros
 DF <- dominance(results, k = 10)
 DF
 ```
 ***
-O √≠ndice-H (H-index) √© outra m√©trica importante para avaliar a relev√¢ncia acad√™mica de um autor. Ela leva em considera√ß√£o o n√∫mero de artigos com cita√ß√µes maiores ou iguais a esse n√∫mero.
+O Ìndice-H (H-index) È outra mÈtrica importante para avaliar a relev‚ncia acadÍmica de um autor. Ela leva em consideraÁ„o o n˙mero de artigos com citaÁıes maiores ou iguais a esse n˙mero.
 
-Por exemplo: um autor com √≠ndice-H = 15 indica que este autor possui 15 artigos com pelo menos 15 cita√ß√µes.
+Por exemplo: um autor com Ìndice-H = 15 indica que este autor possui 15 artigos com pelo menos 15 citaÁıes.
 ```{r}
 authors = gsub(",", " ", names(results$Authors)[1:10])
 indices <- Hindex(M, authors, sep = ";", years=10)
@@ -86,10 +87,10 @@ HI <- indices$H
 HI
 ```
 ***
-Dentro do conjunto de dados, os atributos dos papers est√£o conectados entre si atrav√©s do pr√≥prio paper. Assim, por exemplo, Autor(es) est√£o interconectados com Peri√≥dicos, Palavras-chave com Data de publica√ß√£o, etc.
-Essas conex√µes de diferentes atributos geram redes bipartidas que podem ser representadas como matrizes retangulares (Papers x ATRIBUTO_QUALQUER).
+Dentro do conjunto de dados, os atributos dos papers est„o conectados entre si atravÈs do prÛprio paper. Assim, por exemplo, Autor(es) est„o interconectados com PeriÛdicos, Palavras-chave com Data de publicaÁ„o, etc.
+Essas conexıes de diferentes atributos geram redes bipartidas que podem ser representadas como matrizes retangulares (Papers x ATRIBUTO_QUALQUER).
 
-Logo, por exemplo, √© poss√≠vel gerar uma rede que apresenta o comportamento colaborativo entre pa√≠ses dentro da √°rea de pesquisa em quest√£o, ou seja, representa o modo como ocorre a transfer√™ncia de conhecimento acad√™mico.
+Logo, por exemplo, È possÌvel gerar uma rede que apresenta o comportamento colaborativo entre paÌses dentro da ·rea de pesquisa em quest„o, ou seja, representa o modo como ocorre a transferÍncia de conhecimento acadÍmico.
 
 ```{r, fig.width=8, fig.height=8}
 M <- metaTagExtraction(M, Field = "AU_CO", sep = ";")
@@ -98,7 +99,7 @@ networkPlot(NetMatrix, n = 20, Title = "Country Collaboration", type = "circle",
 ```
 ***
 
-Ou tamb√©m, pode ser gerado uma rede de coocorr√™ncias de palavras-chave, permitindo analisar sub√°reas da √°rea de conhecimento estudada.
+Ou tambÈm, pode ser gerado uma rede de coocorrÍncias de palavras-chave, permitindo analisar sub·reas da ·rea de conhecimento estudada.
 ```{r, fig.width=10, fig.height=10}
 
 # (grafico) Rede de co-ocorrencias de palavras-chave (20 keywords)
@@ -106,12 +107,12 @@ NetMatrix <- biblioNetwork(M, analysis = "co-occurrences", network = "keywords",
 networkPlot(NetMatrix, n = 20, Title = "Keyword Co-occurrences", type = "kamada", size=T)
 ```
 ***
-## Conclus√£o
+## Conclus„o
 
-Portanto, a linguagem R juntamente com o pacote Bibliometrix fornecem mecanismos eficientes para realizar a an√°lise bibliom√©trica em conjuntos de publica√ß√µes acad√™micas obtidos na Scopus, permitindo extrair conhecimento importante a partir de indicadores relevantes, os quais podem agregar qualidade na produ√ß√£o cient√≠fica em quaisquer √°reas do conhecimento.
+Portanto, a linguagem R juntamente com o pacote Bibliometrix fornecem mecanismos eficientes para realizar a an·lise bibliomÈtrica em conjuntos de publicaÁıes acadÍmicas obtidos na Scopus, permitindo extrair conhecimento importante a partir de indicadores relevantes, os quais podem agregar qualidade na produÁ„o cientÌfica em quaisquer ·reas do conhecimento.
 
 ***
-## Refer√™ncias
+## ReferÍncias
 
 * http://r-project.org/
 * http://www.bibliometrix.org/
