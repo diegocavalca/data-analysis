@@ -1,0 +1,5571 @@
+CodUF;Codigo;Nome;UF
+12;120001;Acrelândia;Acre
+12;120005;Assis Brasil;Acre
+12;120010;Brasiléia;Acre
+12;120013;Bujari;Acre
+12;120017;Capixaba;Acre
+12;120020;Cruzeiro do Sul;Acre
+12;120025;Epitaciolândia;Acre
+12;120030;Feijó;Acre
+12;120032;Jordão;Acre
+12;120033;Mâncio Lima;Acre
+12;120034;Manoel Urbano;Acre
+12;120035;Marechal Thaumaturgo;Acre
+12;120038;Plácido de Castro;Acre
+12;120080;Porto Acre;Acre
+12;120039;Porto Walter;Acre
+12;120040;Rio Branco;Acre
+12;120042;Rodrigues Alves;Acre
+12;120043;Santa Rosa do Purus;Acre
+12;120050;Sena Madureira;Acre
+12;120045;Senador Guiomard;Acre
+12;120060;Tarauacá;Acre
+12;120070;Xapuri;Acre
+27;270010;Água Branca;Alagoas
+27;270020;Anadia;Alagoas
+27;270030;Arapiraca;Alagoas
+27;270040;Atalaia;Alagoas
+27;270050;Barra de Santo Antônio;Alagoas
+27;270060;Barra de São Miguel;Alagoas
+27;270070;Batalha;Alagoas
+27;270080;Belém;Alagoas
+27;270090;Belo Monte;Alagoas
+27;270100;Boca da Mata;Alagoas
+27;270110;Branquinha;Alagoas
+27;270120;Cacimbinhas;Alagoas
+27;270130;Cajueiro;Alagoas
+27;270135;Campestre;Alagoas
+27;270140;Campo Alegre;Alagoas
+27;270150;Campo Grande;Alagoas
+27;270160;Canapi;Alagoas
+27;270170;Capela;Alagoas
+27;270180;Carneiros;Alagoas
+27;270190;Chã Preta;Alagoas
+27;270200;Coité do Nóia;Alagoas
+27;270210;Colônia Leopoldina;Alagoas
+27;270220;Coqueiro Seco;Alagoas
+27;270230;Coruripe;Alagoas
+27;270235;Craíbas;Alagoas
+27;270240;Delmiro Gouveia;Alagoas
+27;270250;Dois Riachos;Alagoas
+27;270255;Estrela de Alagoas;Alagoas
+27;270260;Feira Grande;Alagoas
+27;270270;Feliz Deserto;Alagoas
+27;270280;Flexeiras;Alagoas
+27;270290;Girau do Ponciano;Alagoas
+27;270300;Ibateguara;Alagoas
+27;270310;Igaci;Alagoas
+27;270320;Igreja Nova;Alagoas
+27;270330;Inhapi;Alagoas
+27;270340;Jacaré dos Homens;Alagoas
+27;270350;Jacuípe;Alagoas
+27;270360;Japaratinga;Alagoas
+27;270370;Jaramataia;Alagoas
+27;270375;Jequiá da Praia;Alagoas
+27;270380;Joaquim Gomes;Alagoas
+27;270390;Jundiá;Alagoas
+27;270400;Junqueiro;Alagoas
+27;270410;Lagoa da Canoa;Alagoas
+27;270420;Limoeiro de Anadia;Alagoas
+27;270430;Maceió;Alagoas
+27;270440;Major Isidoro;Alagoas
+27;270490;Mar Vermelho;Alagoas
+27;270450;Maragogi;Alagoas
+27;270460;Maravilha;Alagoas
+27;270470;Marechal Deodoro;Alagoas
+27;270480;Maribondo;Alagoas
+27;270500;Mata Grande;Alagoas
+27;270510;Matriz de Camaragibe;Alagoas
+27;270520;Messias;Alagoas
+27;270530;Minador do Negrão;Alagoas
+27;270540;Monteirópolis;Alagoas
+27;270550;Murici;Alagoas
+27;270560;Novo Lino;Alagoas
+27;270570;Olho d'Água das Flores;Alagoas
+27;270580;Olho d'Água do Casado;Alagoas
+27;270590;Olho d'Água Grande;Alagoas
+27;270600;Olivença;Alagoas
+27;270610;Ouro Branco;Alagoas
+27;270620;Palestina;Alagoas
+27;270630;Palmeira dos Índios;Alagoas
+27;270640;Pão de Açúcar;Alagoas
+27;270642;Pariconha;Alagoas
+27;270644;Paripueira;Alagoas
+27;270650;Passo de Camaragibe;Alagoas
+27;270660;Paulo Jacinto;Alagoas
+27;270670;Penedo;Alagoas
+27;270680;Piaçabuçu;Alagoas
+27;270690;Pilar;Alagoas
+27;270700;Pindoba;Alagoas
+27;270710;Piranhas;Alagoas
+27;270720;Poço das Trincheiras;Alagoas
+27;270730;Porto Calvo;Alagoas
+27;270740;Porto de Pedras;Alagoas
+27;270750;Porto Real do Colégio;Alagoas
+27;270760;Quebrangulo;Alagoas
+27;270770;Rio Largo;Alagoas
+27;270780;Roteiro;Alagoas
+27;270790;Santa Luzia do Norte;Alagoas
+27;270800;Santana do Ipanema;Alagoas
+27;270810;Santana do Mundaú;Alagoas
+27;270820;São Brás;Alagoas
+27;270830;São José da Laje;Alagoas
+27;270840;São José da Tapera;Alagoas
+27;270850;São Luís do Quitunde;Alagoas
+27;270860;São Miguel dos Campos;Alagoas
+27;270870;São Miguel dos Milagres;Alagoas
+27;270880;São Sebastião;Alagoas
+27;270890;Satuba;Alagoas
+27;270895;Senador Rui Palmeira;Alagoas
+27;270900;Tanque d'Arca;Alagoas
+27;270910;Taquarana;Alagoas
+27;270915;Teotônio Vilela;Alagoas
+27;270920;Traipu;Alagoas
+27;270930;União dos Palmares;Alagoas
+27;270940;Viçosa;Alagoas
+16;160010;Amapá;Amapa
+16;160020;Calçoene;Amapa
+16;160021;Cutias;Amapa
+16;160023;Ferreira Gomes;Amapa
+16;160025;Itaubal;Amapa
+16;160027;Laranjal do Jari;Amapa
+16;160030;Macapá;Amapa
+16;160040;Mazagão;Amapa
+16;160050;Oiapoque;Amapa
+16;160015;Pedra Branca do Amapari;Amapa
+16;160053;Porto Grande;Amapa
+16;160055;Pracuúba;Amapa
+16;160060;Santana;Amapa
+16;160005;Serra do Navio;Amapa
+16;160070;Tartarugalzinho;Amapa
+16;160080;Vitória do Jari;Amapa
+13;130002;Alvarães;Amazonas
+13;130006;Amaturá;Amazonas
+13;130008;Anamã;Amazonas
+13;130010;Anori;Amazonas
+13;130014;Apuí;Amazonas
+13;130020;Atalaia do Norte;Amazonas
+13;130030;Autazes;Amazonas
+13;130040;Barcelos;Amazonas
+13;130050;Barreirinha;Amazonas
+13;130060;Benjamin Constant;Amazonas
+13;130063;Beruri;Amazonas
+13;130068;Boa Vista do Ramos;Amazonas
+13;130070;Boca do Acre;Amazonas
+13;130080;Borba;Amazonas
+13;130083;Caapiranga;Amazonas
+13;130090;Canutama;Amazonas
+13;130100;Carauari;Amazonas
+13;130110;Careiro;Amazonas
+13;130115;Careiro da Várzea;Amazonas
+13;130120;Coari;Amazonas
+13;130130;Codajás;Amazonas
+13;130140;Eirunepé;Amazonas
+13;130150;Envira;Amazonas
+13;130160;Fonte Boa;Amazonas
+13;130165;Guajará;Amazonas
+13;130170;Humaitá;Amazonas
+13;130180;Ipixuna;Amazonas
+13;130185;Iranduba;Amazonas
+13;130190;Itacoatiara;Amazonas
+13;130195;Itamarati;Amazonas
+13;130200;Itapiranga;Amazonas
+13;130210;Japurá;Amazonas
+13;130220;Juruá;Amazonas
+13;130230;Jutaí;Amazonas
+13;130240;Lábrea;Amazonas
+13;130250;Manacapuru;Amazonas
+13;130255;Manaquiri;Amazonas
+13;130260;Manaus;Amazonas
+13;130270;Manicoré;Amazonas
+13;130280;Maraã;Amazonas
+13;130290;Maués;Amazonas
+13;130300;Nhamundá;Amazonas
+13;130310;Nova Olinda do Norte;Amazonas
+13;130320;Novo Airão;Amazonas
+13;130330;Novo Aripuanã;Amazonas
+13;130340;Parintins;Amazonas
+13;130350;Pauini;Amazonas
+13;130353;Presidente Figueiredo;Amazonas
+13;130356;Rio Preto da Eva;Amazonas
+13;130360;Santa Isabel do Rio Negro;Amazonas
+13;130370;Santo Antônio do Içá;Amazonas
+13;130380;São Gabriel da Cachoeira;Amazonas
+13;130390;São Paulo de Olivença;Amazonas
+13;130395;São Sebastião do Uatumã;Amazonas
+13;130400;Silves;Amazonas
+13;130406;Tabatinga;Amazonas
+13;130410;Tapauá;Amazonas
+13;130420;Tefé;Amazonas
+13;130423;Tonantins;Amazonas
+13;130426;Uarini;Amazonas
+13;130430;Urucará;Amazonas
+13;130440;Urucurituba;Amazonas
+29;290010;Abaíra;Bahia
+29;290020;Abaré;Bahia
+29;290030;Acajutiba;Bahia
+29;290035;Adustina;Bahia
+29;290040;Água Fria;Bahia
+29;290060;Aiquara;Bahia
+29;290070;Alagoinhas;Bahia
+29;290080;Alcobaça;Bahia
+29;290090;Almadina;Bahia
+29;290100;Amargosa;Bahia
+29;290110;Amélia Rodrigues;Bahia
+29;290115;América Dourada;Bahia
+29;290120;Anagé;Bahia
+29;290130;Andaraí;Bahia
+29;290135;Andorinha;Bahia
+29;290140;Angical;Bahia
+29;290150;Anguera;Bahia
+29;290160;Antas;Bahia
+29;290170;Antônio Cardoso;Bahia
+29;290180;Antônio Gonçalves;Bahia
+29;290190;Aporá;Bahia
+29;290195;Apuarema;Bahia
+29;290205;Araças;Bahia
+29;290200;Aracatu;Bahia
+29;290210;Araci;Bahia
+29;290220;Aramari;Bahia
+29;290225;Arataca;Bahia
+29;290230;Aratuípe;Bahia
+29;290240;Aurelino Leal;Bahia
+29;290250;Baianópolis;Bahia
+29;290260;Baixa Grande;Bahia
+29;290265;Banzaê;Bahia
+29;290270;Barra;Bahia
+29;290280;Barra da Estiva;Bahia
+29;290290;Barra do Choça;Bahia
+29;290300;Barra do Mendes;Bahia
+29;290310;Barra do Rocha;Bahia
+29;290320;Barreiras;Bahia
+29;290323;Barro Alto;Bahia
+29;290330;Barro Preto;Bahia
+29;290327;Barrocas;Bahia
+29;290340;Belmonte;Bahia
+29;290350;Belo Campo;Bahia
+29;290360;Biritinga;Bahia
+29;290370;Boa Nova;Bahia
+29;290380;Boa Vista do Tupim;Bahia
+29;290390;Bom Jesus da Lapa;Bahia
+29;290395;Bom Jesus da Serra;Bahia
+29;290400;Boninal;Bahia
+29;290405;Bonito;Bahia
+29;290410;Boquira;Bahia
+29;290420;Botuporã;Bahia
+29;290430;Brejões;Bahia
+29;290440;Brejolândia;Bahia
+29;290450;Brotas de Macaúbas;Bahia
+29;290460;Brumado;Bahia
+29;290470;Buerarema;Bahia
+29;290475;Buritirama;Bahia
+29;290480;Caatiba;Bahia
+29;290485;Cabaceiras do Paraguaçu;Bahia
+29;290490;Cachoeira;Bahia
+29;290500;Caculé;Bahia
+29;290510;Caém;Bahia
+29;290515;Caetanos;Bahia
+29;290520;Caetité;Bahia
+29;290530;Cafarnaum;Bahia
+29;290540;Cairu;Bahia
+29;290550;Caldeirão Grande;Bahia
+29;290560;Camacan;Bahia
+29;290570;Camaçari;Bahia
+29;290580;Camamu;Bahia
+29;290590;Campo Alegre de Lourdes;Bahia
+29;290600;Campo Formoso;Bahia
+29;290610;Canápolis;Bahia
+29;290620;Canarana;Bahia
+29;290630;Canavieiras;Bahia
+29;290640;Candeal;Bahia
+29;290650;Candeias;Bahia
+29;290660;Candiba;Bahia
+29;290670;Cândido Sales;Bahia
+29;290680;Cansanção;Bahia
+29;290682;Canudos;Bahia
+29;290685;Capela do Alto Alegre;Bahia
+29;290687;Capim Grosso;Bahia
+29;290689;Caraíbas;Bahia
+29;290690;Caravelas;Bahia
+29;290700;Cardeal da Silva;Bahia
+29;290710;Carinhanha;Bahia
+29;290720;Casa Nova;Bahia
+29;290730;Castro Alves;Bahia
+29;290740;Catolândia;Bahia
+29;290750;Catu;Bahia
+29;290755;Caturama;Bahia
+29;290760;Central;Bahia
+29;290770;Chorrochó;Bahia
+29;290780;Cícero Dantas;Bahia
+29;290790;Cipó;Bahia
+29;290800;Coaraci;Bahia
+29;290810;Cocos;Bahia
+29;290820;Conceição da Feira;Bahia
+29;290830;Conceição do Almeida;Bahia
+29;290840;Conceição do Coité;Bahia
+29;290850;Conceição do Jacuípe;Bahia
+29;290860;Conde;Bahia
+29;290870;Condeúba;Bahia
+29;290880;Contendas do Sincorá;Bahia
+29;290890;Coração de Maria;Bahia
+29;290900;Cordeiros;Bahia
+29;290910;Coribe;Bahia
+29;290920;Coronel João Sá;Bahia
+29;290930;Correntina;Bahia
+29;290940;Cotegipe;Bahia
+29;290950;Cravolândia;Bahia
+29;290960;Crisópolis;Bahia
+29;290970;Cristópolis;Bahia
+29;290980;Cruz das Almas;Bahia
+29;290990;Curaçá;Bahia
+29;291000;Dário Meira;Bahia
+29;291005;Dias d'Ávila;Bahia
+29;291010;Dom Basílio;Bahia
+29;291020;Dom Macedo Costa;Bahia
+29;291030;Elísio Medrado;Bahia
+29;291040;Encruzilhada;Bahia
+29;291050;Entre Rios;Bahia
+29;290050;Érico Cardoso;Bahia
+29;291060;Esplanada;Bahia
+29;291070;Euclides da Cunha;Bahia
+29;291072;Eunápolis;Bahia
+29;291075;Fátima;Bahia
+29;291077;Feira da Mata;Bahia
+29;291080;Feira de Santana;Bahia
+29;291085;Filadélfia;Bahia
+29;291090;Firmino Alves;Bahia
+29;291100;Floresta Azul;Bahia
+29;291110;Formosa do Rio Preto;Bahia
+29;291120;Gandu;Bahia
+29;291125;Gavião;Bahia
+29;291130;Gentio do Ouro;Bahia
+29;291140;Glória;Bahia
+29;291150;Gongogi;Bahia
+29;291160;Governador Mangabeira;Bahia
+29;291165;Guajeru;Bahia
+29;291170;Guanambi;Bahia
+29;291180;Guaratinga;Bahia
+29;291185;Heliópolis;Bahia
+29;291190;Iaçu;Bahia
+29;291200;Ibiassucê;Bahia
+29;291210;Ibicaraí;Bahia
+29;291220;Ibicoara;Bahia
+29;291230;Ibicuí;Bahia
+29;291240;Ibipeba;Bahia
+29;291250;Ibipitanga;Bahia
+29;291260;Ibiquera;Bahia
+29;291270;Ibirapitanga;Bahia
+29;291280;Ibirapuã;Bahia
+29;291290;Ibirataia;Bahia
+29;291300;Ibitiara;Bahia
+29;291310;Ibititá;Bahia
+29;291320;Ibotirama;Bahia
+29;291330;Ichu;Bahia
+29;291340;Igaporã;Bahia
+29;291345;Igrapiúna;Bahia
+29;291350;Iguaí;Bahia
+29;291360;Ilhéus;Bahia
+29;291370;Inhambupe;Bahia
+29;291380;Ipecaetá;Bahia
+29;291390;Ipiaú;Bahia
+29;291400;Ipirá;Bahia
+29;291410;Ipupiara;Bahia
+29;291420;Irajuba;Bahia
+29;291430;Iramaia;Bahia
+29;291440;Iraquara;Bahia
+29;291450;Irará;Bahia
+29;291460;Irecê;Bahia
+29;291465;Itabela;Bahia
+29;291470;Itaberaba;Bahia
+29;291480;Itabuna;Bahia
+29;291490;Itacaré;Bahia
+29;291500;Itaeté;Bahia
+29;291510;Itagi;Bahia
+29;291520;Itagibá;Bahia
+29;291530;Itagimirim;Bahia
+29;291535;Itaguaçu da Bahia;Bahia
+29;291540;Itaju do Colônia;Bahia
+29;291550;Itajuípe;Bahia
+29;291560;Itamaraju;Bahia
+29;291570;Itamari;Bahia
+29;291580;Itambé;Bahia
+29;291590;Itanagra;Bahia
+29;291600;Itanhém;Bahia
+29;291610;Itaparica;Bahia
+29;291620;Itapé;Bahia
+29;291630;Itapebi;Bahia
+29;291640;Itapetinga;Bahia
+29;291650;Itapicuru;Bahia
+29;291660;Itapitanga;Bahia
+29;291670;Itaquara;Bahia
+29;291680;Itarantim;Bahia
+29;291685;Itatim;Bahia
+29;291690;Itiruçu;Bahia
+29;291700;Itiúba;Bahia
+29;291710;Itororó;Bahia
+29;291720;Ituaçu;Bahia
+29;291730;Ituberá;Bahia
+29;291733;Iuiú;Bahia
+29;291735;Jaborandi;Bahia
+29;291740;Jacaraci;Bahia
+29;291750;Jacobina;Bahia
+29;291760;Jaguaquara;Bahia
+29;291770;Jaguarari;Bahia
+29;291780;Jaguaripe;Bahia
+29;291790;Jandaíra;Bahia
+29;291800;Jequié;Bahia
+29;291810;Jeremoabo;Bahia
+29;291820;Jiquiriçá;Bahia
+29;291830;Jitaúna;Bahia
+29;291835;João Dourado;Bahia
+29;291840;Juazeiro;Bahia
+29;291845;Jucuruçu;Bahia
+29;291850;Jussara;Bahia
+29;291855;Jussari;Bahia
+29;291860;Jussiape;Bahia
+29;291870;Lafaiete Coutinho;Bahia
+29;291875;Lagoa Real;Bahia
+29;291880;Laje;Bahia
+29;291890;Lajedão;Bahia
+29;291900;Lajedinho;Bahia
+29;291905;Lajedo do Tabocal;Bahia
+29;291910;Lamarão;Bahia
+29;291915;Lapão;Bahia
+29;291920;Lauro de Freitas;Bahia
+29;291930;Lençóis;Bahia
+29;291940;Licínio de Almeida;Bahia
+29;291950;Livramento de Nossa Senhora;Bahia
+29;291955;Luís Eduardo Magalhães;Bahia
+29;291960;Macajuba;Bahia
+29;291970;Macarani;Bahia
+29;291980;Macaúbas;Bahia
+29;291990;Macururé;Bahia
+29;291992;Madre de Deus;Bahia
+29;291995;Maetinga;Bahia
+29;292000;Maiquinique;Bahia
+29;292010;Mairi;Bahia
+29;292020;Malhada;Bahia
+29;292030;Malhada de Pedras;Bahia
+29;292040;Manoel Vitorino;Bahia
+29;292045;Mansidão;Bahia
+29;292050;Maracás;Bahia
+29;292060;Maragogipe;Bahia
+29;292070;Maraú;Bahia
+29;292080;Marcionílio Souza;Bahia
+29;292090;Mascote;Bahia
+29;292100;Mata de São João;Bahia
+29;292105;Matina;Bahia
+29;292110;Medeiros Neto;Bahia
+29;292120;Miguel Calmon;Bahia
+29;292130;Milagres;Bahia
+29;292140;Mirangaba;Bahia
+29;292145;Mirante;Bahia
+29;292150;Monte Santo;Bahia
+29;292160;Morpará;Bahia
+29;292170;Morro do Chapéu;Bahia
+29;292180;Mortugaba;Bahia
+29;292190;Mucugê;Bahia
+29;292200;Mucuri;Bahia
+29;292205;Mulungu do Morro;Bahia
+29;292210;Mundo Novo;Bahia
+29;292220;Muniz Ferreira;Bahia
+29;292225;Muquém de São Francisco;Bahia
+29;292230;Muritiba;Bahia
+29;292240;Mutuípe;Bahia
+29;292250;Nazaré;Bahia
+29;292260;Nilo Peçanha;Bahia
+29;292265;Nordestina;Bahia
+29;292270;Nova Canaã;Bahia
+29;292273;Nova Fátima;Bahia
+29;292275;Nova Ibiá;Bahia
+29;292280;Nova Itarana;Bahia
+29;292285;Nova Redenção;Bahia
+29;292290;Nova Soure;Bahia
+29;292300;Nova Viçosa;Bahia
+29;292303;Novo Horizonte;Bahia
+29;292305;Novo Triunfo;Bahia
+29;292310;Olindina;Bahia
+29;292320;Oliveira dos Brejinhos;Bahia
+29;292330;Ouriçangas;Bahia
+29;292335;Ourolândia;Bahia
+29;292340;Palmas de Monte Alto;Bahia
+29;292350;Palmeiras;Bahia
+29;292360;Paramirim;Bahia
+29;292370;Paratinga;Bahia
+29;292380;Paripiranga;Bahia
+29;292390;Pau Brasil;Bahia
+29;292400;Paulo Afonso;Bahia
+29;292405;Pé de Serra;Bahia
+29;292410;Pedrão;Bahia
+29;292420;Pedro Alexandre;Bahia
+29;292430;Piatã;Bahia
+29;292440;Pilão Arcado;Bahia
+29;292450;Pindaí;Bahia
+29;292460;Pindobaçu;Bahia
+29;292465;Pintadas;Bahia
+29;292467;Piraí do Norte;Bahia
+29;292470;Piripá;Bahia
+29;292480;Piritiba;Bahia
+29;292490;Planaltino;Bahia
+29;292500;Planalto;Bahia
+29;292510;Poções;Bahia
+29;292520;Pojuca;Bahia
+29;292525;Ponto Novo;Bahia
+29;292530;Porto Seguro;Bahia
+29;292540;Potiraguá;Bahia
+29;292550;Prado;Bahia
+29;292560;Presidente Dutra;Bahia
+29;292570;Presidente Jânio Quadros;Bahia
+29;292575;Presidente Tancredo Neves;Bahia
+29;292580;Queimadas;Bahia
+29;292590;Quijingue;Bahia
+29;292593;Quixabeira;Bahia
+29;292595;Rafael Jambeiro;Bahia
+29;292600;Remanso;Bahia
+29;292610;Retirolândia;Bahia
+29;292620;Riachão das Neves;Bahia
+29;292630;Riachão do Jacuípe;Bahia
+29;292640;Riacho de Santana;Bahia
+29;292650;Ribeira do Amparo;Bahia
+29;292660;Ribeira do Pombal;Bahia
+29;292665;Ribeirão do Largo;Bahia
+29;292670;Rio de Contas;Bahia
+29;292680;Rio do Antônio;Bahia
+29;292690;Rio do Pires;Bahia
+29;292700;Rio Real;Bahia
+29;292710;Rodelas;Bahia
+29;292720;Ruy Barbosa;Bahia
+29;292730;Salinas da Margarida;Bahia
+29;292740;Salvador;Bahia
+29;292750;Santa Bárbara;Bahia
+29;292760;Santa Brígida;Bahia
+29;292770;Santa Cruz Cabrália;Bahia
+29;292780;Santa Cruz da Vitória;Bahia
+29;292790;Santa Inês;Bahia
+29;292805;Santa Luzia;Bahia
+29;292810;Santa Maria da Vitória;Bahia
+29;292840;Santa Rita de Cássia;Bahia
+29;292850;Santa Teresinha;Bahia
+29;292800;Santaluz;Bahia
+29;292820;Santana;Bahia
+29;292830;Santanópolis;Bahia
+29;292860;Santo Amaro;Bahia
+29;292870;Santo Antônio de Jesus;Bahia
+29;292880;Santo Estêvão;Bahia
+29;292890;São Desidério;Bahia
+29;292895;São Domingos;Bahia
+29;292910;São Felipe;Bahia
+29;292900;São Félix;Bahia
+29;292905;São Félix do Coribe;Bahia
+29;292920;São Francisco do Conde;Bahia
+29;292925;São Gabriel;Bahia
+29;292930;São Gonçalo dos Campos;Bahia
+29;292935;São José da Vitória;Bahia
+29;292937;São José do Jacuípe;Bahia
+29;292940;São Miguel das Matas;Bahia
+29;292950;São Sebastião do Passé;Bahia
+29;292960;Sapeaçu;Bahia
+29;292970;Sátiro Dias;Bahia
+29;292975;Saubara;Bahia
+29;292980;Saúde;Bahia
+29;292990;Seabra;Bahia
+29;293000;Sebastião Laranjeiras;Bahia
+29;293010;Senhor do Bonfim;Bahia
+29;293020;Sento Sé;Bahia
+29;293015;Serra do Ramalho;Bahia
+29;293030;Serra Dourada;Bahia
+29;293040;Serra Preta;Bahia
+29;293050;Serrinha;Bahia
+29;293060;Serrolândia;Bahia
+29;293070;Simões Filho;Bahia
+29;293075;Sítio do Mato;Bahia
+29;293076;Sítio do Quinto;Bahia
+29;293077;Sobradinho;Bahia
+29;293080;Souto Soares;Bahia
+29;293090;Tabocas do Brejo Velho;Bahia
+29;293100;Tanhaçu;Bahia
+29;293105;Tanque Novo;Bahia
+29;293110;Tanquinho;Bahia
+29;293120;Taperoá;Bahia
+29;293130;Tapiramutá;Bahia
+29;293135;Teixeira de Freitas;Bahia
+29;293140;Teodoro Sampaio;Bahia
+29;293150;Teofilândia;Bahia
+29;293160;Teolândia;Bahia
+29;293170;Terra Nova;Bahia
+29;293180;Tremedal;Bahia
+29;293190;Tucano;Bahia
+29;293200;Uauá;Bahia
+29;293210;Ubaíra;Bahia
+29;293220;Ubaitaba;Bahia
+29;293230;Ubatã;Bahia
+29;293240;Uibaí;Bahia
+29;293245;Umburanas;Bahia
+29;293250;Una;Bahia
+29;293260;Urandi;Bahia
+29;293270;Uruçuca;Bahia
+29;293280;Utinga;Bahia
+29;293290;Valença;Bahia
+29;293300;Valente;Bahia
+29;293305;Várzea da Roça;Bahia
+29;293310;Várzea do Poço;Bahia
+29;293315;Várzea Nova;Bahia
+29;293317;Varzedo;Bahia
+29;293320;Vera Cruz;Bahia
+29;293325;Vereda;Bahia
+29;293330;Vitória da Conquista;Bahia
+29;293340;Wagner;Bahia
+29;293345;Wanderley;Bahia
+29;293350;Wenceslau Guimarães;Bahia
+29;293360;Xique-Xique;Bahia
+23;230010;Abaiara;Ceara
+23;230015;Acarape;Ceara
+23;230020;Acaraú;Ceara
+23;230030;Acopiara;Ceara
+23;230040;Aiuaba;Ceara
+23;230050;Alcântaras;Ceara
+23;230060;Altaneira;Ceara
+23;230070;Alto Santo;Ceara
+23;230075;Amontada;Ceara
+23;230080;Antonina do Norte;Ceara
+23;230090;Apuiarés;Ceara
+23;230100;Aquiraz;Ceara
+23;230110;Aracati;Ceara
+23;230120;Aracoiaba;Ceara
+23;230125;Ararendá;Ceara
+23;230130;Araripe;Ceara
+23;230140;Aratuba;Ceara
+23;230150;Arneiroz;Ceara
+23;230160;Assaré;Ceara
+23;230170;Aurora;Ceara
+23;230180;Baixio;Ceara
+23;230185;Banabuiú;Ceara
+23;230190;Barbalha;Ceara
+23;230195;Barreira;Ceara
+23;230200;Barro;Ceara
+23;230205;Barroquinha;Ceara
+23;230210;Baturité;Ceara
+23;230220;Beberibe;Ceara
+23;230230;Bela Cruz;Ceara
+23;230240;Boa Viagem;Ceara
+23;230250;Brejo Santo;Ceara
+23;230260;Camocim;Ceara
+23;230270;Campos Sales;Ceara
+23;230280;Canindé;Ceara
+23;230290;Capistrano;Ceara
+23;230300;Caridade;Ceara
+23;230310;Cariré;Ceara
+23;230320;Caririaçu;Ceara
+23;230330;Cariús;Ceara
+23;230340;Carnaubal;Ceara
+23;230350;Cascavel;Ceara
+23;230360;Catarina;Ceara
+23;230365;Catunda;Ceara
+23;230370;Caucaia;Ceara
+23;230380;Cedro;Ceara
+23;230390;Chaval;Ceara
+23;230393;Choró;Ceara
+23;230395;Chorozinho;Ceara
+23;230400;Coreaú;Ceara
+23;230410;Crateús;Ceara
+23;230420;Crato;Ceara
+23;230423;Croatá;Ceara
+23;230425;Cruz;Ceara
+23;230426;Deputado Irapuan Pinheiro;Ceara
+23;230427;Ererê;Ceara
+23;230428;Eusébio;Ceara
+23;230430;Farias Brito;Ceara
+23;230435;Forquilha;Ceara
+23;230440;Fortaleza;Ceara
+23;230445;Fortim;Ceara
+23;230450;Frecheirinha;Ceara
+23;230460;General Sampaio;Ceara
+23;230465;Graça;Ceara
+23;230470;Granja;Ceara
+23;230480;Granjeiro;Ceara
+23;230490;Groaíras;Ceara
+23;230495;Guaiúba;Ceara
+23;230500;Guaraciaba do Norte;Ceara
+23;230510;Guaramiranga;Ceara
+23;230520;Hidrolândia;Ceara
+23;230523;Horizonte;Ceara
+23;230526;Ibaretama;Ceara
+23;230530;Ibiapina;Ceara
+23;230533;Ibicuitinga;Ceara
+23;230535;Icapuí;Ceara
+23;230540;Icó;Ceara
+23;230550;Iguatu;Ceara
+23;230560;Independência;Ceara
+23;230565;Ipaporanga;Ceara
+23;230570;Ipaumirim;Ceara
+23;230580;Ipu;Ceara
+23;230590;Ipueiras;Ceara
+23;230600;Iracema;Ceara
+23;230610;Irauçuba;Ceara
+23;230620;Itaiçaba;Ceara
+23;230625;Itaitinga;Ceara
+23;230630;Itapagé;Ceara
+23;230640;Itapipoca;Ceara
+23;230650;Itapiúna;Ceara
+23;230655;Itarema;Ceara
+23;230660;Itatira;Ceara
+23;230670;Jaguaretama;Ceara
+23;230680;Jaguaribara;Ceara
+23;230690;Jaguaribe;Ceara
+23;230700;Jaguaruana;Ceara
+23;230710;Jardim;Ceara
+23;230720;Jati;Ceara
+23;230725;Jijoca de Jericoacoara;Ceara
+23;230730;Juazeiro do Norte;Ceara
+23;230740;Jucás;Ceara
+23;230750;Lavras da Mangabeira;Ceara
+23;230760;Limoeiro do Norte;Ceara
+23;230763;Madalena;Ceara
+23;230765;Maracanaú;Ceara
+23;230770;Maranguape;Ceara
+23;230780;Marco;Ceara
+23;230790;Martinópole;Ceara
+23;230800;Massapê;Ceara
+23;230810;Mauriti;Ceara
+23;230820;Meruoca;Ceara
+23;230830;Milagres;Ceara
+23;230835;Milhã;Ceara
+23;230837;Miraíma;Ceara
+23;230840;Missão Velha;Ceara
+23;230850;Mombaça;Ceara
+23;230860;Monsenhor Tabosa;Ceara
+23;230870;Morada Nova;Ceara
+23;230880;Moraújo;Ceara
+23;230890;Morrinhos;Ceara
+23;230900;Mucambo;Ceara
+23;230910;Mulungu;Ceara
+23;230920;Nova Olinda;Ceara
+23;230930;Nova Russas;Ceara
+23;230940;Novo Oriente;Ceara
+23;230945;Ocara;Ceara
+23;230950;Orós;Ceara
+23;230960;Pacajus;Ceara
+23;230970;Pacatuba;Ceara
+23;230980;Pacoti;Ceara
+23;230990;Pacujá;Ceara
+23;231000;Palhano;Ceara
+23;231010;Palmácia;Ceara
+23;231020;Paracuru;Ceara
+23;231025;Paraipaba;Ceara
+23;231030;Parambu;Ceara
+23;231040;Paramoti;Ceara
+23;231050;Pedra Branca;Ceara
+23;231060;Penaforte;Ceara
+23;231070;Pentecoste;Ceara
+23;231080;Pereiro;Ceara
+23;231085;Pindoretama;Ceara
+23;231090;Piquet Carneiro;Ceara
+23;231095;Pires Ferreira;Ceara
+23;231100;Poranga;Ceara
+23;231110;Porteiras;Ceara
+23;231120;Potengi;Ceara
+23;231123;Potiretama;Ceara
+23;231126;Quiterianópolis;Ceara
+23;231130;Quixadá;Ceara
+23;231135;Quixelô;Ceara
+23;231140;Quixeramobim;Ceara
+23;231150;Quixeré;Ceara
+23;231160;Redenção;Ceara
+23;231170;Reriutaba;Ceara
+23;231180;Russas;Ceara
+23;231190;Saboeiro;Ceara
+23;231195;Salitre;Ceara
+23;231220;Santa Quitéria;Ceara
+23;231200;Santana do Acaraú;Ceara
+23;231210;Santana do Cariri;Ceara
+23;231230;São Benedito;Ceara
+23;231240;São Gonçalo do Amarante;Ceara
+23;231250;São João do Jaguaribe;Ceara
+23;231260;São Luís do Curu;Ceara
+23;231270;Senador Pompeu;Ceara
+23;231280;Senador Sá;Ceara
+23;231290;Sobral;Ceara
+23;231300;Solonópole;Ceara
+23;231310;Tabuleiro do Norte;Ceara
+23;231320;Tamboril;Ceara
+23;231325;Tarrafas;Ceara
+23;231330;Tauá;Ceara
+23;231335;Tejuçuoca;Ceara
+23;231340;Tianguá;Ceara
+23;231350;Trairi;Ceara
+23;231355;Tururu;Ceara
+23;231360;Ubajara;Ceara
+23;231370;Umari;Ceara
+23;231375;Umirim;Ceara
+23;231380;Uruburetama;Ceara
+23;231390;Uruoca;Ceara
+23;231395;Varjota;Ceara
+23;231400;Várzea Alegre;Ceara
+23;231410;Viçosa do Ceará;Ceara
+53;53;Brasília;Distrito Federal
+32;320010;Afonso Cláudio;Espirito Santo
+32;320016;Água Doce do Norte;Espirito Santo
+32;320013;Águia Branca;Espirito Santo
+32;320020;Alegre;Espirito Santo
+32;320030;Alfredo Chaves;Espirito Santo
+32;320035;Alto Rio Novo;Espirito Santo
+32;320040;Anchieta;Espirito Santo
+32;320050;Apiacá;Espirito Santo
+32;320060;Aracruz;Espirito Santo
+32;320070;Atilio Vivacqua;Espirito Santo
+32;320080;Baixo Guandu;Espirito Santo
+32;320090;Barra de São Francisco;Espirito Santo
+32;320100;Boa Esperança;Espirito Santo
+32;320110;Bom Jesus do Norte;Espirito Santo
+32;320115;Brejetuba;Espirito Santo
+32;320120;Cachoeiro de Itapemirim;Espirito Santo
+32;320130;Cariacica;Espirito Santo
+32;320140;Castelo;Espirito Santo
+32;320150;Colatina;Espirito Santo
+32;320160;Conceição da Barra;Espirito Santo
+32;320170;Conceição do Castelo;Espirito Santo
+32;320180;Divino de São Lourenço;Espirito Santo
+32;320190;Domingos Martins;Espirito Santo
+32;320200;Dores do Rio Preto;Espirito Santo
+32;320210;Ecoporanga;Espirito Santo
+32;320220;Fundão;Espirito Santo
+32;320225;Governador Lindenberg;Espirito Santo
+32;320230;Guaçuí;Espirito Santo
+32;320240;Guarapari;Espirito Santo
+32;320245;Ibatiba;Espirito Santo
+32;320250;Ibiraçu;Espirito Santo
+32;320255;Ibitirama;Espirito Santo
+32;320260;Iconha;Espirito Santo
+32;320265;Irupi;Espirito Santo
+32;320270;Itaguaçu;Espirito Santo
+32;320280;Itapemirim;Espirito Santo
+32;320290;Itarana;Espirito Santo
+32;320300;Iúna;Espirito Santo
+32;320305;Jaguaré;Espirito Santo
+32;320310;Jerônimo Monteiro;Espirito Santo
+32;320313;João Neiva;Espirito Santo
+32;320316;Laranja da Terra;Espirito Santo
+32;320320;Linhares;Espirito Santo
+32;320330;Mantenópolis;Espirito Santo
+32;320332;Marataízes;Espirito Santo
+32;320334;Marechal Floriano;Espirito Santo
+32;320335;Marilândia;Espirito Santo
+32;320340;Mimoso do Sul;Espirito Santo
+32;320350;Montanha;Espirito Santo
+32;320360;Mucurici;Espirito Santo
+32;320370;Muniz Freire;Espirito Santo
+32;320380;Muqui;Espirito Santo
+32;320390;Nova Venécia;Espirito Santo
+32;320400;Pancas;Espirito Santo
+32;320405;Pedro Canário;Espirito Santo
+32;320410;Pinheiros;Espirito Santo
+32;320420;Piúma;Espirito Santo
+32;320425;Ponto Belo;Espirito Santo
+32;320430;Presidente Kennedy;Espirito Santo
+32;320435;Rio Bananal;Espirito Santo
+32;320440;Rio Novo do Sul;Espirito Santo
+32;320450;Santa Leopoldina;Espirito Santo
+32;320455;Santa Maria de Jetibá;Espirito Santo
+32;320460;Santa Teresa;Espirito Santo
+32;320465;São Domingos do Norte;Espirito Santo
+32;320470;São Gabriel da Palha;Espirito Santo
+32;320480;São José do Calçado;Espirito Santo
+32;320490;São Mateus;Espirito Santo
+32;320495;São Roque do Canaã;Espirito Santo
+32;320500;Serra;Espirito Santo
+32;320501;Sooretama;Espirito Santo
+32;320503;Vargem Alta;Espirito Santo
+32;320506;Venda Nova do Imigrante;Espirito Santo
+32;320510;Viana;Espirito Santo
+32;320515;Vila Pavão;Espirito Santo
+32;320517;Vila Valério;Espirito Santo
+32;320520;Vila Velha;Espirito Santo
+32;320530;Vitória;Espirito Santo
+52;520005;Abadia de Goiás;Goias
+52;520010;Abadiânia;Goias
+52;520013;Acreúna;Goias
+52;520015;Adelândia;Goias
+52;520017;Água Fria de Goiás;Goias
+52;520020;Água Limpa;Goias
+52;520025;Águas Lindas de Goiás;Goias
+52;520030;Alexânia;Goias
+52;520050;Aloândia;Goias
+52;520055;Alto Horizonte;Goias
+52;520060;Alto Paraíso de Goiás;Goias
+52;520080;Alvorada do Norte;Goias
+52;520082;Amaralina;Goias
+52;520085;Americano do Brasil;Goias
+52;520090;Amorinópolis;Goias
+52;520110;Anápolis;Goias
+52;520120;Anhanguera;Goias
+52;520130;Anicuns;Goias
+52;520140;Aparecida de Goiânia;Goias
+52;520145;Aparecida do Rio Doce;Goias
+52;520150;Aporé;Goias
+52;520160;Araçu;Goias
+52;520170;Aragarças;Goias
+52;520180;Aragoiânia;Goias
+52;520215;Araguapaz;Goias
+52;520235;Arenópolis;Goias
+52;520250;Aruanã;Goias
+52;520260;Aurilândia;Goias
+52;520280;Avelinópolis;Goias
+52;520310;Baliza;Goias
+52;520320;Barro Alto;Goias
+52;520330;Bela Vista de Goiás;Goias
+52;520340;Bom Jardim de Goiás;Goias
+52;520350;Bom Jesus de Goiás;Goias
+52;520355;Bonfinópolis;Goias
+52;520357;Bonópolis;Goias
+52;520360;Brazabrantes;Goias
+52;520380;Britânia;Goias
+52;520390;Buriti Alegre;Goias
+52;520393;Buriti de Goiás;Goias
+52;520396;Buritinópolis;Goias
+52;520400;Cabeceiras;Goias
+52;520410;Cachoeira Alta;Goias
+52;520420;Cachoeira de Goiás;Goias
+52;520425;Cachoeira Dourada;Goias
+52;520430;Caçu;Goias
+52;520440;Caiapônia;Goias
+52;520450;Caldas Novas;Goias
+52;520455;Caldazinha;Goias
+52;520460;Campestre de Goiás;Goias
+52;520465;Campinaçu;Goias
+52;520470;Campinorte;Goias
+52;520480;Campo Alegre de Goiás;Goias
+52;520485;Campo Limpo de Goiás;Goias
+52;520490;Campos Belos;Goias
+52;520495;Campos Verdes;Goias
+52;520500;Carmo do Rio Verde;Goias
+52;520505;Castelândia;Goias
+52;520510;Catalão;Goias
+52;520520;Caturaí;Goias
+52;520530;Cavalcante;Goias
+52;520540;Ceres;Goias
+52;520545;Cezarina;Goias
+52;520547;Chapadão do Céu;Goias
+52;520549;Cidade Ocidental;Goias
+52;520551;Cocalzinho de Goiás;Goias
+52;520552;Colinas do Sul;Goias
+52;520570;Córrego do Ouro;Goias
+52;520580;Corumbá de Goiás;Goias
+52;520590;Corumbaíba;Goias
+52;520620;Cristalina;Goias
+52;520630;Cristianópolis;Goias
+52;520640;Crixás;Goias
+52;520650;Cromínia;Goias
+52;520660;Cumari;Goias
+52;520670;Damianópolis;Goias
+52;520680;Damolândia;Goias
+52;520690;Davinópolis;Goias
+52;520710;Diorama;Goias
+52;520830;Divinópolis de Goiás;Goias
+52;520725;Doverlândia;Goias
+52;520735;Edealina;Goias
+52;520740;Edéia;Goias
+52;520750;Estrela do Norte;Goias
+52;520753;Faina;Goias
+52;520760;Fazenda Nova;Goias
+52;520780;Firminópolis;Goias
+52;520790;Flores de Goiás;Goias
+52;520800;Formosa;Goias
+52;520810;Formoso;Goias
+52;520815;Gameleira de Goiás;Goias
+52;520840;Goianápolis;Goias
+52;520850;Goiandira;Goias
+52;520860;Goianésia;Goias
+52;520870;Goiânia;Goias
+52;520880;Goianira;Goias
+52;520890;Goiás;Goias
+52;520910;Goiatuba;Goias
+52;520915;Gouvelândia;Goias
+52;520920;Guapó;Goias
+52;520929;Guaraíta;Goias
+52;520940;Guarani de Goiás;Goias
+52;520945;Guarinos;Goias
+52;520960;Heitoraí;Goias
+52;520970;Hidrolândia;Goias
+52;520980;Hidrolina;Goias
+52;520990;Iaciara;Goias
+52;520993;Inaciolândia;Goias
+52;520995;Indiara;Goias
+52;521000;Inhumas;Goias
+52;521010;Ipameri;Goias
+52;521015;Ipiranga de Goiás;Goias
+52;521020;Iporá;Goias
+52;521030;Israelândia;Goias
+52;521040;Itaberaí;Goias
+52;521056;Itaguari;Goias
+52;521060;Itaguaru;Goias
+52;521080;Itajá;Goias
+52;521090;Itapaci;Goias
+52;521100;Itapirapuã;Goias
+52;521120;Itapuranga;Goias
+52;521130;Itarumã;Goias
+52;521140;Itauçu;Goias
+52;521150;Itumbiara;Goias
+52;521160;Ivolândia;Goias
+52;521170;Jandaia;Goias
+52;521180;Jaraguá;Goias
+52;521190;Jataí;Goias
+52;521200;Jaupaci;Goias
+52;521205;Jesúpolis;Goias
+52;521210;Joviânia;Goias
+52;521220;Jussara;Goias
+52;521225;Lagoa Santa;Goias
+52;521230;Leopoldo de Bulhões;Goias
+52;521250;Luziânia;Goias
+52;521260;Mairipotaba;Goias
+52;521270;Mambaí;Goias
+52;521280;Mara Rosa;Goias
+52;521290;Marzagão;Goias
+52;521295;Matrinchã;Goias
+52;521300;Maurilândia;Goias
+52;521305;Mimoso de Goiás;Goias
+52;521308;Minaçu;Goias
+52;521310;Mineiros;Goias
+52;521340;Moiporá;Goias
+52;521350;Monte Alegre de Goiás;Goias
+52;521370;Montes Claros de Goiás;Goias
+52;521375;Montividiu;Goias
+52;521377;Montividiu do Norte;Goias
+52;521380;Morrinhos;Goias
+52;521385;Morro Agudo de Goiás;Goias
+52;521390;Mossâmedes;Goias
+52;521400;Mozarlândia;Goias
+52;521405;Mundo Novo;Goias
+52;521410;Mutunópolis;Goias
+52;521440;Nazário;Goias
+52;521450;Nerópolis;Goias
+52;521460;Niquelândia;Goias
+52;521470;Nova América;Goias
+52;521480;Nova Aurora;Goias
+52;521483;Nova Crixás;Goias
+52;521486;Nova Glória;Goias
+52;521487;Nova Iguaçu de Goiás;Goias
+52;521490;Nova Roma;Goias
+52;521500;Nova Veneza;Goias
+52;521520;Novo Brasil;Goias
+52;521523;Novo Gama;Goias
+52;521525;Novo Planalto;Goias
+52;521530;Orizona;Goias
+52;521540;Ouro Verde de Goiás;Goias
+52;521550;Ouvidor;Goias
+52;521560;Padre Bernardo;Goias
+52;521565;Palestina de Goiás;Goias
+52;521570;Palmeiras de Goiás;Goias
+52;521580;Palmelo;Goias
+52;521590;Palminópolis;Goias
+52;521600;Panamá;Goias
+52;521630;Paranaiguara;Goias
+52;521640;Paraúna;Goias
+52;521645;Perolândia;Goias
+52;521680;Petrolina de Goiás;Goias
+52;521690;Pilar de Goiás;Goias
+52;521710;Piracanjuba;Goias
+52;521720;Piranhas;Goias
+52;521730;Pirenópolis;Goias
+52;521740;Pires do Rio;Goias
+52;521760;Planaltina;Goias
+52;521770;Pontalina;Goias
+52;521800;Porangatu;Goias
+52;521805;Porteirão;Goias
+52;521810;Portelândia;Goias
+52;521830;Posse;Goias
+52;521839;Professor Jamil;Goias
+52;521850;Quirinópolis;Goias
+52;521860;Rialma;Goias
+52;521870;Rianápolis;Goias
+52;521878;Rio Quente;Goias
+52;521880;Rio Verde;Goias
+52;521890;Rubiataba;Goias
+52;521900;Sanclerlândia;Goias
+52;521910;Santa Bárbara de Goiás;Goias
+52;521920;Santa Cruz de Goiás;Goias
+52;521925;Santa Fé de Goiás;Goias
+52;521930;Santa Helena de Goiás;Goias
+52;521935;Santa Isabel;Goias
+52;521940;Santa Rita do Araguaia;Goias
+52;521945;Santa Rita do Novo Destino;Goias
+52;521950;Santa Rosa de Goiás;Goias
+52;521960;Santa Tereza de Goiás;Goias
+52;521970;Santa Terezinha de Goiás;Goias
+52;521971;Santo Antônio da Barra;Goias
+52;521973;Santo Antônio de Goiás;Goias
+52;521975;Santo Antônio do Descoberto;Goias
+52;521980;São Domingos;Goias
+52;521990;São Francisco de Goiás;Goias
+52;522005;São João da Paraúna;Goias
+52;522000;São João d'Aliança;Goias
+52;522010;São Luís de Montes Belos;Goias
+52;522015;São Luíz do Norte;Goias
+52;522020;São Miguel do Araguaia;Goias
+52;522026;São Miguel do Passa Quatro;Goias
+52;522028;São Patrício;Goias
+52;522040;São Simão;Goias
+52;522045;Senador Canedo;Goias
+52;522050;Serranópolis;Goias
+52;522060;Silvânia;Goias
+52;522068;Simolândia;Goias
+52;522070;Sítio d'Abadia;Goias
+52;522100;Taquaral de Goiás;Goias
+52;522108;Teresina de Goiás;Goias
+52;522119;Terezópolis de Goiás;Goias
+52;522130;Três Ranchos;Goias
+52;522140;Trindade;Goias
+52;522145;Trombas;Goias
+52;522150;Turvânia;Goias
+52;522155;Turvelândia;Goias
+52;522157;Uirapuru;Goias
+52;522160;Uruaçu;Goias
+52;522170;Uruana;Goias
+52;522180;Urutaí;Goias
+52;522185;Valparaíso de Goiás;Goias
+52;522190;Varjão;Goias
+52;522200;Vianópolis;Goias
+52;522205;Vicentinópolis;Goias
+52;522220;Vila Boa;Goias
+52;522230;Vila Propício;Goias
+21;210005;Açailândia;Maranhao
+21;210010;Afonso Cunha;Maranhao
+21;210015;Água Doce do Maranhão;Maranhao
+21;210020;Alcântara;Maranhao
+21;210030;Aldeias Altas;Maranhao
+21;210040;Altamira do Maranhão;Maranhao
+21;210043;Alto Alegre do Maranhão;Maranhao
+21;210047;Alto Alegre do Pindaré;Maranhao
+21;210050;Alto Parnaíba;Maranhao
+21;210055;Amapá do Maranhão;Maranhao
+21;210060;Amarante do Maranhão;Maranhao
+21;210070;Anajatuba;Maranhao
+21;210080;Anapurus;Maranhao
+21;210083;Apicum-Açu;Maranhao
+21;210087;Araguanã;Maranhao
+21;210090;Araioses;Maranhao
+21;210095;Arame;Maranhao
+21;210100;Arari;Maranhao
+21;210110;Axixá;Maranhao
+21;210120;Bacabal;Maranhao
+21;210125;Bacabeira;Maranhao
+21;210130;Bacuri;Maranhao
+21;210135;Bacurituba;Maranhao
+21;210140;Balsas;Maranhao
+21;210150;Barão de Grajaú;Maranhao
+21;210160;Barra do Corda;Maranhao
+21;210170;Barreirinhas;Maranhao
+21;210177;Bela Vista do Maranhão;Maranhao
+21;210173;Belágua;Maranhao
+21;210180;Benedito Leite;Maranhao
+21;210190;Bequimão;Maranhao
+21;210193;Bernardo do Mearim;Maranhao
+21;210197;Boa Vista do Gurupi;Maranhao
+21;210200;Bom Jardim;Maranhao
+21;210203;Bom Jesus das Selvas;Maranhao
+21;210207;Bom Lugar;Maranhao
+21;210210;Brejo;Maranhao
+21;210215;Brejo de Areia;Maranhao
+21;210220;Buriti;Maranhao
+21;210230;Buriti Bravo;Maranhao
+21;210232;Buriticupu;Maranhao
+21;210235;Buritirana;Maranhao
+21;210237;Cachoeira Grande;Maranhao
+21;210240;Cajapió;Maranhao
+21;210250;Cajari;Maranhao
+21;210255;Campestre do Maranhão;Maranhao
+21;210260;Cândido Mendes;Maranhao
+21;210270;Cantanhede;Maranhao
+21;210275;Capinzal do Norte;Maranhao
+21;210280;Carolina;Maranhao
+21;210290;Carutapera;Maranhao
+21;210300;Caxias;Maranhao
+21;210310;Cedral;Maranhao
+21;210312;Central do Maranhão;Maranhao
+21;210315;Centro do Guilherme;Maranhao
+21;210317;Centro Novo do Maranhão;Maranhao
+21;210320;Chapadinha;Maranhao
+21;210325;Cidelândia;Maranhao
+21;210330;Codó;Maranhao
+21;210340;Coelho Neto;Maranhao
+21;210350;Colinas;Maranhao
+21;210355;Conceição do Lago-Açu;Maranhao
+21;210360;Coroatá;Maranhao
+21;210370;Cururupu;Maranhao
+21;210375;Davinópolis;Maranhao
+21;210380;Dom Pedro;Maranhao
+21;210390;Duque Bacelar;Maranhao
+21;210400;Esperantinópolis;Maranhao
+21;210405;Estreito;Maranhao
+21;210407;Feira Nova do Maranhão;Maranhao
+21;210408;Fernando Falcão;Maranhao
+21;210409;Formosa da Serra Negra;Maranhao
+21;210410;Fortaleza dos Nogueiras;Maranhao
+21;210420;Fortuna;Maranhao
+21;210430;Godofredo Viana;Maranhao
+21;210440;Gonçalves Dias;Maranhao
+21;210450;Governador Archer;Maranhao
+21;210455;Governador Edison Lobão;Maranhao
+21;210460;Governador Eugênio Barros;Maranhao
+21;210462;Governador Luiz Rocha;Maranhao
+21;210465;Governador Newton Bello;Maranhao
+21;210467;Governador Nunes Freire;Maranhao
+21;210470;Graça Aranha;Maranhao
+21;210480;Grajaú;Maranhao
+21;210490;Guimarães;Maranhao
+21;210500;Humberto de Campos;Maranhao
+21;210510;Icatu;Maranhao
+21;210515;Igarapé do Meio;Maranhao
+21;210520;Igarapé Grande;Maranhao
+21;210530;Imperatriz;Maranhao
+21;210535;Itaipava do Grajaú;Maranhao
+21;210540;Itapecuru Mirim;Maranhao
+21;210542;Itinga do Maranhão;Maranhao
+21;210545;Jatobá;Maranhao
+21;210547;Jenipapo dos Vieiras;Maranhao
+21;210550;João Lisboa;Maranhao
+21;210560;Joselândia;Maranhao
+21;210565;Junco do Maranhão;Maranhao
+21;210570;Lago da Pedra;Maranhao
+21;210580;Lago do Junco;Maranhao
+21;210594;Lago dos Rodrigues;Maranhao
+21;210590;Lago Verde;Maranhao
+21;210592;Lagoa do Mato;Maranhao
+21;210596;Lagoa Grande do Maranhão;Maranhao
+21;210598;Lajeado Novo;Maranhao
+21;210600;Lima Campos;Maranhao
+21;210610;Loreto;Maranhao
+21;210620;Luís Domingues;Maranhao
+21;210630;Magalhães de Almeida;Maranhao
+21;210632;Maracaçumé;Maranhao
+21;210635;Marajá do Sena;Maranhao
+21;210637;Maranhãozinho;Maranhao
+21;210640;Mata Roma;Maranhao
+21;210650;Matinha;Maranhao
+21;210660;Matões;Maranhao
+21;210663;Matões do Norte;Maranhao
+21;210667;Milagres do Maranhão;Maranhao
+21;210670;Mirador;Maranhao
+21;210675;Miranda do Norte;Maranhao
+21;210680;Mirinzal;Maranhao
+21;210690;Monção;Maranhao
+21;210700;Montes Altos;Maranhao
+21;210710;Morros;Maranhao
+21;210720;Nina Rodrigues;Maranhao
+21;210725;Nova Colinas;Maranhao
+21;210730;Nova Iorque;Maranhao
+21;210735;Nova Olinda do Maranhão;Maranhao
+21;210740;Olho d'Água das Cunhãs;Maranhao
+21;210745;Olinda Nova do Maranhão;Maranhao
+21;210750;Paço do Lumiar;Maranhao
+21;210760;Palmeirândia;Maranhao
+21;210770;Paraibano;Maranhao
+21;210780;Parnarama;Maranhao
+21;210790;Passagem Franca;Maranhao
+21;210800;Pastos Bons;Maranhao
+21;210805;Paulino Neves;Maranhao
+21;210810;Paulo Ramos;Maranhao
+21;210820;Pedreiras;Maranhao
+21;210825;Pedro do Rosário;Maranhao
+21;210830;Penalva;Maranhao
+21;210840;Peri Mirim;Maranhao
+21;210845;Peritoró;Maranhao
+21;210850;Pindaré-Mirim;Maranhao
+21;210860;Pinheiro;Maranhao
+21;210870;Pio XII;Maranhao
+21;210880;Pirapemas;Maranhao
+21;210890;Poção de Pedras;Maranhao
+21;210900;Porto Franco;Maranhao
+21;210905;Porto Rico do Maranhão;Maranhao
+21;210910;Presidente Dutra;Maranhao
+21;210920;Presidente Juscelino;Maranhao
+21;210923;Presidente Médici;Maranhao
+21;210927;Presidente Sarney;Maranhao
+21;210930;Presidente Vargas;Maranhao
+21;210940;Primeira Cruz;Maranhao
+21;210945;Raposa;Maranhao
+21;210950;Riachão;Maranhao
+21;210955;Ribamar Fiquene;Maranhao
+21;210960;Rosário;Maranhao
+21;210970;Sambaíba;Maranhao
+21;210975;Santa Filomena do Maranhão;Maranhao
+21;210980;Santa Helena;Maranhao
+21;210990;Santa Inês;Maranhao
+21;211000;Santa Luzia;Maranhao
+21;211003;Santa Luzia do Paruá;Maranhao
+21;211010;Santa Quitéria do Maranhão;Maranhao
+21;211020;Santa Rita;Maranhao
+21;211023;Santana do Maranhão;Maranhao
+21;211027;Santo Amaro do Maranhão;Maranhao
+21;211030;Santo Antônio dos Lopes;Maranhao
+21;211040;São Benedito do Rio Preto;Maranhao
+21;211050;São Bento;Maranhao
+21;211060;São Bernardo;Maranhao
+21;211065;São Domingos do Azeitão;Maranhao
+21;211070;São Domingos do Maranhão;Maranhao
+21;211080;São Félix de Balsas;Maranhao
+21;211085;São Francisco do Brejão;Maranhao
+21;211090;São Francisco do Maranhão;Maranhao
+21;211100;São João Batista;Maranhao
+21;211102;São João do Carú;Maranhao
+21;211105;São João do Paraíso;Maranhao
+21;211107;São João do Soter;Maranhao
+21;211110;São João dos Patos;Maranhao
+21;211120;São José de Ribamar;Maranhao
+21;211125;São José dos Basílios;Maranhao
+21;211130;São Luís;Maranhao
+21;211140;São Luís Gonzaga do Maranhão;Maranhao
+21;211150;São Mateus do Maranhão;Maranhao
+21;211153;São Pedro da Água Branca;Maranhao
+21;211157;São Pedro dos Crentes;Maranhao
+21;211160;São Raimundo das Mangabeiras;Maranhao
+21;211163;São Raimundo do Doca Bezerra;Maranhao
+21;211167;São Roberto;Maranhao
+21;211170;São Vicente Ferrer;Maranhao
+21;211172;Satubinha;Maranhao
+21;211174;Senador Alexandre Costa;Maranhao
+21;211176;Senador La Rocque;Maranhao
+21;211178;Serrano do Maranhão;Maranhao
+21;211180;Sítio Novo;Maranhao
+21;211190;Sucupira do Norte;Maranhao
+21;211195;Sucupira do Riachão;Maranhao
+21;211200;Tasso Fragoso;Maranhao
+21;211210;Timbiras;Maranhao
+21;211220;Timon;Maranhao
+21;211223;Trizidela do Vale;Maranhao
+21;211227;Tufilândia;Maranhao
+21;211230;Tuntum;Maranhao
+21;211240;Turiaçu;Maranhao
+21;211245;Turilândia;Maranhao
+21;211250;Tutóia;Maranhao
+21;211260;Urbano Santos;Maranhao
+21;211270;Vargem Grande;Maranhao
+21;211280;Viana;Maranhao
+21;211285;Vila Nova dos Martírios;Maranhao
+21;211290;Vitória do Mearim;Maranhao
+21;211300;Vitorino Freire;Maranhao
+21;211400;Zé Doca;Maranhao
+51;510010;Acorizal;Mato Grosso
+51;510020;Água Boa;Mato Grosso
+51;510025;Alta Floresta;Mato Grosso
+51;510030;Alto Araguaia;Mato Grosso
+51;510035;Alto Boa Vista;Mato Grosso
+51;510040;Alto Garças;Mato Grosso
+51;510050;Alto Paraguai;Mato Grosso
+51;510060;Alto Taquari;Mato Grosso
+51;510080;Apiacás;Mato Grosso
+51;510100;Araguaiana;Mato Grosso
+51;510120;Araguainha;Mato Grosso
+51;510125;Araputanga;Mato Grosso
+51;510130;Arenápolis;Mato Grosso
+51;510140;Aripuanã;Mato Grosso
+51;510160;Barão de Melgaço;Mato Grosso
+51;510170;Barra do Bugres;Mato Grosso
+51;510180;Barra do Garças;Mato Grosso
+51;510185;Bom Jesus do Araguaia;Mato Grosso
+51;510190;Brasnorte;Mato Grosso
+51;510250;Cáceres;Mato Grosso
+51;510260;Campinápolis;Mato Grosso
+51;510263;Campo Novo do Parecis;Mato Grosso
+51;510267;Campo Verde;Mato Grosso
+51;510268;Campos de Júlio;Mato Grosso
+51;510269;Canabrava do Norte;Mato Grosso
+51;510270;Canarana;Mato Grosso
+51;510279;Carlinda;Mato Grosso
+51;510285;Castanheira;Mato Grosso
+51;510300;Chapada dos Guimarães;Mato Grosso
+51;510305;Cláudia;Mato Grosso
+51;510310;Cocalinho;Mato Grosso
+51;510320;Colíder;Mato Grosso
+51;510325;Colniza;Mato Grosso
+51;510330;Comodoro;Mato Grosso
+51;510335;Confresa;Mato Grosso
+51;510336;Conquista D'Oeste;Mato Grosso
+51;510337;Cotriguaçu;Mato Grosso
+51;510340;Cuiabá;Mato Grosso
+51;510343;Curvelândia;Mato Grosso
+51;510345;Denise;Mato Grosso
+51;510350;Diamantino;Mato Grosso
+51;510360;Dom Aquino;Mato Grosso
+51;510370;Feliz Natal;Mato Grosso
+51;510380;Figueirópolis D'Oeste;Mato Grosso
+51;510385;Gaúcha do Norte;Mato Grosso
+51;510390;General Carneiro;Mato Grosso
+51;510395;Glória D'Oeste;Mato Grosso
+51;510410;Guarantã do Norte;Mato Grosso
+51;510420;Guiratinga;Mato Grosso
+51;510450;Indiavaí;Mato Grosso
+51;510452;Ipiranga do Norte;Mato Grosso
+51;510454;Itanhangá;Mato Grosso
+51;510455;Itaúba;Mato Grosso
+51;510460;Itiquira;Mato Grosso
+51;510480;Jaciara;Mato Grosso
+51;510490;Jangada;Mato Grosso
+51;510500;Jauru;Mato Grosso
+51;510510;Juara;Mato Grosso
+51;510515;Juína;Mato Grosso
+51;510517;Juruena;Mato Grosso
+51;510520;Juscimeira;Mato Grosso
+51;510523;Lambari D'Oeste;Mato Grosso
+51;510525;Lucas do Rio Verde;Mato Grosso
+51;510530;Luciára;Mato Grosso
+51;510558;Marcelândia;Mato Grosso
+51;510560;Matupá;Mato Grosso
+51;510562;Mirassol d'Oeste;Mato Grosso
+51;510590;Nobres;Mato Grosso
+51;510600;Nortelândia;Mato Grosso
+51;510610;Nossa Senhora do Livramento;Mato Grosso
+51;510615;Nova Bandeirantes;Mato Grosso
+51;510620;Nova Brasilândia;Mato Grosso
+51;510621;Nova Canaã do Norte;Mato Grosso
+51;510880;Nova Guarita;Mato Grosso
+51;510618;Nova Lacerda;Mato Grosso
+51;510885;Nova Marilândia;Mato Grosso
+51;510890;Nova Maringá;Mato Grosso
+51;510895;Nova Monte Verde;Mato Grosso
+51;510622;Nova Mutum;Mato Grosso
+51;510617;Nova Nazaré;Mato Grosso
+51;510623;Nova Olímpia;Mato Grosso
+51;510619;Nova Santa Helena;Mato Grosso
+51;510624;Nova Ubiratã;Mato Grosso
+51;510625;Nova Xavantina;Mato Grosso
+51;510627;Novo Horizonte do Norte;Mato Grosso
+51;510626;Novo Mundo;Mato Grosso
+51;510631;Novo Santo Antônio;Mato Grosso
+51;510628;Novo São Joaquim;Mato Grosso
+51;510629;Paranaíta;Mato Grosso
+51;510630;Paranatinga;Mato Grosso
+51;510637;Pedra Preta;Mato Grosso
+51;510642;Peixoto de Azevedo;Mato Grosso
+51;510645;Planalto da Serra;Mato Grosso
+51;510650;Poconé;Mato Grosso
+51;510665;Pontal do Araguaia;Mato Grosso
+51;510670;Ponte Branca;Mato Grosso
+51;510675;Pontes e Lacerda;Mato Grosso
+51;510677;Porto Alegre do Norte;Mato Grosso
+51;510680;Porto dos Gaúchos;Mato Grosso
+51;510682;Porto Esperidião;Mato Grosso
+51;510685;Porto Estrela;Mato Grosso
+51;510700;Poxoréo;Mato Grosso
+51;510704;Primavera do Leste;Mato Grosso
+51;510706;Querência;Mato Grosso
+51;510715;Reserva do Cabaçal;Mato Grosso
+51;510718;Ribeirão Cascalheira;Mato Grosso
+51;510719;Ribeirãozinho;Mato Grosso
+51;510720;Rio Branco;Mato Grosso
+51;510757;Rondolândia;Mato Grosso
+51;510760;Rondonópolis;Mato Grosso
+51;510770;Rosário Oeste;Mato Grosso
+51;510775;Salto do Céu;Mato Grosso
+51;510724;Santa Carmem;Mato Grosso
+51;510774;Santa Cruz do Xingu;Mato Grosso
+51;510776;Santa Rita do Trivelato;Mato Grosso
+51;510777;Santa Terezinha;Mato Grosso
+51;510726;Santo Afonso;Mato Grosso
+51;510779;Santo Antônio do Leste;Mato Grosso
+51;510780;Santo Antônio do Leverger;Mato Grosso
+51;510785;São Félix do Araguaia;Mato Grosso
+51;510729;São José do Povo;Mato Grosso
+51;510730;São José do Rio Claro;Mato Grosso
+51;510735;São José do Xingu;Mato Grosso
+51;510710;São José dos Quatro Marcos;Mato Grosso
+51;510740;São Pedro da Cipa;Mato Grosso
+51;510787;Sapezal;Mato Grosso
+51;510788;Serra Nova Dourada;Mato Grosso
+51;510790;Sinop;Mato Grosso
+51;510792;Sorriso;Mato Grosso
+51;510794;Tabaporã;Mato Grosso
+51;510795;Tangará da Serra;Mato Grosso
+51;510800;Tapurah;Mato Grosso
+51;510805;Terra Nova do Norte;Mato Grosso
+51;510810;Tesouro;Mato Grosso
+51;510820;Torixoréu;Mato Grosso
+51;510830;União do Sul;Mato Grosso
+51;510835;Vale de São Domingos;Mato Grosso
+51;510840;Várzea Grande;Mato Grosso
+51;510850;Vera;Mato Grosso
+51;510550;Vila Bela da Santíssima Trindade;Mato Grosso
+51;510860;Vila Rica;Mato Grosso
+50;500020;Água Clara;Mato Grosso do Sul
+50;500025;Alcinópolis;Mato Grosso do Sul
+50;500060;Amambaí;Mato Grosso do Sul
+50;500070;Anastácio;Mato Grosso do Sul
+50;500080;Anaurilândia;Mato Grosso do Sul
+50;500085;Angélica;Mato Grosso do Sul
+50;500090;Antônio João;Mato Grosso do Sul
+50;500100;Aparecida do Taboado;Mato Grosso do Sul
+50;500110;Aquidauana;Mato Grosso do Sul
+50;500124;Aral Moreira;Mato Grosso do Sul
+50;500150;Bandeirantes;Mato Grosso do Sul
+50;500190;Bataguassu;Mato Grosso do Sul
+50;500200;Batayporã;Mato Grosso do Sul
+50;500210;Bela Vista;Mato Grosso do Sul
+50;500215;Bodoquena;Mato Grosso do Sul
+50;500220;Bonito;Mato Grosso do Sul
+50;500230;Brasilândia;Mato Grosso do Sul
+50;500240;Caarapó;Mato Grosso do Sul
+50;500260;Camapuã;Mato Grosso do Sul
+50;500270;Campo Grande;Mato Grosso do Sul
+50;500280;Caracol;Mato Grosso do Sul
+50;500290;Cassilândia;Mato Grosso do Sul
+50;500295;Chapadão do Sul;Mato Grosso do Sul
+50;500310;Corguinho;Mato Grosso do Sul
+50;500315;Coronel Sapucaia;Mato Grosso do Sul
+50;500320;Corumbá;Mato Grosso do Sul
+50;500325;Costa Rica;Mato Grosso do Sul
+50;500330;Coxim;Mato Grosso do Sul
+50;500345;Deodápolis;Mato Grosso do Sul
+50;500348;Dois Irmãos do Buriti;Mato Grosso do Sul
+50;500350;Douradina;Mato Grosso do Sul
+50;500370;Dourados;Mato Grosso do Sul
+50;500375;Eldorado;Mato Grosso do Sul
+50;500380;Fátima do Sul;Mato Grosso do Sul
+50;500390;Figueirão;Mato Grosso do Sul
+50;500400;Glória de Dourados;Mato Grosso do Sul
+50;500410;Guia Lopes da Laguna;Mato Grosso do Sul
+50;500430;Iguatemi;Mato Grosso do Sul
+50;500440;Inocência;Mato Grosso do Sul
+50;500450;Itaporã;Mato Grosso do Sul
+50;500460;Itaquiraí;Mato Grosso do Sul
+50;500470;Ivinhema;Mato Grosso do Sul
+50;500480;Japorã;Mato Grosso do Sul
+50;500490;Jaraguari;Mato Grosso do Sul
+50;500500;Jardim;Mato Grosso do Sul
+50;500510;Jateí;Mato Grosso do Sul
+50;500515;Juti;Mato Grosso do Sul
+50;500520;Ladário;Mato Grosso do Sul
+50;500525;Laguna Carapã;Mato Grosso do Sul
+50;500540;Maracaju;Mato Grosso do Sul
+50;500560;Miranda;Mato Grosso do Sul
+50;500568;Mundo Novo;Mato Grosso do Sul
+50;500570;Naviraí;Mato Grosso do Sul
+50;500580;Nioaque;Mato Grosso do Sul
+50;500600;Nova Alvorada do Sul;Mato Grosso do Sul
+50;500620;Nova Andradina;Mato Grosso do Sul
+50;500625;Novo Horizonte do Sul;Mato Grosso do Sul
+50;500627;Paraíso das Águas;Mato Grosso do Sul
+50;500630;Paranaíba;Mato Grosso do Sul
+50;500635;Paranhos;Mato Grosso do Sul
+50;500640;Pedro Gomes;Mato Grosso do Sul
+50;500660;Ponta Porã;Mato Grosso do Sul
+50;500690;Porto Murtinho;Mato Grosso do Sul
+50;500710;Ribas do Rio Pardo;Mato Grosso do Sul
+50;500720;Rio Brilhante;Mato Grosso do Sul
+50;500730;Rio Negro;Mato Grosso do Sul
+50;500740;Rio Verde de Mato Grosso;Mato Grosso do Sul
+50;500750;Rochedo;Mato Grosso do Sul
+50;500755;Santa Rita do Pardo;Mato Grosso do Sul
+50;500769;São Gabriel do Oeste;Mato Grosso do Sul
+50;500780;Selvíria;Mato Grosso do Sul
+50;500770;Sete Quedas;Mato Grosso do Sul
+50;500790;Sidrolândia;Mato Grosso do Sul
+50;500793;Sonora;Mato Grosso do Sul
+50;500795;Tacuru;Mato Grosso do Sul
+50;500797;Taquarussu;Mato Grosso do Sul
+50;500800;Terenos;Mato Grosso do Sul
+50;500830;Três Lagoas;Mato Grosso do Sul
+50;500840;Vicentina;Mato Grosso do Sul
+31;310010;Abadia dos Dourados;Minas Gerais
+31;310020;Abaeté;Minas Gerais
+31;310030;Abre Campo;Minas Gerais
+31;310040;Acaiaca;Minas Gerais
+31;310050;Açucena;Minas Gerais
+31;310060;Água Boa;Minas Gerais
+31;310070;Água Comprida;Minas Gerais
+31;310080;Aguanil;Minas Gerais
+31;310090;Águas Formosas;Minas Gerais
+31;310100;Águas Vermelhas;Minas Gerais
+31;310110;Aimorés;Minas Gerais
+31;310120;Aiuruoca;Minas Gerais
+31;310130;Alagoa;Minas Gerais
+31;310140;Albertina;Minas Gerais
+31;310150;Além Paraíba;Minas Gerais
+31;310160;Alfenas;Minas Gerais
+31;310163;Alfredo Vasconcelos;Minas Gerais
+31;310170;Almenara;Minas Gerais
+31;310180;Alpercata;Minas Gerais
+31;310190;Alpinópolis;Minas Gerais
+31;310200;Alterosa;Minas Gerais
+31;310205;Alto Caparaó;Minas Gerais
+31;315350;Alto Jequitibá;Minas Gerais
+31;310210;Alto Rio Doce;Minas Gerais
+31;310220;Alvarenga;Minas Gerais
+31;310230;Alvinópolis;Minas Gerais
+31;310240;Alvorada de Minas;Minas Gerais
+31;310250;Amparo do Serra;Minas Gerais
+31;310260;Andradas;Minas Gerais
+31;310280;Andrelândia;Minas Gerais
+31;310285;Angelândia;Minas Gerais
+31;310290;Antônio Carlos;Minas Gerais
+31;310300;Antônio Dias;Minas Gerais
+31;310310;Antônio Prado de Minas;Minas Gerais
+31;310320;Araçaí;Minas Gerais
+31;310330;Aracitaba;Minas Gerais
+31;310340;Araçuaí;Minas Gerais
+31;310350;Araguari;Minas Gerais
+31;310360;Arantina;Minas Gerais
+31;310370;Araponga;Minas Gerais
+31;310375;Araporã;Minas Gerais
+31;310380;Arapuá;Minas Gerais
+31;310390;Araújos;Minas Gerais
+31;310400;Araxá;Minas Gerais
+31;310410;Arceburgo;Minas Gerais
+31;310420;Arcos;Minas Gerais
+31;310430;Areado;Minas Gerais
+31;310440;Argirita;Minas Gerais
+31;310445;Aricanduva;Minas Gerais
+31;310450;Arinos;Minas Gerais
+31;310460;Astolfo Dutra;Minas Gerais
+31;310470;Ataléia;Minas Gerais
+31;310480;Augusto de Lima;Minas Gerais
+31;310490;Baependi;Minas Gerais
+31;310500;Baldim;Minas Gerais
+31;310510;Bambuí;Minas Gerais
+31;310520;Bandeira;Minas Gerais
+31;310530;Bandeira do Sul;Minas Gerais
+31;310540;Barão de Cocais;Minas Gerais
+31;310550;Barão de Monte Alto;Minas Gerais
+31;310560;Barbacena;Minas Gerais
+31;310570;Barra Longa;Minas Gerais
+31;310590;Barroso;Minas Gerais
+31;310600;Bela Vista de Minas;Minas Gerais
+31;310610;Belmiro Braga;Minas Gerais
+31;310620;Belo Horizonte;Minas Gerais
+31;310630;Belo Oriente;Minas Gerais
+31;310640;Belo Vale;Minas Gerais
+31;310650;Berilo;Minas Gerais
+31;310665;Berizal;Minas Gerais
+31;310660;Bertópolis;Minas Gerais
+31;310670;Betim;Minas Gerais
+31;310680;Bias Fortes;Minas Gerais
+31;310690;Bicas;Minas Gerais
+31;310700;Biquinhas;Minas Gerais
+31;310710;Boa Esperança;Minas Gerais
+31;310720;Bocaina de Minas;Minas Gerais
+31;310730;Bocaiúva;Minas Gerais
+31;310740;Bom Despacho;Minas Gerais
+31;310750;Bom Jardim de Minas;Minas Gerais
+31;310760;Bom Jesus da Penha;Minas Gerais
+31;310770;Bom Jesus do Amparo;Minas Gerais
+31;310780;Bom Jesus do Galho;Minas Gerais
+31;310790;Bom Repouso;Minas Gerais
+31;310800;Bom Sucesso;Minas Gerais
+31;310810;Bonfim;Minas Gerais
+31;310820;Bonfinópolis de Minas;Minas Gerais
+31;310825;Bonito de Minas;Minas Gerais
+31;310830;Borda da Mata;Minas Gerais
+31;310840;Botelhos;Minas Gerais
+31;310850;Botumirim;Minas Gerais
+31;310870;Brás Pires;Minas Gerais
+31;310855;Brasilândia de Minas;Minas Gerais
+31;310860;Brasília de Minas;Minas Gerais
+31;310890;Brasópolis;Minas Gerais
+31;310880;Braúnas;Minas Gerais
+31;310900;Brumadinho;Minas Gerais
+31;310910;Bueno Brandão;Minas Gerais
+31;310920;Buenópolis;Minas Gerais
+31;310925;Bugre;Minas Gerais
+31;310930;Buritis;Minas Gerais
+31;310940;Buritizeiro;Minas Gerais
+31;310945;Cabeceira Grande;Minas Gerais
+31;310950;Cabo Verde;Minas Gerais
+31;310960;Cachoeira da Prata;Minas Gerais
+31;310970;Cachoeira de Minas;Minas Gerais
+31;310270;Cachoeira de Pajeú;Minas Gerais
+31;310980;Cachoeira Dourada;Minas Gerais
+31;310990;Caetanópolis;Minas Gerais
+31;311000;Caeté;Minas Gerais
+31;311010;Caiana;Minas Gerais
+31;311020;Cajuri;Minas Gerais
+31;311030;Caldas;Minas Gerais
+31;311040;Camacho;Minas Gerais
+31;311050;Camanducaia;Minas Gerais
+31;311060;Cambuí;Minas Gerais
+31;311070;Cambuquira;Minas Gerais
+31;311080;Campanário;Minas Gerais
+31;311090;Campanha;Minas Gerais
+31;311100;Campestre;Minas Gerais
+31;311110;Campina Verde;Minas Gerais
+31;311115;Campo Azul;Minas Gerais
+31;311120;Campo Belo;Minas Gerais
+31;311130;Campo do Meio;Minas Gerais
+31;311140;Campo Florido;Minas Gerais
+31;311150;Campos Altos;Minas Gerais
+31;311160;Campos Gerais;Minas Gerais
+31;311190;Cana Verde;Minas Gerais
+31;311170;Canaã;Minas Gerais
+31;311180;Canápolis;Minas Gerais
+31;311200;Candeias;Minas Gerais
+31;311205;Cantagalo;Minas Gerais
+31;311210;Caparaó;Minas Gerais
+31;311220;Capela Nova;Minas Gerais
+31;311230;Capelinha;Minas Gerais
+31;311240;Capetinga;Minas Gerais
+31;311250;Capim Branco;Minas Gerais
+31;311260;Capinópolis;Minas Gerais
+31;311265;Capitão Andrade;Minas Gerais
+31;311270;Capitão Enéas;Minas Gerais
+31;311280;Capitólio;Minas Gerais
+31;311290;Caputira;Minas Gerais
+31;311300;Caraí;Minas Gerais
+31;311310;Caranaíba;Minas Gerais
+31;311320;Carandaí;Minas Gerais
+31;311330;Carangola;Minas Gerais
+31;311340;Caratinga;Minas Gerais
+31;311350;Carbonita;Minas Gerais
+31;311360;Careaçu;Minas Gerais
+31;311370;Carlos Chagas;Minas Gerais
+31;311380;Carmésia;Minas Gerais
+31;311390;Carmo da Cachoeira;Minas Gerais
+31;311400;Carmo da Mata;Minas Gerais
+31;311410;Carmo de Minas;Minas Gerais
+31;311420;Carmo do Cajuru;Minas Gerais
+31;311430;Carmo do Paranaíba;Minas Gerais
+31;311440;Carmo do Rio Claro;Minas Gerais
+31;311450;Carmópolis de Minas;Minas Gerais
+31;311455;Carneirinho;Minas Gerais
+31;311460;Carrancas;Minas Gerais
+31;311470;Carvalhópolis;Minas Gerais
+31;311480;Carvalhos;Minas Gerais
+31;311490;Casa Grande;Minas Gerais
+31;311500;Cascalho Rico;Minas Gerais
+31;311510;Cássia;Minas Gerais
+31;311530;Cataguases;Minas Gerais
+31;311535;Catas Altas;Minas Gerais
+31;311540;Catas Altas da Noruega;Minas Gerais
+31;311545;Catuji;Minas Gerais
+31;311547;Catuti;Minas Gerais
+31;311550;Caxambu;Minas Gerais
+31;311560;Cedro do Abaeté;Minas Gerais
+31;311570;Central de Minas;Minas Gerais
+31;311580;Centralina;Minas Gerais
+31;311590;Chácara;Minas Gerais
+31;311600;Chalé;Minas Gerais
+31;311610;Chapada do Norte;Minas Gerais
+31;311615;Chapada Gaúcha;Minas Gerais
+31;311620;Chiador;Minas Gerais
+31;311630;Cipotânea;Minas Gerais
+31;311640;Claraval;Minas Gerais
+31;311650;Claro dos Poções;Minas Gerais
+31;311660;Cláudio;Minas Gerais
+31;311670;Coimbra;Minas Gerais
+31;311680;Coluna;Minas Gerais
+31;311690;Comendador Gomes;Minas Gerais
+31;311700;Comercinho;Minas Gerais
+31;311710;Conceição da Aparecida;Minas Gerais
+31;311520;Conceição da Barra de Minas;Minas Gerais
+31;311730;Conceição das Alagoas;Minas Gerais
+31;311720;Conceição das Pedras;Minas Gerais
+31;311740;Conceição de Ipanema;Minas Gerais
+31;311750;Conceição do Mato Dentro;Minas Gerais
+31;311760;Conceição do Pará;Minas Gerais
+31;311770;Conceição do Rio Verde;Minas Gerais
+31;311780;Conceição dos Ouros;Minas Gerais
+31;311783;Cônego Marinho;Minas Gerais
+31;311787;Confins;Minas Gerais
+31;311790;Congonhal;Minas Gerais
+31;311800;Congonhas;Minas Gerais
+31;311810;Congonhas do Norte;Minas Gerais
+31;311820;Conquista;Minas Gerais
+31;311830;Conselheiro Lafaiete;Minas Gerais
+31;311840;Conselheiro Pena;Minas Gerais
+31;311850;Consolação;Minas Gerais
+31;311860;Contagem;Minas Gerais
+31;311870;Coqueiral;Minas Gerais
+31;311880;Coração de Jesus;Minas Gerais
+31;311890;Cordisburgo;Minas Gerais
+31;311900;Cordislândia;Minas Gerais
+31;311910;Corinto;Minas Gerais
+31;311920;Coroaci;Minas Gerais
+31;311930;Coromandel;Minas Gerais
+31;311940;Coronel Fabriciano;Minas Gerais
+31;311950;Coronel Murta;Minas Gerais
+31;311960;Coronel Pacheco;Minas Gerais
+31;311970;Coronel Xavier Chaves;Minas Gerais
+31;311980;Córrego Danta;Minas Gerais
+31;311990;Córrego do Bom Jesus;Minas Gerais
+31;311995;Córrego Fundo;Minas Gerais
+31;312000;Córrego Novo;Minas Gerais
+31;312010;Couto de Magalhães de Minas;Minas Gerais
+31;312015;Crisólita;Minas Gerais
+31;312020;Cristais;Minas Gerais
+31;312030;Cristália;Minas Gerais
+31;312040;Cristiano Otoni;Minas Gerais
+31;312050;Cristina;Minas Gerais
+31;312060;Crucilândia;Minas Gerais
+31;312070;Cruzeiro da Fortaleza;Minas Gerais
+31;312080;Cruzília;Minas Gerais
+31;312083;Cuparaque;Minas Gerais
+31;312087;Curral de Dentro;Minas Gerais
+31;312090;Curvelo;Minas Gerais
+31;312100;Datas;Minas Gerais
+31;312110;Delfim Moreira;Minas Gerais
+31;312120;Delfinópolis;Minas Gerais
+31;312125;Delta;Minas Gerais
+31;312130;Descoberto;Minas Gerais
+31;312140;Desterro de Entre Rios;Minas Gerais
+31;312150;Desterro do Melo;Minas Gerais
+31;312160;Diamantina;Minas Gerais
+31;312170;Diogo de Vasconcelos;Minas Gerais
+31;312180;Dionísio;Minas Gerais
+31;312190;Divinésia;Minas Gerais
+31;312200;Divino;Minas Gerais
+31;312210;Divino das Laranjeiras;Minas Gerais
+31;312220;Divinolândia de Minas;Minas Gerais
+31;312230;Divinópolis;Minas Gerais
+31;312235;Divisa Alegre;Minas Gerais
+31;312240;Divisa Nova;Minas Gerais
+31;312245;Divisópolis;Minas Gerais
+31;312247;Dom Bosco;Minas Gerais
+31;312250;Dom Cavati;Minas Gerais
+31;312260;Dom Joaquim;Minas Gerais
+31;312270;Dom Silvério;Minas Gerais
+31;312280;Dom Viçoso;Minas Gerais
+31;312290;Dona Eusébia;Minas Gerais
+31;312300;Dores de Campos;Minas Gerais
+31;312310;Dores de Guanhães;Minas Gerais
+31;312320;Dores do Indaiá;Minas Gerais
+31;312330;Dores do Turvo;Minas Gerais
+31;312340;Doresópolis;Minas Gerais
+31;312350;Douradoquara;Minas Gerais
+31;312352;Durandé;Minas Gerais
+31;312360;Elói Mendes;Minas Gerais
+31;312370;Engenheiro Caldas;Minas Gerais
+31;312380;Engenheiro Navarro;Minas Gerais
+31;312385;Entre Folhas;Minas Gerais
+31;312390;Entre Rios de Minas;Minas Gerais
+31;312400;Ervália;Minas Gerais
+31;312410;Esmeraldas;Minas Gerais
+31;312420;Espera Feliz;Minas Gerais
+31;312430;Espinosa;Minas Gerais
+31;312440;Espírito Santo do Dourado;Minas Gerais
+31;312450;Estiva;Minas Gerais
+31;312460;Estrela Dalva;Minas Gerais
+31;312470;Estrela do Indaiá;Minas Gerais
+31;312480;Estrela do Sul;Minas Gerais
+31;312490;Eugenópolis;Minas Gerais
+31;312500;Ewbank da Câmara;Minas Gerais
+31;312510;Extrema;Minas Gerais
+31;312520;Fama;Minas Gerais
+31;312530;Faria Lemos;Minas Gerais
+31;312540;Felício dos Santos;Minas Gerais
+31;312560;Felisburgo;Minas Gerais
+31;312570;Felixlândia;Minas Gerais
+31;312580;Fernandes Tourinho;Minas Gerais
+31;312590;Ferros;Minas Gerais
+31;312595;Fervedouro;Minas Gerais
+31;312600;Florestal;Minas Gerais
+31;312610;Formiga;Minas Gerais
+31;312620;Formoso;Minas Gerais
+31;312630;Fortaleza de Minas;Minas Gerais
+31;312640;Fortuna de Minas;Minas Gerais
+31;312650;Francisco Badaró;Minas Gerais
+31;312660;Francisco Dumont;Minas Gerais
+31;312670;Francisco Sá;Minas Gerais
+31;312675;Franciscópolis;Minas Gerais
+31;312680;Frei Gaspar;Minas Gerais
+31;312690;Frei Inocêncio;Minas Gerais
+31;312695;Frei Lagonegro;Minas Gerais
+31;312700;Fronteira;Minas Gerais
+31;312705;Fronteira dos Vales;Minas Gerais
+31;312707;Fruta de Leite;Minas Gerais
+31;312710;Frutal;Minas Gerais
+31;312720;Funilândia;Minas Gerais
+31;312730;Galiléia;Minas Gerais
+31;312733;Gameleiras;Minas Gerais
+31;312735;Glaucilândia;Minas Gerais
+31;312737;Goiabeira;Minas Gerais
+31;312738;Goianá;Minas Gerais
+31;312740;Gonçalves;Minas Gerais
+31;312750;Gonzaga;Minas Gerais
+31;312760;Gouveia;Minas Gerais
+31;312770;Governador Valadares;Minas Gerais
+31;312780;Grão Mogol;Minas Gerais
+31;312790;Grupiara;Minas Gerais
+31;312800;Guanhães;Minas Gerais
+31;312810;Guapé;Minas Gerais
+31;312820;Guaraciaba;Minas Gerais
+31;312825;Guaraciama;Minas Gerais
+31;312830;Guaranésia;Minas Gerais
+31;312840;Guarani;Minas Gerais
+31;312850;Guarará;Minas Gerais
+31;312860;Guarda-Mor;Minas Gerais
+31;312870;Guaxupé;Minas Gerais
+31;312880;Guidoval;Minas Gerais
+31;312890;Guimarânia;Minas Gerais
+31;312900;Guiricema;Minas Gerais
+31;312910;Gurinhatã;Minas Gerais
+31;312920;Heliodora;Minas Gerais
+31;312930;Iapu;Minas Gerais
+31;312940;Ibertioga;Minas Gerais
+31;312950;Ibiá;Minas Gerais
+31;312960;Ibiaí;Minas Gerais
+31;312965;Ibiracatu;Minas Gerais
+31;312970;Ibiraci;Minas Gerais
+31;312980;Ibirité;Minas Gerais
+31;312990;Ibitiúra de Minas;Minas Gerais
+31;313000;Ibituruna;Minas Gerais
+31;313005;Icaraí de Minas;Minas Gerais
+31;313010;Igarapé;Minas Gerais
+31;313020;Igaratinga;Minas Gerais
+31;313030;Iguatama;Minas Gerais
+31;313040;Ijaci;Minas Gerais
+31;313050;Ilicínea;Minas Gerais
+31;313055;Imbé de Minas;Minas Gerais
+31;313060;Inconfidentes;Minas Gerais
+31;313065;Indaiabira;Minas Gerais
+31;313070;Indianópolis;Minas Gerais
+31;313080;Ingaí;Minas Gerais
+31;313090;Inhapim;Minas Gerais
+31;313100;Inhaúma;Minas Gerais
+31;313110;Inimutaba;Minas Gerais
+31;313115;Ipaba;Minas Gerais
+31;313120;Ipanema;Minas Gerais
+31;313130;Ipatinga;Minas Gerais
+31;313140;Ipiaçu;Minas Gerais
+31;313150;Ipuiúna;Minas Gerais
+31;313160;Iraí de Minas;Minas Gerais
+31;313170;Itabira;Minas Gerais
+31;313180;Itabirinha;Minas Gerais
+31;313190;Itabirito;Minas Gerais
+31;313200;Itacambira;Minas Gerais
+31;313210;Itacarambi;Minas Gerais
+31;313220;Itaguara;Minas Gerais
+31;313230;Itaipé;Minas Gerais
+31;313240;Itajubá;Minas Gerais
+31;313250;Itamarandiba;Minas Gerais
+31;313260;Itamarati de Minas;Minas Gerais
+31;313270;Itambacuri;Minas Gerais
+31;313280;Itambé do Mato Dentro;Minas Gerais
+31;313290;Itamogi;Minas Gerais
+31;313300;Itamonte;Minas Gerais
+31;313310;Itanhandu;Minas Gerais
+31;313320;Itanhomi;Minas Gerais
+31;313330;Itaobim;Minas Gerais
+31;313340;Itapagipe;Minas Gerais
+31;313350;Itapecerica;Minas Gerais
+31;313360;Itapeva;Minas Gerais
+31;313370;Itatiaiuçu;Minas Gerais
+31;313375;Itaú de Minas;Minas Gerais
+31;313380;Itaúna;Minas Gerais
+31;313390;Itaverava;Minas Gerais
+31;313400;Itinga;Minas Gerais
+31;313410;Itueta;Minas Gerais
+31;313420;Ituiutaba;Minas Gerais
+31;313430;Itumirim;Minas Gerais
+31;313440;Iturama;Minas Gerais
+31;313450;Itutinga;Minas Gerais
+31;313460;Jaboticatubas;Minas Gerais
+31;313470;Jacinto;Minas Gerais
+31;313480;Jacuí;Minas Gerais
+31;313490;Jacutinga;Minas Gerais
+31;313500;Jaguaraçu;Minas Gerais
+31;313505;Jaíba;Minas Gerais
+31;313507;Jampruca;Minas Gerais
+31;313510;Janaúba;Minas Gerais
+31;313520;Januária;Minas Gerais
+31;313530;Japaraíba;Minas Gerais
+31;313535;Japonvar;Minas Gerais
+31;313540;Jeceaba;Minas Gerais
+31;313545;Jenipapo de Minas;Minas Gerais
+31;313550;Jequeri;Minas Gerais
+31;313560;Jequitaí;Minas Gerais
+31;313570;Jequitibá;Minas Gerais
+31;313580;Jequitinhonha;Minas Gerais
+31;313590;Jesuânia;Minas Gerais
+31;313600;Joaíma;Minas Gerais
+31;313610;Joanésia;Minas Gerais
+31;313620;João Monlevade;Minas Gerais
+31;313630;João Pinheiro;Minas Gerais
+31;313640;Joaquim Felício;Minas Gerais
+31;313650;Jordânia;Minas Gerais
+31;313652;José Gonçalves de Minas;Minas Gerais
+31;313655;José Raydan;Minas Gerais
+31;313657;Josenópolis;Minas Gerais
+31;313665;Juatuba;Minas Gerais
+31;313670;Juiz de Fora;Minas Gerais
+31;313680;Juramento;Minas Gerais
+31;313690;Juruaia;Minas Gerais
+31;313695;Juvenília;Minas Gerais
+31;313700;Ladainha;Minas Gerais
+31;313710;Lagamar;Minas Gerais
+31;313720;Lagoa da Prata;Minas Gerais
+31;313730;Lagoa dos Patos;Minas Gerais
+31;313740;Lagoa Dourada;Minas Gerais
+31;313750;Lagoa Formosa;Minas Gerais
+31;313753;Lagoa Grande;Minas Gerais
+31;313760;Lagoa Santa;Minas Gerais
+31;313770;Lajinha;Minas Gerais
+31;313780;Lambari;Minas Gerais
+31;313790;Lamim;Minas Gerais
+31;313800;Laranjal;Minas Gerais
+31;313810;Lassance;Minas Gerais
+31;313820;Lavras;Minas Gerais
+31;313830;Leandro Ferreira;Minas Gerais
+31;313835;Leme do Prado;Minas Gerais
+31;313840;Leopoldina;Minas Gerais
+31;313850;Liberdade;Minas Gerais
+31;313860;Lima Duarte;Minas Gerais
+31;313862;Limeira do Oeste;Minas Gerais
+31;313865;Lontra;Minas Gerais
+31;313867;Luisburgo;Minas Gerais
+31;313868;Luislândia;Minas Gerais
+31;313870;Luminárias;Minas Gerais
+31;313880;Luz;Minas Gerais
+31;313890;Machacalis;Minas Gerais
+31;313900;Machado;Minas Gerais
+31;313910;Madre de Deus de Minas;Minas Gerais
+31;313920;Malacacheta;Minas Gerais
+31;313925;Mamonas;Minas Gerais
+31;313930;Manga;Minas Gerais
+31;313940;Manhuaçu;Minas Gerais
+31;313950;Manhumirim;Minas Gerais
+31;313960;Mantena;Minas Gerais
+31;313980;Mar de Espanha;Minas Gerais
+31;313970;Maravilhas;Minas Gerais
+31;313990;Maria da Fé;Minas Gerais
+31;314000;Mariana;Minas Gerais
+31;314010;Marilac;Minas Gerais
+31;314015;Mário Campos;Minas Gerais
+31;314020;Maripá de Minas;Minas Gerais
+31;314030;Marliéria;Minas Gerais
+31;314040;Marmelópolis;Minas Gerais
+31;314050;Martinho Campos;Minas Gerais
+31;314053;Martins Soares;Minas Gerais
+31;314055;Mata Verde;Minas Gerais
+31;314060;Materlândia;Minas Gerais
+31;314070;Mateus Leme;Minas Gerais
+31;317150;Mathias Lobato;Minas Gerais
+31;314080;Matias Barbosa;Minas Gerais
+31;314085;Matias Cardoso;Minas Gerais
+31;314090;Matipó;Minas Gerais
+31;314100;Mato Verde;Minas Gerais
+31;314110;Matozinhos;Minas Gerais
+31;314120;Matutina;Minas Gerais
+31;314130;Medeiros;Minas Gerais
+31;314140;Medina;Minas Gerais
+31;314150;Mendes Pimentel;Minas Gerais
+31;314160;Mercês;Minas Gerais
+31;314170;Mesquita;Minas Gerais
+31;314180;Minas Novas;Minas Gerais
+31;314190;Minduri;Minas Gerais
+31;314200;Mirabela;Minas Gerais
+31;314210;Miradouro;Minas Gerais
+31;314220;Miraí;Minas Gerais
+31;314225;Miravânia;Minas Gerais
+31;314230;Moeda;Minas Gerais
+31;314240;Moema;Minas Gerais
+31;314250;Monjolos;Minas Gerais
+31;314260;Monsenhor Paulo;Minas Gerais
+31;314270;Montalvânia;Minas Gerais
+31;314280;Monte Alegre de Minas;Minas Gerais
+31;314290;Monte Azul;Minas Gerais
+31;314300;Monte Belo;Minas Gerais
+31;314310;Monte Carmelo;Minas Gerais
+31;314315;Monte Formoso;Minas Gerais
+31;314320;Monte Santo de Minas;Minas Gerais
+31;314340;Monte Sião;Minas Gerais
+31;314330;Montes Claros;Minas Gerais
+31;314345;Montezuma;Minas Gerais
+31;314350;Morada Nova de Minas;Minas Gerais
+31;314360;Morro da Garça;Minas Gerais
+31;314370;Morro do Pilar;Minas Gerais
+31;314380;Munhoz;Minas Gerais
+31;314390;Muriaé;Minas Gerais
+31;314400;Mutum;Minas Gerais
+31;314410;Muzambinho;Minas Gerais
+31;314420;Nacip Raydan;Minas Gerais
+31;314430;Nanuque;Minas Gerais
+31;314435;Naque;Minas Gerais
+31;314437;Natalândia;Minas Gerais
+31;314440;Natércia;Minas Gerais
+31;314450;Nazareno;Minas Gerais
+31;314460;Nepomuceno;Minas Gerais
+31;314465;Ninheira;Minas Gerais
+31;314467;Nova Belém;Minas Gerais
+31;314470;Nova Era;Minas Gerais
+31;314480;Nova Lima;Minas Gerais
+31;314490;Nova Módica;Minas Gerais
+31;314500;Nova Ponte;Minas Gerais
+31;314505;Nova Porteirinha;Minas Gerais
+31;314510;Nova Resende;Minas Gerais
+31;314520;Nova Serrana;Minas Gerais
+31;313660;Nova União;Minas Gerais
+31;314530;Novo Cruzeiro;Minas Gerais
+31;314535;Novo Oriente de Minas;Minas Gerais
+31;314537;Novorizonte;Minas Gerais
+31;314540;Olaria;Minas Gerais
+31;314545;Olhos-d'Água;Minas Gerais
+31;314550;Olímpio Noronha;Minas Gerais
+31;314560;Oliveira;Minas Gerais
+31;314570;Oliveira Fortes;Minas Gerais
+31;314580;Onça de Pitangui;Minas Gerais
+31;314585;Oratórios;Minas Gerais
+31;314587;Orizânia;Minas Gerais
+31;314590;Ouro Branco;Minas Gerais
+31;314600;Ouro Fino;Minas Gerais
+31;314610;Ouro Preto;Minas Gerais
+31;314620;Ouro Verde de Minas;Minas Gerais
+31;314625;Padre Carvalho;Minas Gerais
+31;314630;Padre Paraíso;Minas Gerais
+31;314655;Pai Pedro;Minas Gerais
+31;314640;Paineiras;Minas Gerais
+31;314650;Pains;Minas Gerais
+31;314660;Paiva;Minas Gerais
+31;314670;Palma;Minas Gerais
+31;314675;Palmópolis;Minas Gerais
+31;314690;Papagaios;Minas Gerais
+31;314710;Pará de Minas;Minas Gerais
+31;314700;Paracatu;Minas Gerais
+31;314720;Paraguaçu;Minas Gerais
+31;314730;Paraisópolis;Minas Gerais
+31;314740;Paraopeba;Minas Gerais
+31;314760;Passa Quatro;Minas Gerais
+31;314770;Passa Tempo;Minas Gerais
+31;314750;Passabém;Minas Gerais
+31;314780;Passa-Vinte;Minas Gerais
+31;314790;Passos;Minas Gerais
+31;314795;Patis;Minas Gerais
+31;314800;Patos de Minas;Minas Gerais
+31;314810;Patrocínio;Minas Gerais
+31;314820;Patrocínio do Muriaé;Minas Gerais
+31;314830;Paula Cândido;Minas Gerais
+31;314840;Paulistas;Minas Gerais
+31;314850;Pavão;Minas Gerais
+31;314860;Peçanha;Minas Gerais
+31;314870;Pedra Azul;Minas Gerais
+31;314875;Pedra Bonita;Minas Gerais
+31;314880;Pedra do Anta;Minas Gerais
+31;314890;Pedra do Indaiá;Minas Gerais
+31;314900;Pedra Dourada;Minas Gerais
+31;314910;Pedralva;Minas Gerais
+31;314915;Pedras de Maria da Cruz;Minas Gerais
+31;314920;Pedrinópolis;Minas Gerais
+31;314930;Pedro Leopoldo;Minas Gerais
+31;314940;Pedro Teixeira;Minas Gerais
+31;314950;Pequeri;Minas Gerais
+31;314960;Pequi;Minas Gerais
+31;314970;Perdigão;Minas Gerais
+31;314980;Perdizes;Minas Gerais
+31;314990;Perdões;Minas Gerais
+31;314995;Periquito;Minas Gerais
+31;315000;Pescador;Minas Gerais
+31;315010;Piau;Minas Gerais
+31;315015;Piedade de Caratinga;Minas Gerais
+31;315020;Piedade de Ponte Nova;Minas Gerais
+31;315030;Piedade do Rio Grande;Minas Gerais
+31;315040;Piedade dos Gerais;Minas Gerais
+31;315050;Pimenta;Minas Gerais
+31;315053;Pingo-d'Água;Minas Gerais
+31;315057;Pintópolis;Minas Gerais
+31;315060;Piracema;Minas Gerais
+31;315070;Pirajuba;Minas Gerais
+31;315080;Piranga;Minas Gerais
+31;315090;Piranguçu;Minas Gerais
+31;315100;Piranguinho;Minas Gerais
+31;315110;Pirapetinga;Minas Gerais
+31;315120;Pirapora;Minas Gerais
+31;315130;Piraúba;Minas Gerais
+31;315140;Pitangui;Minas Gerais
+31;315150;Piumhi;Minas Gerais
+31;315160;Planura;Minas Gerais
+31;315170;Poço Fundo;Minas Gerais
+31;315180;Poços de Caldas;Minas Gerais
+31;315190;Pocrane;Minas Gerais
+31;315200;Pompéu;Minas Gerais
+31;315210;Ponte Nova;Minas Gerais
+31;315213;Ponto Chique;Minas Gerais
+31;315217;Ponto dos Volantes;Minas Gerais
+31;315220;Porteirinha;Minas Gerais
+31;315230;Porto Firme;Minas Gerais
+31;315240;Poté;Minas Gerais
+31;315250;Pouso Alegre;Minas Gerais
+31;315260;Pouso Alto;Minas Gerais
+31;315270;Prados;Minas Gerais
+31;315280;Prata;Minas Gerais
+31;315290;Pratápolis;Minas Gerais
+31;315300;Pratinha;Minas Gerais
+31;315310;Presidente Bernardes;Minas Gerais
+31;315320;Presidente Juscelino;Minas Gerais
+31;315330;Presidente Kubitschek;Minas Gerais
+31;315340;Presidente Olegário;Minas Gerais
+31;315360;Prudente de Morais;Minas Gerais
+31;315370;Quartel Geral;Minas Gerais
+31;315380;Queluzito;Minas Gerais
+31;315390;Raposos;Minas Gerais
+31;315400;Raul Soares;Minas Gerais
+31;315410;Recreio;Minas Gerais
+31;315415;Reduto;Minas Gerais
+31;315420;Resende Costa;Minas Gerais
+31;315430;Resplendor;Minas Gerais
+31;315440;Ressaquinha;Minas Gerais
+31;315445;Riachinho;Minas Gerais
+31;315450;Riacho dos Machados;Minas Gerais
+31;315460;Ribeirão das Neves;Minas Gerais
+31;315470;Ribeirão Vermelho;Minas Gerais
+31;315480;Rio Acima;Minas Gerais
+31;315490;Rio Casca;Minas Gerais
+31;315510;Rio do Prado;Minas Gerais
+31;315500;Rio Doce;Minas Gerais
+31;315520;Rio Espera;Minas Gerais
+31;315530;Rio Manso;Minas Gerais
+31;315540;Rio Novo;Minas Gerais
+31;315550;Rio Paranaíba;Minas Gerais
+31;315560;Rio Pardo de Minas;Minas Gerais
+31;315570;Rio Piracicaba;Minas Gerais
+31;315580;Rio Pomba;Minas Gerais
+31;315590;Rio Preto;Minas Gerais
+31;315600;Rio Vermelho;Minas Gerais
+31;315610;Ritápolis;Minas Gerais
+31;315620;Rochedo de Minas;Minas Gerais
+31;315630;Rodeiro;Minas Gerais
+31;315640;Romaria;Minas Gerais
+31;315645;Rosário da Limeira;Minas Gerais
+31;315650;Rubelita;Minas Gerais
+31;315660;Rubim;Minas Gerais
+31;315670;Sabará;Minas Gerais
+31;315680;Sabinópolis;Minas Gerais
+31;315690;Sacramento;Minas Gerais
+31;315700;Salinas;Minas Gerais
+31;315710;Salto da Divisa;Minas Gerais
+31;315720;Santa Bárbara;Minas Gerais
+31;315725;Santa Bárbara do Leste;Minas Gerais
+31;315727;Santa Bárbara do Monte Verde;Minas Gerais
+31;315730;Santa Bárbara do Tugúrio;Minas Gerais
+31;315733;Santa Cruz de Minas;Minas Gerais
+31;315737;Santa Cruz de Salinas;Minas Gerais
+31;315740;Santa Cruz do Escalvado;Minas Gerais
+31;315750;Santa Efigênia de Minas;Minas Gerais
+31;315760;Santa Fé de Minas;Minas Gerais
+31;315765;Santa Helena de Minas;Minas Gerais
+31;315770;Santa Juliana;Minas Gerais
+31;315780;Santa Luzia;Minas Gerais
+31;315790;Santa Margarida;Minas Gerais
+31;315800;Santa Maria de Itabira;Minas Gerais
+31;315810;Santa Maria do Salto;Minas Gerais
+31;315820;Santa Maria do Suaçuí;Minas Gerais
+31;315920;Santa Rita de Caldas;Minas Gerais
+31;315940;Santa Rita de Ibitipoca;Minas Gerais
+31;315930;Santa Rita de Jacutinga;Minas Gerais
+31;315935;Santa Rita de Minas;Minas Gerais
+31;315950;Santa Rita do Itueto;Minas Gerais
+31;315960;Santa Rita do Sapucaí;Minas Gerais
+31;315970;Santa Rosa da Serra;Minas Gerais
+31;315980;Santa Vitória;Minas Gerais
+31;315830;Santana da Vargem;Minas Gerais
+31;315840;Santana de Cataguases;Minas Gerais
+31;315850;Santana de Pirapama;Minas Gerais
+31;315860;Santana do Deserto;Minas Gerais
+31;315870;Santana do Garambéu;Minas Gerais
+31;315880;Santana do Jacaré;Minas Gerais
+31;315890;Santana do Manhuaçu;Minas Gerais
+31;315895;Santana do Paraíso;Minas Gerais
+31;315900;Santana do Riacho;Minas Gerais
+31;315910;Santana dos Montes;Minas Gerais
+31;315990;Santo Antônio do Amparo;Minas Gerais
+31;316000;Santo Antônio do Aventureiro;Minas Gerais
+31;316010;Santo Antônio do Grama;Minas Gerais
+31;316020;Santo Antônio do Itambé;Minas Gerais
+31;316030;Santo Antônio do Jacinto;Minas Gerais
+31;316040;Santo Antônio do Monte;Minas Gerais
+31;316045;Santo Antônio do Retiro;Minas Gerais
+31;316050;Santo Antônio do Rio Abaixo;Minas Gerais
+31;316060;Santo Hipólito;Minas Gerais
+31;316070;Santos Dumont;Minas Gerais
+31;316080;São Bento Abade;Minas Gerais
+31;316090;São Brás do Suaçuí;Minas Gerais
+31;316095;São Domingos das Dores;Minas Gerais
+31;316100;São Domingos do Prata;Minas Gerais
+31;316105;São Félix de Minas;Minas Gerais
+31;316110;São Francisco;Minas Gerais
+31;316120;São Francisco de Paula;Minas Gerais
+31;316130;São Francisco de Sales;Minas Gerais
+31;316140;São Francisco do Glória;Minas Gerais
+31;316150;São Geraldo;Minas Gerais
+31;316160;São Geraldo da Piedade;Minas Gerais
+31;316165;São Geraldo do Baixio;Minas Gerais
+31;316170;São Gonçalo do Abaeté;Minas Gerais
+31;316180;São Gonçalo do Pará;Minas Gerais
+31;316190;São Gonçalo do Rio Abaixo;Minas Gerais
+31;312550;São Gonçalo do Rio Preto;Minas Gerais
+31;316200;São Gonçalo do Sapucaí;Minas Gerais
+31;316210;São Gotardo;Minas Gerais
+31;316220;São João Batista do Glória;Minas Gerais
+31;316225;São João da Lagoa;Minas Gerais
+31;316230;São João da Mata;Minas Gerais
+31;316240;São João da Ponte;Minas Gerais
+31;316245;São João das Missões;Minas Gerais
+31;316250;São João del Rei;Minas Gerais
+31;316255;São João do Manhuaçu;Minas Gerais
+31;316257;São João do Manteninha;Minas Gerais
+31;316260;São João do Oriente;Minas Gerais
+31;316265;São João do Pacuí;Minas Gerais
+31;316270;São João do Paraíso;Minas Gerais
+31;316280;São João Evangelista;Minas Gerais
+31;316290;São João Nepomuceno;Minas Gerais
+31;316292;São Joaquim de Bicas;Minas Gerais
+31;316294;São José da Barra;Minas Gerais
+31;316295;São José da Lapa;Minas Gerais
+31;316300;São José da Safira;Minas Gerais
+31;316310;São José da Varginha;Minas Gerais
+31;316320;São José do Alegre;Minas Gerais
+31;316330;São José do Divino;Minas Gerais
+31;316340;São José do Goiabal;Minas Gerais
+31;316350;São José do Jacuri;Minas Gerais
+31;316360;São José do Mantimento;Minas Gerais
+31;316370;São Lourenço;Minas Gerais
+31;316380;São Miguel do Anta;Minas Gerais
+31;316390;São Pedro da União;Minas Gerais
+31;316410;São Pedro do Suaçuí;Minas Gerais
+31;316400;São Pedro dos Ferros;Minas Gerais
+31;316420;São Romão;Minas Gerais
+31;316430;São Roque de Minas;Minas Gerais
+31;316440;São Sebastião da Bela Vista;Minas Gerais
+31;316443;São Sebastião da Vargem Alegre;Minas Gerais
+31;316447;São Sebastião do Anta;Minas Gerais
+31;316450;São Sebastião do Maranhão;Minas Gerais
+31;316460;São Sebastião do Oeste;Minas Gerais
+31;316470;São Sebastião do Paraíso;Minas Gerais
+31;316480;São Sebastião do Rio Preto;Minas Gerais
+31;316490;São Sebastião do Rio Verde;Minas Gerais
+31;316520;São Thomé das Letras;Minas Gerais
+31;316500;São Tiago;Minas Gerais
+31;316510;São Tomás de Aquino;Minas Gerais
+31;316530;São Vicente de Minas;Minas Gerais
+31;316540;Sapucaí-Mirim;Minas Gerais
+31;316550;Sardoá;Minas Gerais
+31;316553;Sarzedo;Minas Gerais
+31;316556;Sem-Peixe;Minas Gerais
+31;316557;Senador Amaral;Minas Gerais
+31;316560;Senador Cortes;Minas Gerais
+31;316570;Senador Firmino;Minas Gerais
+31;316580;Senador José Bento;Minas Gerais
+31;316590;Senador Modestino Gonçalves;Minas Gerais
+31;316600;Senhora de Oliveira;Minas Gerais
+31;316610;Senhora do Porto;Minas Gerais
+31;316620;Senhora dos Remédios;Minas Gerais
+31;316630;Sericita;Minas Gerais
+31;316640;Seritinga;Minas Gerais
+31;316650;Serra Azul de Minas;Minas Gerais
+31;316660;Serra da Saudade;Minas Gerais
+31;316680;Serra do Salitre;Minas Gerais
+31;316670;Serra dos Aimorés;Minas Gerais
+31;316690;Serrania;Minas Gerais
+31;316695;Serranópolis de Minas;Minas Gerais
+31;316700;Serranos;Minas Gerais
+31;316710;Serro;Minas Gerais
+31;316720;Sete Lagoas;Minas Gerais
+31;316555;Setubinha;Minas Gerais
+31;316730;Silveirânia;Minas Gerais
+31;316740;Silvianópolis;Minas Gerais
+31;316750;Simão Pereira;Minas Gerais
+31;316760;Simonésia;Minas Gerais
+31;316770;Sobrália;Minas Gerais
+31;316780;Soledade de Minas;Minas Gerais
+31;316790;Tabuleiro;Minas Gerais
+31;316800;Taiobeiras;Minas Gerais
+31;316805;Taparuba;Minas Gerais
+31;316810;Tapira;Minas Gerais
+31;316820;Tapiraí;Minas Gerais
+31;316830;Taquaraçu de Minas;Minas Gerais
+31;316840;Tarumirim;Minas Gerais
+31;316850;Teixeiras;Minas Gerais
+31;316860;Teófilo Otoni;Minas Gerais
+31;316870;Timóteo;Minas Gerais
+31;316880;Tiradentes;Minas Gerais
+31;316890;Tiros;Minas Gerais
+31;316900;Tocantins;Minas Gerais
+31;316905;Tocos do Moji;Minas Gerais
+31;316910;Toledo;Minas Gerais
+31;316920;Tombos;Minas Gerais
+31;316930;Três Corações;Minas Gerais
+31;316935;Três Marias;Minas Gerais
+31;316940;Três Pontas;Minas Gerais
+31;316950;Tumiritinga;Minas Gerais
+31;316960;Tupaciguara;Minas Gerais
+31;316970;Turmalina;Minas Gerais
+31;316980;Turvolândia;Minas Gerais
+31;316990;Ubá;Minas Gerais
+31;317000;Ubaí;Minas Gerais
+31;317005;Ubaporanga;Minas Gerais
+31;317010;Uberaba;Minas Gerais
+31;317020;Uberlândia;Minas Gerais
+31;317030;Umburatiba;Minas Gerais
+31;317040;Unaí;Minas Gerais
+31;317043;União de Minas;Minas Gerais
+31;317047;Uruana de Minas;Minas Gerais
+31;317050;Urucânia;Minas Gerais
+31;317052;Urucuia;Minas Gerais
+31;317057;Vargem Alegre;Minas Gerais
+31;317060;Vargem Bonita;Minas Gerais
+31;317065;Vargem Grande do Rio Pardo;Minas Gerais
+31;317070;Varginha;Minas Gerais
+31;317075;Varjão de Minas;Minas Gerais
+31;317080;Várzea da Palma;Minas Gerais
+31;317090;Varzelândia;Minas Gerais
+31;317100;Vazante;Minas Gerais
+31;317103;Verdelândia;Minas Gerais
+31;317107;Veredinha;Minas Gerais
+31;317110;Veríssimo;Minas Gerais
+31;317115;Vermelho Novo;Minas Gerais
+31;317120;Vespasiano;Minas Gerais
+31;317130;Viçosa;Minas Gerais
+31;317140;Vieiras;Minas Gerais
+31;317160;Virgem da Lapa;Minas Gerais
+31;317170;Virgínia;Minas Gerais
+31;317180;Virginópolis;Minas Gerais
+31;317190;Virgolândia;Minas Gerais
+31;317200;Visconde do Rio Branco;Minas Gerais
+31;317210;Volta Grande;Minas Gerais
+31;317220;Wenceslau Braz;Minas Gerais
+15;150010;Abaetetuba;Para
+15;150013;Abel Figueiredo;Para
+15;150020;Acará;Para
+15;150030;Afuá;Para
+15;150034;Água Azul do Norte;Para
+15;150040;Alenquer;Para
+15;150050;Almeirim;Para
+15;150060;Altamira;Para
+15;150070;Anajás;Para
+15;150080;Ananindeua;Para
+15;150085;Anapu;Para
+15;150090;Augusto Corrêa;Para
+15;150095;Aurora do Pará;Para
+15;150100;Aveiro;Para
+15;150110;Bagre;Para
+15;150120;Baião;Para
+15;150125;Bannach;Para
+15;150130;Barcarena;Para
+15;150140;Belém;Para
+15;150145;Belterra;Para
+15;150150;Benevides;Para
+15;150157;Bom Jesus do Tocantins;Para
+15;150160;Bonito;Para
+15;150170;Bragança;Para
+15;150172;Brasil Novo;Para
+15;150175;Brejo Grande do Araguaia;Para
+15;150178;Breu Branco;Para
+15;150180;Breves;Para
+15;150190;Bujaru;Para
+15;150200;Cachoeira do Arari;Para
+15;150195;Cachoeira do Piriá;Para
+15;150210;Cametá;Para
+15;150215;Canaã dos Carajás;Para
+15;150220;Capanema;Para
+15;150230;Capitão Poço;Para
+15;150240;Castanhal;Para
+15;150250;Chaves;Para
+15;150260;Colares;Para
+15;150270;Conceição do Araguaia;Para
+15;150275;Concórdia do Pará;Para
+15;150276;Cumaru do Norte;Para
+15;150277;Curionópolis;Para
+15;150280;Curralinho;Para
+15;150285;Curuá;Para
+15;150290;Curuçá;Para
+15;150293;Dom Eliseu;Para
+15;150295;Eldorado dos Carajás;Para
+15;150300;Faro;Para
+15;150304;Floresta do Araguaia;Para
+15;150307;Garrafão do Norte;Para
+15;150309;Goianésia do Pará;Para
+15;150310;Gurupá;Para
+15;150320;Igarapé-Açu;Para
+15;150330;Igarapé-Miri;Para
+15;150340;Inhangapi;Para
+15;150345;Ipixuna do Pará;Para
+15;150350;Irituia;Para
+15;150360;Itaituba;Para
+15;150370;Itupiranga;Para
+15;150375;Jacareacanga;Para
+15;150380;Jacundá;Para
+15;150390;Juruti;Para
+15;150400;Limoeiro do Ajuru;Para
+15;150405;Mãe do Rio;Para
+15;150410;Magalhães Barata;Para
+15;150420;Marabá;Para
+15;150430;Maracanã;Para
+15;150440;Marapanim;Para
+15;150442;Marituba;Para
+15;150445;Medicilândia;Para
+15;150450;Melgaço;Para
+15;150460;Mocajuba;Para
+15;150470;Moju;Para
+15;150475;Mojuí dos Campos;Para
+15;150480;Monte Alegre;Para
+15;150490;Muaná;Para
+15;150495;Nova Esperança do Piriá;Para
+15;150497;Nova Ipixuna;Para
+15;150500;Nova Timboteua;Para
+15;150503;Novo Progresso;Para
+15;150506;Novo Repartimento;Para
+15;150510;Óbidos;Para
+15;150520;Oeiras do Pará;Para
+15;150530;Oriximiná;Para
+15;150540;Ourém;Para
+15;150543;Ourilândia do Norte;Para
+15;150548;Pacajá;Para
+15;150549;Palestina do Pará;Para
+15;150550;Paragominas;Para
+15;150553;Parauapebas;Para
+15;150555;Pau D'Arco;Para
+15;150560;Peixe-Boi;Para
+15;150563;Piçarra;Para
+15;150565;Placas;Para
+15;150570;Ponta de Pedras;Para
+15;150580;Portel;Para
+15;150590;Porto de Moz;Para
+15;150600;Prainha;Para
+15;150610;Primavera;Para
+15;150611;Quatipuru;Para
+15;150613;Redenção;Para
+15;150616;Rio Maria;Para
+15;150618;Rondon do Pará;Para
+15;150619;Rurópolis;Para
+15;150620;Salinópolis;Para
+15;150630;Salvaterra;Para
+15;150635;Santa Bárbara do Pará;Para
+15;150640;Santa Cruz do Arari;Para
+15;150650;Santa Izabel do Pará;Para
+15;150655;Santa Luzia do Pará;Para
+15;150658;Santa Maria das Barreiras;Para
+15;150660;Santa Maria do Pará;Para
+15;150670;Santana do Araguaia;Para
+15;150680;Santarém;Para
+15;150690;Santarém Novo;Para
+15;150700;Santo Antônio do Tauá;Para
+15;150710;São Caetano de Odivelas;Para
+15;150715;São Domingos do Araguaia;Para
+15;150720;São Domingos do Capim;Para
+15;150730;São Félix do Xingu;Para
+15;150740;São Francisco do Pará;Para
+15;150745;São Geraldo do Araguaia;Para
+15;150746;São João da Ponta;Para
+15;150747;São João de Pirabas;Para
+15;150750;São João do Araguaia;Para
+15;150760;São Miguel do Guamá;Para
+15;150770;São Sebastião da Boa Vista;Para
+15;150775;Sapucaia;Para
+15;150780;Senador José Porfírio;Para
+15;150790;Soure;Para
+15;150795;Tailândia;Para
+15;150796;Terra Alta;Para
+15;150797;Terra Santa;Para
+15;150800;Tomé-Açu;Para
+15;150803;Tracuateua;Para
+15;150805;Trairão;Para
+15;150808;Tucumã;Para
+15;150810;Tucuruí;Para
+15;150812;Ulianópolis;Para
+15;150815;Uruará;Para
+15;150820;Vigia;Para
+15;150830;Viseu;Para
+15;150835;Vitória do Xingu;Para
+15;150840;Xinguara;Para
+25;250010;Água Branca;Paraiba
+25;250020;Aguiar;Paraiba
+25;250030;Alagoa Grande;Paraiba
+25;250040;Alagoa Nova;Paraiba
+25;250050;Alagoinha;Paraiba
+25;250053;Alcantil;Paraiba
+25;250057;Algodão de Jandaíra;Paraiba
+25;250060;Alhandra;Paraiba
+25;250073;Amparo;Paraiba
+25;250077;Aparecida;Paraiba
+25;250080;Araçagi;Paraiba
+25;250090;Arara;Paraiba
+25;250100;Araruna;Paraiba
+25;250110;Areia;Paraiba
+25;250115;Areia de Baraúnas;Paraiba
+25;250120;Areial;Paraiba
+25;250130;Aroeiras;Paraiba
+25;250135;Assunção;Paraiba
+25;250140;Baía da Traição;Paraiba
+25;250150;Bananeiras;Paraiba
+25;250153;Baraúna;Paraiba
+25;250160;Barra de Santa Rosa;Paraiba
+25;250157;Barra de Santana;Paraiba
+25;250170;Barra de São Miguel;Paraiba
+25;250180;Bayeux;Paraiba
+25;250190;Belém;Paraiba
+25;250200;Belém do Brejo do Cruz;Paraiba
+25;250205;Bernardino Batista;Paraiba
+25;250210;Boa Ventura;Paraiba
+25;250215;Boa Vista;Paraiba
+25;250220;Bom Jesus;Paraiba
+25;250230;Bom Sucesso;Paraiba
+25;250240;Bonito de Santa Fé;Paraiba
+25;250250;Boqueirão;Paraiba
+25;250270;Borborema;Paraiba
+25;250280;Brejo do Cruz;Paraiba
+25;250290;Brejo dos Santos;Paraiba
+25;250300;Caaporã;Paraiba
+25;250310;Cabaceiras;Paraiba
+25;250320;Cabedelo;Paraiba
+25;250330;Cachoeira dos Índios;Paraiba
+25;250340;Cacimba de Areia;Paraiba
+25;250350;Cacimba de Dentro;Paraiba
+25;250355;Cacimbas;Paraiba
+25;250360;Caiçara;Paraiba
+25;250370;Cajazeiras;Paraiba
+25;250375;Cajazeirinhas;Paraiba
+25;250380;Caldas Brandão;Paraiba
+25;250390;Camalaú;Paraiba
+25;250400;Campina Grande;Paraiba
+25;250403;Capim;Paraiba
+25;250407;Caraúbas;Paraiba
+25;250410;Carrapateira;Paraiba
+25;250415;Casserengue;Paraiba
+25;250420;Catingueira;Paraiba
+25;250430;Catolé do Rocha;Paraiba
+25;250435;Caturité;Paraiba
+25;250440;Conceição;Paraiba
+25;250450;Condado;Paraiba
+25;250460;Conde;Paraiba
+25;250470;Congo;Paraiba
+25;250480;Coremas;Paraiba
+25;250485;Coxixola;Paraiba
+25;250490;Cruz do Espírito Santo;Paraiba
+25;250500;Cubati;Paraiba
+25;250510;Cuité;Paraiba
+25;250523;Cuité de Mamanguape;Paraiba
+25;250520;Cuitegi;Paraiba
+25;250527;Curral de Cima;Paraiba
+25;250530;Curral Velho;Paraiba
+25;250535;Damião;Paraiba
+25;250540;Desterro;Paraiba
+25;250560;Diamante;Paraiba
+25;250570;Dona Inês;Paraiba
+25;250580;Duas Estradas;Paraiba
+25;250590;Emas;Paraiba
+25;250600;Esperança;Paraiba
+25;250610;Fagundes;Paraiba
+25;250620;Frei Martinho;Paraiba
+25;250625;Gado Bravo;Paraiba
+25;250630;Guarabira;Paraiba
+25;250640;Gurinhém;Paraiba
+25;250650;Gurjão;Paraiba
+25;250660;Ibiara;Paraiba
+25;250260;Igaracy;Paraiba
+25;250670;Imaculada;Paraiba
+25;250680;Ingá;Paraiba
+25;250690;Itabaiana;Paraiba
+25;250700;Itaporanga;Paraiba
+25;250710;Itapororoca;Paraiba
+25;250720;Itatuba;Paraiba
+25;250730;Jacaraú;Paraiba
+25;250740;Jericó;Paraiba
+25;250750;João Pessoa;Paraiba
+25;251365;Joca Claudino;Paraiba
+25;250760;Juarez Távora;Paraiba
+25;250770;Juazeirinho;Paraiba
+25;250780;Junco do Seridó;Paraiba
+25;250790;Juripiranga;Paraiba
+25;250800;Juru;Paraiba
+25;250810;Lagoa;Paraiba
+25;250820;Lagoa de Dentro;Paraiba
+25;250830;Lagoa Seca;Paraiba
+25;250840;Lastro;Paraiba
+25;250850;Livramento;Paraiba
+25;250855;Logradouro;Paraiba
+25;250860;Lucena;Paraiba
+25;250870;Mãe d'Água;Paraiba
+25;250880;Malta;Paraiba
+25;250890;Mamanguape;Paraiba
+25;250900;Manaíra;Paraiba
+25;250905;Marcação;Paraiba
+25;250910;Mari;Paraiba
+25;250915;Marizópolis;Paraiba
+25;250920;Massaranduba;Paraiba
+25;250930;Mataraca;Paraiba
+25;250933;Matinhas;Paraiba
+25;250937;Mato Grosso;Paraiba
+25;250939;Maturéia;Paraiba
+25;250940;Mogeiro;Paraiba
+25;250950;Montadas;Paraiba
+25;250960;Monte Horebe;Paraiba
+25;250970;Monteiro;Paraiba
+25;250980;Mulungu;Paraiba
+25;250990;Natuba;Paraiba
+25;251000;Nazarezinho;Paraiba
+25;251010;Nova Floresta;Paraiba
+25;251020;Nova Olinda;Paraiba
+25;251030;Nova Palmeira;Paraiba
+25;251040;Olho d'Água;Paraiba
+25;251050;Olivedos;Paraiba
+25;251060;Ouro Velho;Paraiba
+25;251065;Parari;Paraiba
+25;251070;Passagem;Paraiba
+25;251080;Patos;Paraiba
+25;251090;Paulista;Paraiba
+25;251100;Pedra Branca;Paraiba
+25;251110;Pedra Lavrada;Paraiba
+25;251120;Pedras de Fogo;Paraiba
+25;251272;Pedro Régis;Paraiba
+25;251130;Piancó;Paraiba
+25;251140;Picuí;Paraiba
+25;251150;Pilar;Paraiba
+25;251160;Pilões;Paraiba
+25;251170;Pilõezinhos;Paraiba
+25;251180;Pirpirituba;Paraiba
+25;251190;Pitimbu;Paraiba
+25;251200;Pocinhos;Paraiba
+25;251203;Poço Dantas;Paraiba
+25;251207;Poço de José de Moura;Paraiba
+25;251210;Pombal;Paraiba
+25;251220;Prata;Paraiba
+25;251230;Princesa Isabel;Paraiba
+25;251240;Puxinanã;Paraiba
+25;251250;Queimadas;Paraiba
+25;251260;Quixabá;Paraiba
+25;251270;Remígio;Paraiba
+25;251274;Riachão;Paraiba
+25;251275;Riachão do Bacamarte;Paraiba
+25;251276;Riachão do Poço;Paraiba
+25;251278;Riacho de Santo Antônio;Paraiba
+25;251280;Riacho dos Cavalos;Paraiba
+25;251290;Rio Tinto;Paraiba
+25;251300;Salgadinho;Paraiba
+25;251310;Salgado de São Félix;Paraiba
+25;251315;Santa Cecília;Paraiba
+25;251320;Santa Cruz;Paraiba
+25;251330;Santa Helena;Paraiba
+25;251335;Santa Inês;Paraiba
+25;251340;Santa Luzia;Paraiba
+25;251370;Santa Rita;Paraiba
+25;251380;Santa Teresinha;Paraiba
+25;251350;Santana de Mangueira;Paraiba
+25;251360;Santana dos Garrotes;Paraiba
+25;251385;Santo André;Paraiba
+25;251392;São Bentinho;Paraiba
+25;251390;São Bento;Paraiba
+25;251396;São Domingos de Pombal;Paraiba
+25;251394;São Domingos do Cariri;Paraiba
+25;251398;São Francisco;Paraiba
+25;251400;São João do Cariri;Paraiba
+25;250070;São João do Rio do Peixe;Paraiba
+25;251410;São João do Tigre;Paraiba
+25;251420;São José da Lagoa Tapada;Paraiba
+25;251430;São José de Caiana;Paraiba
+25;251440;São José de Espinharas;Paraiba
+25;251450;São José de Piranhas;Paraiba
+25;251455;São José de Princesa;Paraiba
+25;251460;São José do Bonfim;Paraiba
+25;251465;São José do Brejo do Cruz;Paraiba
+25;251470;São José do Sabugi;Paraiba
+25;251480;São José dos Cordeiros;Paraiba
+25;251445;São José dos Ramos;Paraiba
+25;251490;São Mamede;Paraiba
+25;251500;São Miguel de Taipu;Paraiba
+25;251510;São Sebastião de Lagoa de Roça;Paraiba
+25;251520;São Sebastião do Umbuzeiro;Paraiba
+25;251530;Sapé;Paraiba
+25;251540;Seridó;Paraiba
+25;251550;Serra Branca;Paraiba
+25;251560;Serra da Raiz;Paraiba
+25;251570;Serra Grande;Paraiba
+25;251580;Serra Redonda;Paraiba
+25;251590;Serraria;Paraiba
+25;251593;Sertãozinho;Paraiba
+25;251597;Sobrado;Paraiba
+25;251600;Solânea;Paraiba
+25;251610;Soledade;Paraiba
+25;251615;Sossêgo;Paraiba
+25;251620;Sousa;Paraiba
+25;251630;Sumé;Paraiba
+25;251640;Tacima;Paraiba
+25;251650;Taperoá;Paraiba
+25;251660;Tavares;Paraiba
+25;251670;Teixeira;Paraiba
+25;251675;Tenório;Paraiba
+25;251680;Triunfo;Paraiba
+25;251690;Uiraúna;Paraiba
+25;251700;Umbuzeiro;Paraiba
+25;251710;Várzea;Paraiba
+25;251720;Vieirópolis;Paraiba
+25;250550;Vista Serrana;Paraiba
+25;251740;Zabelê;Paraiba
+41;410010;Abatiá;Parana
+41;410020;Adrianópolis;Parana
+41;410030;Agudos do Sul;Parana
+41;410040;Almirante Tamandaré;Parana
+41;410045;Altamira do Paraná;Parana
+41;412862;Alto Paraíso;Parana
+41;410060;Alto Paraná;Parana
+41;410070;Alto Piquiri;Parana
+41;410050;Altônia;Parana
+41;410080;Alvorada do Sul;Parana
+41;410090;Amaporã;Parana
+41;410100;Ampére;Parana
+41;410105;Anahy;Parana
+41;410110;Andirá;Parana
+41;410115;Ângulo;Parana
+41;410120;Antonina;Parana
+41;410130;Antônio Olinto;Parana
+41;410140;Apucarana;Parana
+41;410150;Arapongas;Parana
+41;410160;Arapoti;Parana
+41;410165;Arapuã;Parana
+41;410170;Araruna;Parana
+41;410180;Araucária;Parana
+41;410185;Ariranha do Ivaí;Parana
+41;410190;Assaí;Parana
+41;410200;Assis Chateaubriand;Parana
+41;410210;Astorga;Parana
+41;410220;Atalaia;Parana
+41;410230;Balsa Nova;Parana
+41;410240;Bandeirantes;Parana
+41;410250;Barbosa Ferraz;Parana
+41;410270;Barra do Jacaré;Parana
+41;410260;Barracão;Parana
+41;410275;Bela Vista da Caroba;Parana
+41;410280;Bela Vista do Paraíso;Parana
+41;410290;Bituruna;Parana
+41;410300;Boa Esperança;Parana
+41;410302;Boa Esperança do Iguaçu;Parana
+41;410304;Boa Ventura de São Roque;Parana
+41;410305;Boa Vista da Aparecida;Parana
+41;410310;Bocaiúva do Sul;Parana
+41;410315;Bom Jesus do Sul;Parana
+41;410320;Bom Sucesso;Parana
+41;410322;Bom Sucesso do Sul;Parana
+41;410330;Borrazópolis;Parana
+41;410335;Braganey;Parana
+41;410337;Brasilândia do Sul;Parana
+41;410340;Cafeara;Parana
+41;410345;Cafelândia;Parana
+41;410347;Cafezal do Sul;Parana
+41;410350;Califórnia;Parana
+41;410360;Cambará;Parana
+41;410370;Cambé;Parana
+41;410380;Cambira;Parana
+41;410390;Campina da Lagoa;Parana
+41;410395;Campina do Simão;Parana
+41;410400;Campina Grande do Sul;Parana
+41;410405;Campo Bonito;Parana
+41;410410;Campo do Tenente;Parana
+41;410420;Campo Largo;Parana
+41;410425;Campo Magro;Parana
+41;410430;Campo Mourão;Parana
+41;410440;Cândido de Abreu;Parana
+41;410442;Candói;Parana
+41;410445;Cantagalo;Parana
+41;410450;Capanema;Parana
+41;410460;Capitão Leônidas Marques;Parana
+41;410465;Carambeí;Parana
+41;410470;Carlópolis;Parana
+41;410480;Cascavel;Parana
+41;410490;Castro;Parana
+41;410500;Catanduvas;Parana
+41;410510;Centenário do Sul;Parana
+41;410520;Cerro Azul;Parana
+41;410530;Céu Azul;Parana
+41;410540;Chopinzinho;Parana
+41;410550;Cianorte;Parana
+41;410560;Cidade Gaúcha;Parana
+41;410570;Clevelândia;Parana
+41;410580;Colombo;Parana
+41;410590;Colorado;Parana
+41;410600;Congonhinhas;Parana
+41;410610;Conselheiro Mairinck;Parana
+41;410620;Contenda;Parana
+41;410630;Corbélia;Parana
+41;410640;Cornélio Procópio;Parana
+41;410645;Coronel Domingos Soares;Parana
+41;410650;Coronel Vivida;Parana
+41;410655;Corumbataí do Sul;Parana
+41;410680;Cruz Machado;Parana
+41;410657;Cruzeiro do Iguaçu;Parana
+41;410660;Cruzeiro do Oeste;Parana
+41;410670;Cruzeiro do Sul;Parana
+41;410685;Cruzmaltina;Parana
+41;410690;Curitiba;Parana
+41;410700;Curiúva;Parana
+41;410710;Diamante do Norte;Parana
+41;410712;Diamante do Sul;Parana
+41;410715;Diamante D'Oeste;Parana
+41;410720;Dois Vizinhos;Parana
+41;410725;Douradina;Parana
+41;410730;Doutor Camargo;Parana
+41;412863;Doutor Ulysses;Parana
+41;410740;Enéas Marques;Parana
+41;410750;Engenheiro Beltrão;Parana
+41;410753;Entre Rios do Oeste;Parana
+41;410752;Esperança Nova;Parana
+41;410754;Espigão Alto do Iguaçu;Parana
+41;410755;Farol;Parana
+41;410760;Faxinal;Parana
+41;410765;Fazenda Rio Grande;Parana
+41;410770;Fênix;Parana
+41;410773;Fernandes Pinheiro;Parana
+41;410775;Figueira;Parana
+41;410785;Flor da Serra do Sul;Parana
+41;410780;Floraí;Parana
+41;410790;Floresta;Parana
+41;410800;Florestópolis;Parana
+41;410810;Flórida;Parana
+41;410820;Formosa do Oeste;Parana
+41;410830;Foz do Iguaçu;Parana
+41;410845;Foz do Jordão;Parana
+41;410832;Francisco Alves;Parana
+41;410840;Francisco Beltrão;Parana
+41;410850;General Carneiro;Parana
+41;410855;Godoy Moreira;Parana
+41;410860;Goioerê;Parana
+41;410865;Goioxim;Parana
+41;410870;Grandes Rios;Parana
+41;410880;Guaíra;Parana
+41;410890;Guairaçá;Parana
+41;410895;Guamiranga;Parana
+41;410900;Guapirama;Parana
+41;410910;Guaporema;Parana
+41;410920;Guaraci;Parana
+41;410930;Guaraniaçu;Parana
+41;410940;Guarapuava;Parana
+41;410950;Guaraqueçaba;Parana
+41;410960;Guaratuba;Parana
+41;410965;Honório Serpa;Parana
+41;410970;Ibaiti;Parana
+41;410975;Ibema;Parana
+41;410980;Ibiporã;Parana
+41;410990;Icaraíma;Parana
+41;411000;Iguaraçu;Parana
+41;411005;Iguatu;Parana
+41;411007;Imbaú;Parana
+41;411010;Imbituva;Parana
+41;411020;Inácio Martins;Parana
+41;411030;Inajá;Parana
+41;411040;Indianópolis;Parana
+41;411050;Ipiranga;Parana
+41;411060;Iporã;Parana
+41;411065;Iracema do Oeste;Parana
+41;411070;Irati;Parana
+41;411080;Iretama;Parana
+41;411090;Itaguajé;Parana
+41;411095;Itaipulândia;Parana
+41;411100;Itambaracá;Parana
+41;411110;Itambé;Parana
+41;411120;Itapejara d'Oeste;Parana
+41;411125;Itaperuçu;Parana
+41;411130;Itaúna do Sul;Parana
+41;411140;Ivaí;Parana
+41;411150;Ivaiporã;Parana
+41;411155;Ivaté;Parana
+41;411160;Ivatuba;Parana
+41;411170;Jaboti;Parana
+41;411180;Jacarezinho;Parana
+41;411190;Jaguapitã;Parana
+41;411200;Jaguariaíva;Parana
+41;411210;Jandaia do Sul;Parana
+41;411220;Janiópolis;Parana
+41;411230;Japira;Parana
+41;411240;Japurá;Parana
+41;411250;Jardim Alegre;Parana
+41;411260;Jardim Olinda;Parana
+41;411270;Jataizinho;Parana
+41;411275;Jesuítas;Parana
+41;411280;Joaquim Távora;Parana
+41;411290;Jundiaí do Sul;Parana
+41;411295;Juranda;Parana
+41;411300;Jussara;Parana
+41;411310;Kaloré;Parana
+41;411320;Lapa;Parana
+41;411325;Laranjal;Parana
+41;411330;Laranjeiras do Sul;Parana
+41;411340;Leópolis;Parana
+41;411342;Lidianópolis;Parana
+41;411345;Lindoeste;Parana
+41;411350;Loanda;Parana
+41;411360;Lobato;Parana
+41;411370;Londrina;Parana
+41;411373;Luiziana;Parana
+41;411375;Lunardelli;Parana
+41;411380;Lupionópolis;Parana
+41;411390;Mallet;Parana
+41;411400;Mamborê;Parana
+41;411410;Mandaguaçu;Parana
+41;411420;Mandaguari;Parana
+41;411430;Mandirituba;Parana
+41;411435;Manfrinópolis;Parana
+41;411440;Mangueirinha;Parana
+41;411450;Manoel Ribas;Parana
+41;411460;Marechal Cândido Rondon;Parana
+41;411470;Maria Helena;Parana
+41;411480;Marialva;Parana
+41;411490;Marilândia do Sul;Parana
+41;411500;Marilena;Parana
+41;411510;Mariluz;Parana
+41;411520;Maringá;Parana
+41;411530;Mariópolis;Parana
+41;411535;Maripá;Parana
+41;411540;Marmeleiro;Parana
+41;411545;Marquinho;Parana
+41;411550;Marumbi;Parana
+41;411560;Matelândia;Parana
+41;411570;Matinhos;Parana
+41;411573;Mato Rico;Parana
+41;411575;Mauá da Serra;Parana
+41;411580;Medianeira;Parana
+41;411585;Mercedes;Parana
+41;411590;Mirador;Parana
+41;411600;Miraselva;Parana
+41;411605;Missal;Parana
+41;411610;Moreira Sales;Parana
+41;411620;Morretes;Parana
+41;411630;Munhoz de Melo;Parana
+41;411640;Nossa Senhora das Graças;Parana
+41;411650;Nova Aliança do Ivaí;Parana
+41;411660;Nova América da Colina;Parana
+41;411670;Nova Aurora;Parana
+41;411680;Nova Cantu;Parana
+41;411690;Nova Esperança;Parana
+41;411695;Nova Esperança do Sudoeste;Parana
+41;411700;Nova Fátima;Parana
+41;411705;Nova Laranjeiras;Parana
+41;411710;Nova Londrina;Parana
+41;411720;Nova Olímpia;Parana
+41;411725;Nova Prata do Iguaçu;Parana
+41;411721;Nova Santa Bárbara;Parana
+41;411722;Nova Santa Rosa;Parana
+41;411727;Nova Tebas;Parana
+41;411729;Novo Itacolomi;Parana
+41;411730;Ortigueira;Parana
+41;411740;Ourizona;Parana
+41;411745;Ouro Verde do Oeste;Parana
+41;411750;Paiçandu;Parana
+41;411760;Palmas;Parana
+41;411770;Palmeira;Parana
+41;411780;Palmital;Parana
+41;411790;Palotina;Parana
+41;411800;Paraíso do Norte;Parana
+41;411810;Paranacity;Parana
+41;411820;Paranaguá;Parana
+41;411830;Paranapoema;Parana
+41;411840;Paranavaí;Parana
+41;411845;Pato Bragado;Parana
+41;411850;Pato Branco;Parana
+41;411860;Paula Freitas;Parana
+41;411870;Paulo Frontin;Parana
+41;411880;Peabiru;Parana
+41;411885;Perobal;Parana
+41;411890;Pérola;Parana
+41;411900;Pérola d'Oeste;Parana
+41;411910;Piên;Parana
+41;411915;Pinhais;Parana
+41;411925;Pinhal de São Bento;Parana
+41;411920;Pinhalão;Parana
+41;411930;Pinhão;Parana
+41;411940;Piraí do Sul;Parana
+41;411950;Piraquara;Parana
+41;411960;Pitanga;Parana
+41;411965;Pitangueiras;Parana
+41;411970;Planaltina do Paraná;Parana
+41;411980;Planalto;Parana
+41;411990;Ponta Grossa;Parana
+41;411995;Pontal do Paraná;Parana
+41;412000;Porecatu;Parana
+41;412010;Porto Amazonas;Parana
+41;412015;Porto Barreiro;Parana
+41;412020;Porto Rico;Parana
+41;412030;Porto Vitória;Parana
+41;412033;Prado Ferreira;Parana
+41;412035;Pranchita;Parana
+41;412040;Presidente Castelo Branco;Parana
+41;412050;Primeiro de Maio;Parana
+41;412060;Prudentópolis;Parana
+41;412065;Quarto Centenário;Parana
+41;412070;Quatiguá;Parana
+41;412080;Quatro Barras;Parana
+41;412085;Quatro Pontes;Parana
+41;412090;Quedas do Iguaçu;Parana
+41;412100;Querência do Norte;Parana
+41;412110;Quinta do Sol;Parana
+41;412120;Quitandinha;Parana
+41;412125;Ramilândia;Parana
+41;412130;Rancho Alegre;Parana
+41;412135;Rancho Alegre D'Oeste;Parana
+41;412140;Realeza;Parana
+41;412150;Rebouças;Parana
+41;412160;Renascença;Parana
+41;412170;Reserva;Parana
+41;412175;Reserva do Iguaçu;Parana
+41;412180;Ribeirão Claro;Parana
+41;412190;Ribeirão do Pinhal;Parana
+41;412200;Rio Azul;Parana
+41;412210;Rio Bom;Parana
+41;412215;Rio Bonito do Iguaçu;Parana
+41;412217;Rio Branco do Ivaí;Parana
+41;412220;Rio Branco do Sul;Parana
+41;412230;Rio Negro;Parana
+41;412240;Rolândia;Parana
+41;412250;Roncador;Parana
+41;412260;Rondon;Parana
+41;412265;Rosário do Ivaí;Parana
+41;412270;Sabáudia;Parana
+41;412280;Salgado Filho;Parana
+41;412290;Salto do Itararé;Parana
+41;412300;Salto do Lontra;Parana
+41;412310;Santa Amélia;Parana
+41;412320;Santa Cecília do Pavão;Parana
+41;412330;Santa Cruz de Monte Castelo;Parana
+41;412340;Santa Fé;Parana
+41;412350;Santa Helena;Parana
+41;412360;Santa Inês;Parana
+41;412370;Santa Isabel do Ivaí;Parana
+41;412380;Santa Izabel do Oeste;Parana
+41;412382;Santa Lúcia;Parana
+41;412385;Santa Maria do Oeste;Parana
+41;412390;Santa Mariana;Parana
+41;412395;Santa Mônica;Parana
+41;412402;Santa Tereza do Oeste;Parana
+41;412405;Santa Terezinha de Itaipu;Parana
+41;412400;Santana do Itararé;Parana
+41;412410;Santo Antônio da Platina;Parana
+41;412420;Santo Antônio do Caiuá;Parana
+41;412430;Santo Antônio do Paraíso;Parana
+41;412440;Santo Antônio do Sudoeste;Parana
+41;412450;Santo Inácio;Parana
+41;412460;São Carlos do Ivaí;Parana
+41;412470;São Jerônimo da Serra;Parana
+41;412480;São João;Parana
+41;412490;São João do Caiuá;Parana
+41;412500;São João do Ivaí;Parana
+41;412510;São João do Triunfo;Parana
+41;412530;São Jorge do Ivaí;Parana
+41;412535;São Jorge do Patrocínio;Parana
+41;412520;São Jorge d'Oeste;Parana
+41;412540;São José da Boa Vista;Parana
+41;412545;São José das Palmeiras;Parana
+41;412550;São José dos Pinhais;Parana
+41;412555;São Manoel do Paraná;Parana
+41;412560;São Mateus do Sul;Parana
+41;412570;São Miguel do Iguaçu;Parana
+41;412575;São Pedro do Iguaçu;Parana
+41;412580;São Pedro do Ivaí;Parana
+41;412590;São Pedro do Paraná;Parana
+41;412600;São Sebastião da Amoreira;Parana
+41;412610;São Tomé;Parana
+41;412620;Sapopema;Parana
+41;412625;Sarandi;Parana
+41;412627;Saudade do Iguaçu;Parana
+41;412630;Sengés;Parana
+41;412635;Serranópolis do Iguaçu;Parana
+41;412640;Sertaneja;Parana
+41;412650;Sertanópolis;Parana
+41;412660;Siqueira Campos;Parana
+41;412665;Sulina;Parana
+41;412667;Tamarana;Parana
+41;412670;Tamboara;Parana
+41;412680;Tapejara;Parana
+41;412690;Tapira;Parana
+41;412700;Teixeira Soares;Parana
+41;412710;Telêmaco Borba;Parana
+41;412720;Terra Boa;Parana
+41;412730;Terra Rica;Parana
+41;412740;Terra Roxa;Parana
+41;412750;Tibagi;Parana
+41;412760;Tijucas do Sul;Parana
+41;412770;Toledo;Parana
+41;412780;Tomazina;Parana
+41;412785;Três Barras do Paraná;Parana
+41;412788;Tunas do Paraná;Parana
+41;412790;Tuneiras do Oeste;Parana
+41;412795;Tupãssi;Parana
+41;412796;Turvo;Parana
+41;412800;Ubiratã;Parana
+41;412810;Umuarama;Parana
+41;412820;União da Vitória;Parana
+41;412830;Uniflor;Parana
+41;412840;Uraí;Parana
+41;412853;Ventania;Parana
+41;412855;Vera Cruz do Oeste;Parana
+41;412860;Verê;Parana
+41;412865;Virmond;Parana
+41;412870;Vitorino;Parana
+41;412850;Wenceslau Braz;Parana
+41;412880;Xambrê;Parana
+26;260005;Abreu e Lima;Pernambuco
+26;260010;Afogados da Ingazeira;Pernambuco
+26;260020;Afrânio;Pernambuco
+26;260030;Agrestina;Pernambuco
+26;260040;Água Preta;Pernambuco
+26;260050;Águas Belas;Pernambuco
+26;260060;Alagoinha;Pernambuco
+26;260070;Aliança;Pernambuco
+26;260080;Altinho;Pernambuco
+26;260090;Amaraji;Pernambuco
+26;260100;Angelim;Pernambuco
+26;260105;Araçoiaba;Pernambuco
+26;260110;Araripina;Pernambuco
+26;260120;Arcoverde;Pernambuco
+26;260130;Barra de Guabiraba;Pernambuco
+26;260140;Barreiros;Pernambuco
+26;260150;Belém de Maria;Pernambuco
+26;260160;Belém de São Francisco;Pernambuco
+26;260170;Belo Jardim;Pernambuco
+26;260180;Betânia;Pernambuco
+26;260190;Bezerros;Pernambuco
+26;260200;Bodocó;Pernambuco
+26;260210;Bom Conselho;Pernambuco
+26;260220;Bom Jardim;Pernambuco
+26;260230;Bonito;Pernambuco
+26;260240;Brejão;Pernambuco
+26;260250;Brejinho;Pernambuco
+26;260260;Brejo da Madre de Deus;Pernambuco
+26;260270;Buenos Aires;Pernambuco
+26;260280;Buíque;Pernambuco
+26;260290;Cabo de Santo Agostinho;Pernambuco
+26;260300;Cabrobó;Pernambuco
+26;260310;Cachoeirinha;Pernambuco
+26;260320;Caetés;Pernambuco
+26;260330;Calçado;Pernambuco
+26;260340;Calumbi;Pernambuco
+26;260345;Camaragibe;Pernambuco
+26;260350;Camocim de São Félix;Pernambuco
+26;260360;Camutanga;Pernambuco
+26;260370;Canhotinho;Pernambuco
+26;260380;Capoeiras;Pernambuco
+26;260390;Carnaíba;Pernambuco
+26;260392;Carnaubeira da Penha;Pernambuco
+26;260400;Carpina;Pernambuco
+26;260410;Caruaru;Pernambuco
+26;260415;Casinhas;Pernambuco
+26;260420;Catende;Pernambuco
+26;260430;Cedro;Pernambuco
+26;260440;Chã de Alegria;Pernambuco
+26;260450;Chã Grande;Pernambuco
+26;260460;Condado;Pernambuco
+26;260470;Correntes;Pernambuco
+26;260480;Cortês;Pernambuco
+26;260490;Cumaru;Pernambuco
+26;260500;Cupira;Pernambuco
+26;260510;Custódia;Pernambuco
+26;260515;Dormentes;Pernambuco
+26;260520;Escada;Pernambuco
+26;260530;Exu;Pernambuco
+26;260540;Feira Nova;Pernambuco
+26;260545;Fernando de Noronha;Pernambuco
+26;260550;Ferreiros;Pernambuco
+26;260560;Flores;Pernambuco
+26;260570;Floresta;Pernambuco
+26;260580;Frei Miguelinho;Pernambuco
+26;260590;Gameleira;Pernambuco
+26;260600;Garanhuns;Pernambuco
+26;260610;Glória do Goitá;Pernambuco
+26;260620;Goiana;Pernambuco
+26;260630;Granito;Pernambuco
+26;260640;Gravatá;Pernambuco
+26;260650;Iati;Pernambuco
+26;260660;Ibimirim;Pernambuco
+26;260670;Ibirajuba;Pernambuco
+26;260680;Igarassu;Pernambuco
+26;260690;Iguaraci;Pernambuco
+26;260760;Ilha de Itamaracá;Pernambuco
+26;260700;Inajá;Pernambuco
+26;260710;Ingazeira;Pernambuco
+26;260720;Ipojuca;Pernambuco
+26;260730;Ipubi;Pernambuco
+26;260740;Itacuruba;Pernambuco
+26;260750;Itaíba;Pernambuco
+26;260765;Itambé;Pernambuco
+26;260770;Itapetim;Pernambuco
+26;260775;Itapissuma;Pernambuco
+26;260780;Itaquitinga;Pernambuco
+26;260790;Jaboatão dos Guararapes;Pernambuco
+26;260795;Jaqueira;Pernambuco
+26;260800;Jataúba;Pernambuco
+26;260805;Jatobá;Pernambuco
+26;260810;João Alfredo;Pernambuco
+26;260820;Joaquim Nabuco;Pernambuco
+26;260825;Jucati;Pernambuco
+26;260830;Jupi;Pernambuco
+26;260840;Jurema;Pernambuco
+26;260845;Lagoa do Carro;Pernambuco
+26;260850;Lagoa do Itaenga;Pernambuco
+26;260860;Lagoa do Ouro;Pernambuco
+26;260870;Lagoa dos Gatos;Pernambuco
+26;260875;Lagoa Grande;Pernambuco
+26;260880;Lajedo;Pernambuco
+26;260890;Limoeiro;Pernambuco
+26;260900;Macaparana;Pernambuco
+26;260910;Machados;Pernambuco
+26;260915;Manari;Pernambuco
+26;260920;Maraial;Pernambuco
+26;260930;Mirandiba;Pernambuco
+26;261430;Moreilândia;Pernambuco
+26;260940;Moreno;Pernambuco
+26;260950;Nazaré da Mata;Pernambuco
+26;260960;Olinda;Pernambuco
+26;260970;Orobó;Pernambuco
+26;260980;Orocó;Pernambuco
+26;260990;Ouricuri;Pernambuco
+26;261000;Palmares;Pernambuco
+26;261010;Palmeirina;Pernambuco
+26;261020;Panelas;Pernambuco
+26;261030;Paranatama;Pernambuco
+26;261040;Parnamirim;Pernambuco
+26;261050;Passira;Pernambuco
+26;261060;Paudalho;Pernambuco
+26;261070;Paulista;Pernambuco
+26;261080;Pedra;Pernambuco
+26;261090;Pesqueira;Pernambuco
+26;261100;Petrolândia;Pernambuco
+26;261110;Petrolina;Pernambuco
+26;261120;Poção;Pernambuco
+26;261130;Pombos;Pernambuco
+26;261140;Primavera;Pernambuco
+26;261150;Quipapá;Pernambuco
+26;261153;Quixaba;Pernambuco
+26;261160;Recife;Pernambuco
+26;261170;Riacho das Almas;Pernambuco
+26;261180;Ribeirão;Pernambuco
+26;261190;Rio Formoso;Pernambuco
+26;261200;Sairé;Pernambuco
+26;261210;Salgadinho;Pernambuco
+26;261220;Salgueiro;Pernambuco
+26;261230;Saloá;Pernambuco
+26;261240;Sanharó;Pernambuco
+26;261245;Santa Cruz;Pernambuco
+26;261247;Santa Cruz da Baixa Verde;Pernambuco
+26;261250;Santa Cruz do Capibaribe;Pernambuco
+26;261255;Santa Filomena;Pernambuco
+26;261260;Santa Maria da Boa Vista;Pernambuco
+26;261270;Santa Maria do Cambucá;Pernambuco
+26;261280;Santa Terezinha;Pernambuco
+26;261290;São Benedito do Sul;Pernambuco
+26;261300;São Bento do Una;Pernambuco
+26;261310;São Caitano;Pernambuco
+26;261320;São João;Pernambuco
+26;261330;São Joaquim do Monte;Pernambuco
+26;261340;São José da Coroa Grande;Pernambuco
+26;261350;São José do Belmonte;Pernambuco
+26;261360;São José do Egito;Pernambuco
+26;261370;São Lourenço da Mata;Pernambuco
+26;261380;São Vicente Ferrer;Pernambuco
+26;261390;Serra Talhada;Pernambuco
+26;261400;Serrita;Pernambuco
+26;261410;Sertânia;Pernambuco
+26;261420;Sirinhaém;Pernambuco
+26;261440;Solidão;Pernambuco
+26;261450;Surubim;Pernambuco
+26;261460;Tabira;Pernambuco
+26;261470;Tacaimbó;Pernambuco
+26;261480;Tacaratu;Pernambuco
+26;261485;Tamandaré;Pernambuco
+26;261500;Taquaritinga do Norte;Pernambuco
+26;261510;Terezinha;Pernambuco
+26;261520;Terra Nova;Pernambuco
+26;261530;Timbaúba;Pernambuco
+26;261540;Toritama;Pernambuco
+26;261550;Tracunhaém;Pernambuco
+26;261560;Trindade;Pernambuco
+26;261570;Triunfo;Pernambuco
+26;261580;Tupanatinga;Pernambuco
+26;261590;Tuparetama;Pernambuco
+26;261600;Venturosa;Pernambuco
+26;261610;Verdejante;Pernambuco
+26;261618;Vertente do Lério;Pernambuco
+26;261620;Vertentes;Pernambuco
+26;261630;Vicência;Pernambuco
+26;261640;Vitória de Santo Antão;Pernambuco
+26;261650;Xexéu;Pernambuco
+22;220005;Acauã;Piaui
+22;220010;Agricolândia;Piaui
+22;220020;Água Branca;Piaui
+22;220025;Alagoinha do Piauí;Piaui
+22;220027;Alegrete do Piauí;Piaui
+22;220030;Alto Longá;Piaui
+22;220040;Altos;Piaui
+22;220045;Alvorada do Gurguéia;Piaui
+22;220050;Amarante;Piaui
+22;220060;Angical do Piauí;Piaui
+22;220070;Anísio de Abreu;Piaui
+22;220080;Antônio Almeida;Piaui
+22;220090;Aroazes;Piaui
+22;220095;Aroeiras do Itaim;Piaui
+22;220100;Arraial;Piaui
+22;220105;Assunção do Piauí;Piaui
+22;220110;Avelino Lopes;Piaui
+22;220115;Baixa Grande do Ribeiro;Piaui
+22;220117;Barra D'Alcântara;Piaui
+22;220120;Barras;Piaui
+22;220130;Barreiras do Piauí;Piaui
+22;220140;Barro Duro;Piaui
+22;220150;Batalha;Piaui
+22;220155;Bela Vista do Piauí;Piaui
+22;220157;Belém do Piauí;Piaui
+22;220160;Beneditinos;Piaui
+22;220170;Bertolínia;Piaui
+22;220173;Betânia do Piauí;Piaui
+22;220177;Boa Hora;Piaui
+22;220180;Bocaina;Piaui
+22;220190;Bom Jesus;Piaui
+22;220191;Bom Princípio do Piauí;Piaui
+22;220192;Bonfim do Piauí;Piaui
+22;220194;Boqueirão do Piauí;Piaui
+22;220196;Brasileira;Piaui
+22;220198;Brejo do Piauí;Piaui
+22;220200;Buriti dos Lopes;Piaui
+22;220202;Buriti dos Montes;Piaui
+22;220205;Cabeceiras do Piauí;Piaui
+22;220207;Cajazeiras do Piauí;Piaui
+22;220208;Cajueiro da Praia;Piaui
+22;220209;Caldeirão Grande do Piauí;Piaui
+22;220210;Campinas do Piauí;Piaui
+22;220211;Campo Alegre do Fidalgo;Piaui
+22;220213;Campo Grande do Piauí;Piaui
+22;220217;Campo Largo do Piauí;Piaui
+22;220220;Campo Maior;Piaui
+22;220225;Canavieira;Piaui
+22;220230;Canto do Buriti;Piaui
+22;220240;Capitão de Campos;Piaui
+22;220245;Capitão Gervásio Oliveira;Piaui
+22;220250;Caracol;Piaui
+22;220253;Caraúbas do Piauí;Piaui
+22;220255;Caridade do Piauí;Piaui
+22;220260;Castelo do Piauí;Piaui
+22;220265;Caxingó;Piaui
+22;220270;Cocal;Piaui
+22;220271;Cocal de Telha;Piaui
+22;220272;Cocal dos Alves;Piaui
+22;220273;Coivaras;Piaui
+22;220275;Colônia do Gurguéia;Piaui
+22;220277;Colônia do Piauí;Piaui
+22;220280;Conceição do Canindé;Piaui
+22;220285;Coronel José Dias;Piaui
+22;220290;Corrente;Piaui
+22;220300;Cristalândia do Piauí;Piaui
+22;220310;Cristino Castro;Piaui
+22;220320;Curimatá;Piaui
+22;220323;Currais;Piaui
+22;220327;Curral Novo do Piauí;Piaui
+22;220325;Curralinhos;Piaui
+22;220330;Demerval Lobão;Piaui
+22;220335;Dirceu Arcoverde;Piaui
+22;220340;Dom Expedito Lopes;Piaui
+22;220345;Dom Inocêncio;Piaui
+22;220342;Domingos Mourão;Piaui
+22;220350;Elesbão Veloso;Piaui
+22;220360;Eliseu Martins;Piaui
+22;220370;Esperantina;Piaui
+22;220375;Fartura do Piauí;Piaui
+22;220380;Flores do Piauí;Piaui
+22;220385;Floresta do Piauí;Piaui
+22;220390;Floriano;Piaui
+22;220400;Francinópolis;Piaui
+22;220410;Francisco Ayres;Piaui
+22;220415;Francisco Macedo;Piaui
+22;220420;Francisco Santos;Piaui
+22;220430;Fronteiras;Piaui
+22;220435;Geminiano;Piaui
+22;220440;Gilbués;Piaui
+22;220450;Guadalupe;Piaui
+22;220455;Guaribas;Piaui
+22;220460;Hugo Napoleão;Piaui
+22;220465;Ilha Grande;Piaui
+22;220470;Inhuma;Piaui
+22;220480;Ipiranga do Piauí;Piaui
+22;220490;Isaías Coelho;Piaui
+22;220500;Itainópolis;Piaui
+22;220510;Itaueira;Piaui
+22;220515;Jacobina do Piauí;Piaui
+22;220520;Jaicós;Piaui
+22;220525;Jardim do Mulato;Piaui
+22;220527;Jatobá do Piauí;Piaui
+22;220530;Jerumenha;Piaui
+22;220535;João Costa;Piaui
+22;220540;Joaquim Pires;Piaui
+22;220545;Joca Marques;Piaui
+22;220550;José de Freitas;Piaui
+22;220551;Juazeiro do Piauí;Piaui
+22;220552;Júlio Borges;Piaui
+22;220553;Jurema;Piaui
+22;220555;Lagoa Alegre;Piaui
+22;220557;Lagoa de São Francisco;Piaui
+22;220556;Lagoa do Barro do Piauí;Piaui
+22;220558;Lagoa do Piauí;Piaui
+22;220559;Lagoa do Sítio;Piaui
+22;220554;Lagoinha do Piauí;Piaui
+22;220560;Landri Sales;Piaui
+22;220570;Luís Correia;Piaui
+22;220580;Luzilândia;Piaui
+22;220585;Madeiro;Piaui
+22;220590;Manoel Emídio;Piaui
+22;220595;Marcolândia;Piaui
+22;220600;Marcos Parente;Piaui
+22;220605;Massapê do Piauí;Piaui
+22;220610;Matias Olímpio;Piaui
+22;220620;Miguel Alves;Piaui
+22;220630;Miguel Leão;Piaui
+22;220635;Milton Brandão;Piaui
+22;220640;Monsenhor Gil;Piaui
+22;220650;Monsenhor Hipólito;Piaui
+22;220660;Monte Alegre do Piauí;Piaui
+22;220665;Morro Cabeça no Tempo;Piaui
+22;220667;Morro do Chapéu do Piauí;Piaui
+22;220669;Murici dos Portelas;Piaui
+22;220670;Nazaré do Piauí;Piaui
+22;220672;Nazária;Piaui
+22;220675;Nossa Senhora de Nazaré;Piaui
+22;220680;Nossa Senhora dos Remédios;Piaui
+22;220795;Nova Santa Rita;Piaui
+22;220690;Novo Oriente do Piauí;Piaui
+22;220695;Novo Santo Antônio;Piaui
+22;220700;Oeiras;Piaui
+22;220710;Olho D'Água do Piauí;Piaui
+22;220720;Padre Marcos;Piaui
+22;220730;Paes Landim;Piaui
+22;220735;Pajeú do Piauí;Piaui
+22;220740;Palmeira do Piauí;Piaui
+22;220750;Palmeirais;Piaui
+22;220755;Paquetá;Piaui
+22;220760;Parnaguá;Piaui
+22;220770;Parnaíba;Piaui
+22;220775;Passagem Franca do Piauí;Piaui
+22;220777;Patos do Piauí;Piaui
+22;220779;Pau D'Arco do Piauí;Piaui
+22;220780;Paulistana;Piaui
+22;220785;Pavussu;Piaui
+22;220790;Pedro II;Piaui
+22;220793;Pedro Laurentino;Piaui
+22;220800;Picos;Piaui
+22;220810;Pimenteiras;Piaui
+22;220820;Pio IX;Piaui
+22;220830;Piracuruca;Piaui
+22;220840;Piripiri;Piaui
+22;220850;Porto;Piaui
+22;220855;Porto Alegre do Piauí;Piaui
+22;220860;Prata do Piauí;Piaui
+22;220865;Queimada Nova;Piaui
+22;220870;Redenção do Gurguéia;Piaui
+22;220880;Regeneração;Piaui
+22;220885;Riacho Frio;Piaui
+22;220887;Ribeira do Piauí;Piaui
+22;220890;Ribeiro Gonçalves;Piaui
+22;220900;Rio Grande do Piauí;Piaui
+22;220910;Santa Cruz do Piauí;Piaui
+22;220915;Santa Cruz dos Milagres;Piaui
+22;220920;Santa Filomena;Piaui
+22;220930;Santa Luz;Piaui
+22;220937;Santa Rosa do Piauí;Piaui
+22;220935;Santana do Piauí;Piaui
+22;220940;Santo Antônio de Lisboa;Piaui
+22;220945;Santo Antônio dos Milagres;Piaui
+22;220950;Santo Inácio do Piauí;Piaui
+22;220955;São Braz do Piauí;Piaui
+22;220960;São Félix do Piauí;Piaui
+22;220965;São Francisco de Assis do Piauí;Piaui
+22;220970;São Francisco do Piauí;Piaui
+22;220975;São Gonçalo do Gurguéia;Piaui
+22;220980;São Gonçalo do Piauí;Piaui
+22;220985;São João da Canabrava;Piaui
+22;220987;São João da Fronteira;Piaui
+22;220990;São João da Serra;Piaui
+22;220995;São João da Varjota;Piaui
+22;220997;São João do Arraial;Piaui
+22;221000;São João do Piauí;Piaui
+22;221005;São José do Divino;Piaui
+22;221010;São José do Peixe;Piaui
+22;221020;São José do Piauí;Piaui
+22;221030;São Julião;Piaui
+22;221035;São Lourenço do Piauí;Piaui
+22;221037;São Luis do Piauí;Piaui
+22;221038;São Miguel da Baixa Grande;Piaui
+22;221039;São Miguel do Fidalgo;Piaui
+22;221040;São Miguel do Tapuio;Piaui
+22;221050;São Pedro do Piauí;Piaui
+22;221060;São Raimundo Nonato;Piaui
+22;221062;Sebastião Barros;Piaui
+22;221063;Sebastião Leal;Piaui
+22;221065;Sigefredo Pacheco;Piaui
+22;221070;Simões;Piaui
+22;221080;Simplício Mendes;Piaui
+22;221090;Socorro do Piauí;Piaui
+22;221093;Sussuapara;Piaui
+22;221095;Tamboril do Piauí;Piaui
+22;221097;Tanque do Piauí;Piaui
+22;221100;Teresina;Piaui
+22;221110;União;Piaui
+22;221120;Uruçuí;Piaui
+22;221130;Valença do Piauí;Piaui
+22;221135;Várzea Branca;Piaui
+22;221140;Várzea Grande;Piaui
+22;221150;Vera Mendes;Piaui
+22;221160;Vila Nova do Piauí;Piaui
+22;221170;Wall Ferraz;Piaui
+33;330010;Angra dos Reis;Rio de Janeiro
+33;330015;Aperibé;Rio de Janeiro
+33;330020;Araruama;Rio de Janeiro
+33;330022;Areal;Rio de Janeiro
+33;330023;Armação dos Búzios;Rio de Janeiro
+33;330025;Arraial do Cabo;Rio de Janeiro
+33;330030;Barra do Piraí;Rio de Janeiro
+33;330040;Barra Mansa;Rio de Janeiro
+33;330045;Belford Roxo;Rio de Janeiro
+33;330050;Bom Jardim;Rio de Janeiro
+33;330060;Bom Jesus do Itabapoana;Rio de Janeiro
+33;330070;Cabo Frio;Rio de Janeiro
+33;330080;Cachoeiras de Macacu;Rio de Janeiro
+33;330090;Cambuci;Rio de Janeiro
+33;330100;Campos dos Goytacazes;Rio de Janeiro
+33;330110;Cantagalo;Rio de Janeiro
+33;330093;Carapebus;Rio de Janeiro
+33;330115;Cardoso Moreira;Rio de Janeiro
+33;330120;Carmo;Rio de Janeiro
+33;330130;Casimiro de Abreu;Rio de Janeiro
+33;330095;Comendador Levy Gasparian;Rio de Janeiro
+33;330140;Conceição de Macabu;Rio de Janeiro
+33;330150;Cordeiro;Rio de Janeiro
+33;330160;Duas Barras;Rio de Janeiro
+33;330170;Duque de Caxias;Rio de Janeiro
+33;330180;Engenheiro Paulo de Frontin;Rio de Janeiro
+33;330185;Guapimirim;Rio de Janeiro
+33;330187;Iguaba Grande;Rio de Janeiro
+33;330190;Itaboraí;Rio de Janeiro
+33;330200;Itaguaí;Rio de Janeiro
+33;330205;Italva;Rio de Janeiro
+33;330210;Itaocara;Rio de Janeiro
+33;330220;Itaperuna;Rio de Janeiro
+33;330225;Itatiaia;Rio de Janeiro
+33;330227;Japeri;Rio de Janeiro
+33;330230;Laje do Muriaé;Rio de Janeiro
+33;330240;Macaé;Rio de Janeiro
+33;330245;Macuco;Rio de Janeiro
+33;330250;Magé;Rio de Janeiro
+33;330260;Mangaratiba;Rio de Janeiro
+33;330270;Maricá;Rio de Janeiro
+33;330280;Mendes;Rio de Janeiro
+33;330285;Mesquita;Rio de Janeiro
+33;330290;Miguel Pereira;Rio de Janeiro
+33;330300;Miracema;Rio de Janeiro
+33;330310;Natividade;Rio de Janeiro
+33;330320;Nilópolis;Rio de Janeiro
+33;330330;Niterói;Rio de Janeiro
+33;330340;Nova Friburgo;Rio de Janeiro
+33;330350;Nova Iguaçu;Rio de Janeiro
+33;330360;Paracambi;Rio de Janeiro
+33;330370;Paraíba do Sul;Rio de Janeiro
+33;330380;Parati;Rio de Janeiro
+33;330385;Paty do Alferes;Rio de Janeiro
+33;330390;Petrópolis;Rio de Janeiro
+33;330395;Pinheiral;Rio de Janeiro
+33;330400;Piraí;Rio de Janeiro
+33;330410;Porciúncula;Rio de Janeiro
+33;330411;Porto Real;Rio de Janeiro
+33;330412;Quatis;Rio de Janeiro
+33;330414;Queimados;Rio de Janeiro
+33;330415;Quissamã;Rio de Janeiro
+33;330420;Resende;Rio de Janeiro
+33;330430;Rio Bonito;Rio de Janeiro
+33;330440;Rio Claro;Rio de Janeiro
+33;330450;Rio das Flores;Rio de Janeiro
+33;330452;Rio das Ostras;Rio de Janeiro
+33;330455;Rio de Janeiro;Rio de Janeiro
+33;330460;Santa Maria Madalena;Rio de Janeiro
+33;330470;Santo Antônio de Pádua;Rio de Janeiro
+33;330480;São Fidélis;Rio de Janeiro
+33;330475;São Francisco de Itabapoana;Rio de Janeiro
+33;330490;São Gonçalo;Rio de Janeiro
+33;330500;São João da Barra;Rio de Janeiro
+33;330510;São João de Meriti;Rio de Janeiro
+33;330513;São José de Ubá;Rio de Janeiro
+33;330515;São José do Vale do Rio Preto;Rio de Janeiro
+33;330520;São Pedro da Aldeia;Rio de Janeiro
+33;330530;São Sebastião do Alto;Rio de Janeiro
+33;330540;Sapucaia;Rio de Janeiro
+33;330550;Saquarema;Rio de Janeiro
+33;330555;Seropédica;Rio de Janeiro
+33;330560;Silva Jardim;Rio de Janeiro
+33;330570;Sumidouro;Rio de Janeiro
+33;330575;Tanguá;Rio de Janeiro
+33;330580;Teresópolis;Rio de Janeiro
+33;330590;Trajano de Morais;Rio de Janeiro
+33;330600;Três Rios;Rio de Janeiro
+33;330610;Valença;Rio de Janeiro
+33;330615;Varre-Sai;Rio de Janeiro
+33;330620;Vassouras;Rio de Janeiro
+33;330630;Volta Redonda;Rio de Janeiro
+24;240010;Acari;Rio Grande do Norte
+24;240020;Açu;Rio Grande do Norte
+24;240030;Afonso Bezerra;Rio Grande do Norte
+24;240040;Água Nova;Rio Grande do Norte
+24;240050;Alexandria;Rio Grande do Norte
+24;240060;Almino Afonso;Rio Grande do Norte
+24;240070;Alto do Rodrigues;Rio Grande do Norte
+24;240080;Angicos;Rio Grande do Norte
+24;240090;Antônio Martins;Rio Grande do Norte
+24;240100;Apodi;Rio Grande do Norte
+24;240110;Areia Branca;Rio Grande do Norte
+24;240120;Arês;Rio Grande do Norte
+24;240130;Augusto Severo;Rio Grande do Norte
+24;240140;Baía Formosa;Rio Grande do Norte
+24;240145;Baraúna;Rio Grande do Norte
+24;240150;Barcelona;Rio Grande do Norte
+24;240160;Bento Fernandes;Rio Grande do Norte
+24;240165;Bodó;Rio Grande do Norte
+24;240170;Bom Jesus;Rio Grande do Norte
+24;240180;Brejinho;Rio Grande do Norte
+24;240185;Caiçara do Norte;Rio Grande do Norte
+24;240190;Caiçara do Rio do Vento;Rio Grande do Norte
+24;240200;Caicó;Rio Grande do Norte
+24;240210;Campo Redondo;Rio Grande do Norte
+24;240220;Canguaretama;Rio Grande do Norte
+24;240230;Caraúbas;Rio Grande do Norte
+24;240240;Carnaúba dos Dantas;Rio Grande do Norte
+24;240250;Carnaubais;Rio Grande do Norte
+24;240260;Ceará-Mirim;Rio Grande do Norte
+24;240270;Cerro Corá;Rio Grande do Norte
+24;240280;Coronel Ezequiel;Rio Grande do Norte
+24;240290;Coronel João Pessoa;Rio Grande do Norte
+24;240300;Cruzeta;Rio Grande do Norte
+24;240310;Currais Novos;Rio Grande do Norte
+24;240320;Doutor Severiano;Rio Grande do Norte
+24;240330;Encanto;Rio Grande do Norte
+24;240340;Equador;Rio Grande do Norte
+24;240350;Espírito Santo;Rio Grande do Norte
+24;240360;Extremoz;Rio Grande do Norte
+24;240370;Felipe Guerra;Rio Grande do Norte
+24;240375;Fernando Pedroza;Rio Grande do Norte
+24;240380;Florânia;Rio Grande do Norte
+24;240390;Francisco Dantas;Rio Grande do Norte
+24;240400;Frutuoso Gomes;Rio Grande do Norte
+24;240410;Galinhos;Rio Grande do Norte
+24;240420;Goianinha;Rio Grande do Norte
+24;240430;Governador Dix-Sept Rosado;Rio Grande do Norte
+24;240440;Grossos;Rio Grande do Norte
+24;240450;Guamaré;Rio Grande do Norte
+24;240460;Ielmo Marinho;Rio Grande do Norte
+24;240470;Ipanguaçu;Rio Grande do Norte
+24;240480;Ipueira;Rio Grande do Norte
+24;240485;Itajá;Rio Grande do Norte
+24;240490;Itaú;Rio Grande do Norte
+24;240500;Jaçanã;Rio Grande do Norte
+24;240510;Jandaíra;Rio Grande do Norte
+24;240520;Janduís;Rio Grande do Norte
+24;240530;Januário Cicco;Rio Grande do Norte
+24;240540;Japi;Rio Grande do Norte
+24;240550;Jardim de Angicos;Rio Grande do Norte
+24;240560;Jardim de Piranhas;Rio Grande do Norte
+24;240570;Jardim do Seridó;Rio Grande do Norte
+24;240580;João Câmara;Rio Grande do Norte
+24;240590;João Dias;Rio Grande do Norte
+24;240600;José da Penha;Rio Grande do Norte
+24;240610;Jucurutu;Rio Grande do Norte
+24;240615;Jundiá;Rio Grande do Norte
+24;240620;Lagoa d'Anta;Rio Grande do Norte
+24;240630;Lagoa de Pedras;Rio Grande do Norte
+24;240640;Lagoa de Velhos;Rio Grande do Norte
+24;240650;Lagoa Nova;Rio Grande do Norte
+24;240660;Lagoa Salgada;Rio Grande do Norte
+24;240670;Lajes;Rio Grande do Norte
+24;240680;Lajes Pintadas;Rio Grande do Norte
+24;240690;Lucrécia;Rio Grande do Norte
+24;240700;Luís Gomes;Rio Grande do Norte
+24;240710;Macaíba;Rio Grande do Norte
+24;240720;Macau;Rio Grande do Norte
+24;240725;Major Sales;Rio Grande do Norte
+24;240730;Marcelino Vieira;Rio Grande do Norte
+24;240740;Martins;Rio Grande do Norte
+24;240750;Maxaranguape;Rio Grande do Norte
+24;240760;Messias Targino;Rio Grande do Norte
+24;240770;Montanhas;Rio Grande do Norte
+24;240780;Monte Alegre;Rio Grande do Norte
+24;240790;Monte das Gameleiras;Rio Grande do Norte
+24;240800;Mossoró;Rio Grande do Norte
+24;240810;Natal;Rio Grande do Norte
+24;240820;Nísia Floresta;Rio Grande do Norte
+24;240830;Nova Cruz;Rio Grande do Norte
+24;240840;Olho-d'Água do Borges;Rio Grande do Norte
+24;240850;Ouro Branco;Rio Grande do Norte
+24;240860;Paraná;Rio Grande do Norte
+24;240870;Paraú;Rio Grande do Norte
+24;240880;Parazinho;Rio Grande do Norte
+24;240890;Parelhas;Rio Grande do Norte
+24;240325;Parnamirim;Rio Grande do Norte
+24;240910;Passa e Fica;Rio Grande do Norte
+24;240920;Passagem;Rio Grande do Norte
+24;240930;Patu;Rio Grande do Norte
+24;240940;Pau dos Ferros;Rio Grande do Norte
+24;240950;Pedra Grande;Rio Grande do Norte
+24;240960;Pedra Preta;Rio Grande do Norte
+24;240970;Pedro Avelino;Rio Grande do Norte
+24;240980;Pedro Velho;Rio Grande do Norte
+24;240990;Pendências;Rio Grande do Norte
+24;241000;Pilões;Rio Grande do Norte
+24;241010;Poço Branco;Rio Grande do Norte
+24;241020;Portalegre;Rio Grande do Norte
+24;241025;Porto do Mangue;Rio Grande do Norte
+24;241030;Presidente Juscelino;Rio Grande do Norte
+24;241040;Pureza;Rio Grande do Norte
+24;241050;Rafael Fernandes;Rio Grande do Norte
+24;241060;Rafael Godeiro;Rio Grande do Norte
+24;241070;Riacho da Cruz;Rio Grande do Norte
+24;241080;Riacho de Santana;Rio Grande do Norte
+24;241090;Riachuelo;Rio Grande do Norte
+24;240895;Rio do Fogo;Rio Grande do Norte
+24;241100;Rodolfo Fernandes;Rio Grande do Norte
+24;241110;Ruy Barbosa;Rio Grande do Norte
+24;241120;Santa Cruz;Rio Grande do Norte
+24;240933;Santa Maria;Rio Grande do Norte
+24;241140;Santana do Matos;Rio Grande do Norte
+24;241142;Santana do Seridó;Rio Grande do Norte
+24;241150;Santo Antônio;Rio Grande do Norte
+24;241160;São Bento do Norte;Rio Grande do Norte
+24;241170;São Bento do Trairí;Rio Grande do Norte
+24;241180;São Fernando;Rio Grande do Norte
+24;241190;São Francisco do Oeste;Rio Grande do Norte
+24;241200;São Gonçalo do Amarante;Rio Grande do Norte
+24;241210;São João do Sabugi;Rio Grande do Norte
+24;241220;São José de Mipibu;Rio Grande do Norte
+24;241230;São José do Campestre;Rio Grande do Norte
+24;241240;São José do Seridó;Rio Grande do Norte
+24;241250;São Miguel;Rio Grande do Norte
+24;241255;São Miguel do Gostoso;Rio Grande do Norte
+24;241260;São Paulo do Potengi;Rio Grande do Norte
+24;241270;São Pedro;Rio Grande do Norte
+24;241280;São Rafael;Rio Grande do Norte
+24;241290;São Tomé;Rio Grande do Norte
+24;241300;São Vicente;Rio Grande do Norte
+24;241310;Senador Elói de Souza;Rio Grande do Norte
+24;241320;Senador Georgino Avelino;Rio Grande do Norte
+24;241330;Serra de São Bento;Rio Grande do Norte
+24;241335;Serra do Mel;Rio Grande do Norte
+24;241340;Serra Negra do Norte;Rio Grande do Norte
+24;241350;Serrinha;Rio Grande do Norte
+24;241355;Serrinha dos Pintos;Rio Grande do Norte
+24;241360;Severiano Melo;Rio Grande do Norte
+24;241370;Sítio Novo;Rio Grande do Norte
+24;241380;Taboleiro Grande;Rio Grande do Norte
+24;241390;Taipu;Rio Grande do Norte
+24;241400;Tangará;Rio Grande do Norte
+24;241410;Tenente Ananias;Rio Grande do Norte
+24;241415;Tenente Laurentino Cruz;Rio Grande do Norte
+24;241105;Tibau;Rio Grande do Norte
+24;241420;Tibau do Sul;Rio Grande do Norte
+24;241430;Timbaúba dos Batistas;Rio Grande do Norte
+24;241440;Touros;Rio Grande do Norte
+24;241445;Triunfo Potiguar;Rio Grande do Norte
+24;241450;Umarizal;Rio Grande do Norte
+24;241460;Upanema;Rio Grande do Norte
+24;241470;Várzea;Rio Grande do Norte
+24;241475;Venha-Ver;Rio Grande do Norte
+24;241480;Vera Cruz;Rio Grande do Norte
+24;241490;Viçosa;Rio Grande do Norte
+24;241500;Vila Flor;Rio Grande do Norte
+43;430003;Aceguá;Rio Grande do Sul
+43;430005;Água Santa;Rio Grande do Sul
+43;430010;Agudo;Rio Grande do Sul
+43;430020;Ajuricaba;Rio Grande do Sul
+43;430030;Alecrim;Rio Grande do Sul
+43;430040;Alegrete;Rio Grande do Sul
+43;430045;Alegria;Rio Grande do Sul
+43;430047;Almirante Tamandaré do Sul;Rio Grande do Sul
+43;430050;Alpestre;Rio Grande do Sul
+43;430055;Alto Alegre;Rio Grande do Sul
+43;430057;Alto Feliz;Rio Grande do Sul
+43;430060;Alvorada;Rio Grande do Sul
+43;430063;Amaral Ferrador;Rio Grande do Sul
+43;430064;Ametista do Sul;Rio Grande do Sul
+43;430066;André da Rocha;Rio Grande do Sul
+43;430070;Anta Gorda;Rio Grande do Sul
+43;430080;Antônio Prado;Rio Grande do Sul
+43;430085;Arambaré;Rio Grande do Sul
+43;430087;Araricá;Rio Grande do Sul
+43;430090;Aratiba;Rio Grande do Sul
+43;430100;Arroio do Meio;Rio Grande do Sul
+43;430107;Arroio do Padre;Rio Grande do Sul
+43;430105;Arroio do Sal;Rio Grande do Sul
+43;430120;Arroio do Tigre;Rio Grande do Sul
+43;430110;Arroio dos Ratos;Rio Grande do Sul
+43;430130;Arroio Grande;Rio Grande do Sul
+43;430140;Arvorezinha;Rio Grande do Sul
+43;430150;Augusto Pestana;Rio Grande do Sul
+43;430155;Áurea;Rio Grande do Sul
+43;430160;Bagé;Rio Grande do Sul
+43;430163;Balneário Pinhal;Rio Grande do Sul
+43;430165;Barão;Rio Grande do Sul
+43;430170;Barão de Cotegipe;Rio Grande do Sul
+43;430175;Barão do Triunfo;Rio Grande do Sul
+43;430185;Barra do Guarita;Rio Grande do Sul
+43;430187;Barra do Quaraí;Rio Grande do Sul
+43;430190;Barra do Ribeiro;Rio Grande do Sul
+43;430192;Barra do Rio Azul;Rio Grande do Sul
+43;430195;Barra Funda;Rio Grande do Sul
+43;430180;Barracão;Rio Grande do Sul
+43;430200;Barros Cassal;Rio Grande do Sul
+43;430205;Benjamin Constant do Sul;Rio Grande do Sul
+43;430210;Bento Gonçalves;Rio Grande do Sul
+43;430215;Boa Vista das Missões;Rio Grande do Sul
+43;430220;Boa Vista do Buricá;Rio Grande do Sul
+43;430222;Boa Vista do Cadeado;Rio Grande do Sul
+43;430223;Boa Vista do Incra;Rio Grande do Sul
+43;430225;Boa Vista do Sul;Rio Grande do Sul
+43;430230;Bom Jesus;Rio Grande do Sul
+43;430235;Bom Princípio;Rio Grande do Sul
+43;430237;Bom Progresso;Rio Grande do Sul
+43;430240;Bom Retiro do Sul;Rio Grande do Sul
+43;430245;Boqueirão do Leão;Rio Grande do Sul
+43;430250;Bossoroca;Rio Grande do Sul
+43;430258;Bozano;Rio Grande do Sul
+43;430260;Braga;Rio Grande do Sul
+43;430265;Brochier;Rio Grande do Sul
+43;430270;Butiá;Rio Grande do Sul
+43;430280;Caçapava do Sul;Rio Grande do Sul
+43;430290;Cacequi;Rio Grande do Sul
+43;430300;Cachoeira do Sul;Rio Grande do Sul
+43;430310;Cachoeirinha;Rio Grande do Sul
+43;430320;Cacique Doble;Rio Grande do Sul
+43;430330;Caibaté;Rio Grande do Sul
+43;430340;Caiçara;Rio Grande do Sul
+43;430350;Camaquã;Rio Grande do Sul
+43;430355;Camargo;Rio Grande do Sul
+43;430360;Cambará do Sul;Rio Grande do Sul
+43;430367;Campestre da Serra;Rio Grande do Sul
+43;430370;Campina das Missões;Rio Grande do Sul
+43;430380;Campinas do Sul;Rio Grande do Sul
+43;430390;Campo Bom;Rio Grande do Sul
+43;430400;Campo Novo;Rio Grande do Sul
+43;430410;Campos Borges;Rio Grande do Sul
+43;430420;Candelária;Rio Grande do Sul
+43;430430;Cândido Godói;Rio Grande do Sul
+43;430435;Candiota;Rio Grande do Sul
+43;430440;Canela;Rio Grande do Sul
+43;430450;Canguçu;Rio Grande do Sul
+43;430460;Canoas;Rio Grande do Sul
+43;430461;Canudos do Vale;Rio Grande do Sul
+43;430462;Capão Bonito do Sul;Rio Grande do Sul
+43;430463;Capão da Canoa;Rio Grande do Sul
+43;430465;Capão do Cipó;Rio Grande do Sul
+43;430466;Capão do Leão;Rio Grande do Sul
+43;430468;Capela de Santana;Rio Grande do Sul
+43;430469;Capitão;Rio Grande do Sul
+43;430467;Capivari do Sul;Rio Grande do Sul
+43;430471;Caraá;Rio Grande do Sul
+43;430470;Carazinho;Rio Grande do Sul
+43;430480;Carlos Barbosa;Rio Grande do Sul
+43;430485;Carlos Gomes;Rio Grande do Sul
+43;430490;Casca;Rio Grande do Sul
+43;430495;Caseiros;Rio Grande do Sul
+43;430500;Catuípe;Rio Grande do Sul
+43;430510;Caxias do Sul;Rio Grande do Sul
+43;430511;Centenário;Rio Grande do Sul
+43;430512;Cerrito;Rio Grande do Sul
+43;430513;Cerro Branco;Rio Grande do Sul
+43;430515;Cerro Grande;Rio Grande do Sul
+43;430517;Cerro Grande do Sul;Rio Grande do Sul
+43;430520;Cerro Largo;Rio Grande do Sul
+43;430530;Chapada;Rio Grande do Sul
+43;430535;Charqueadas;Rio Grande do Sul
+43;430537;Charrua;Rio Grande do Sul
+43;430540;Chiapetta;Rio Grande do Sul
+43;430543;Chuí;Rio Grande do Sul
+43;430544;Chuvisca;Rio Grande do Sul
+43;430545;Cidreira;Rio Grande do Sul
+43;430550;Ciríaco;Rio Grande do Sul
+43;430558;Colinas;Rio Grande do Sul
+43;430560;Colorado;Rio Grande do Sul
+43;430570;Condor;Rio Grande do Sul
+43;430580;Constantina;Rio Grande do Sul
+43;430583;Coqueiro Baixo;Rio Grande do Sul
+43;430585;Coqueiros do Sul;Rio Grande do Sul
+43;430587;Coronel Barros;Rio Grande do Sul
+43;430590;Coronel Bicaco;Rio Grande do Sul
+43;430593;Coronel Pilar;Rio Grande do Sul
+43;430595;Cotiporã;Rio Grande do Sul
+43;430597;Coxilha;Rio Grande do Sul
+43;430600;Crissiumal;Rio Grande do Sul
+43;430605;Cristal;Rio Grande do Sul
+43;430607;Cristal do Sul;Rio Grande do Sul
+43;430610;Cruz Alta;Rio Grande do Sul
+43;430613;Cruzaltense;Rio Grande do Sul
+43;430620;Cruzeiro do Sul;Rio Grande do Sul
+43;430630;David Canabarro;Rio Grande do Sul
+43;430632;Derrubadas;Rio Grande do Sul
+43;430635;Dezesseis de Novembro;Rio Grande do Sul
+43;430637;Dilermando de Aguiar;Rio Grande do Sul
+43;430640;Dois Irmãos;Rio Grande do Sul
+43;430642;Dois Irmãos das Missões;Rio Grande do Sul
+43;430645;Dois Lajeados;Rio Grande do Sul
+43;430650;Dom Feliciano;Rio Grande do Sul
+43;430660;Dom Pedrito;Rio Grande do Sul
+43;430655;Dom Pedro de Alcântara;Rio Grande do Sul
+43;430670;Dona Francisca;Rio Grande do Sul
+43;430673;Doutor Maurício Cardoso;Rio Grande do Sul
+43;430675;Doutor Ricardo;Rio Grande do Sul
+43;430676;Eldorado do Sul;Rio Grande do Sul
+43;430680;Encantado;Rio Grande do Sul
+43;430690;Encruzilhada do Sul;Rio Grande do Sul
+43;430692;Engenho Velho;Rio Grande do Sul
+43;430695;Entre Rios do Sul;Rio Grande do Sul
+43;430693;Entre-Ijuís;Rio Grande do Sul
+43;430697;Erebango;Rio Grande do Sul
+43;430700;Erechim;Rio Grande do Sul
+43;430705;Ernestina;Rio Grande do Sul
+43;430720;Erval Grande;Rio Grande do Sul
+43;430730;Erval Seco;Rio Grande do Sul
+43;430740;Esmeralda;Rio Grande do Sul
+43;430745;Esperança do Sul;Rio Grande do Sul
+43;430750;Espumoso;Rio Grande do Sul
+43;430755;Estação;Rio Grande do Sul
+43;430760;Estância Velha;Rio Grande do Sul
+43;430770;Esteio;Rio Grande do Sul
+43;430780;Estrela;Rio Grande do Sul
+43;430781;Estrela Velha;Rio Grande do Sul
+43;430783;Eugênio de Castro;Rio Grande do Sul
+43;430786;Fagundes Varela;Rio Grande do Sul
+43;430790;Farroupilha;Rio Grande do Sul
+43;430800;Faxinal do Soturno;Rio Grande do Sul
+43;430805;Faxinalzinho;Rio Grande do Sul
+43;430807;Fazenda Vilanova;Rio Grande do Sul
+43;430810;Feliz;Rio Grande do Sul
+43;430820;Flores da Cunha;Rio Grande do Sul
+43;430825;Floriano Peixoto;Rio Grande do Sul
+43;430830;Fontoura Xavier;Rio Grande do Sul
+43;430840;Formigueiro;Rio Grande do Sul
+43;430843;Forquetinha;Rio Grande do Sul
+43;430845;Fortaleza dos Valos;Rio Grande do Sul
+43;430850;Frederico Westphalen;Rio Grande do Sul
+43;430860;Garibaldi;Rio Grande do Sul
+43;430865;Garruchos;Rio Grande do Sul
+43;430870;Gaurama;Rio Grande do Sul
+43;430880;General Câmara;Rio Grande do Sul
+43;430885;Gentil;Rio Grande do Sul
+43;430890;Getúlio Vargas;Rio Grande do Sul
+43;430900;Giruá;Rio Grande do Sul
+43;430905;Glorinha;Rio Grande do Sul
+43;430910;Gramado;Rio Grande do Sul
+43;430912;Gramado dos Loureiros;Rio Grande do Sul
+43;430915;Gramado Xavier;Rio Grande do Sul
+43;430920;Gravataí;Rio Grande do Sul
+43;430925;Guabiju;Rio Grande do Sul
+43;430930;Guaíba;Rio Grande do Sul
+43;430940;Guaporé;Rio Grande do Sul
+43;430950;Guarani das Missões;Rio Grande do Sul
+43;430955;Harmonia;Rio Grande do Sul
+43;430710;Herval;Rio Grande do Sul
+43;430957;Herveiras;Rio Grande do Sul
+43;430960;Horizontina;Rio Grande do Sul
+43;430965;Hulha Negra;Rio Grande do Sul
+43;430970;Humaitá;Rio Grande do Sul
+43;430975;Ibarama;Rio Grande do Sul
+43;430980;Ibiaçá;Rio Grande do Sul
+43;430990;Ibiraiaras;Rio Grande do Sul
+43;430995;Ibirapuitã;Rio Grande do Sul
+43;431000;Ibirubá;Rio Grande do Sul
+43;431010;Igrejinha;Rio Grande do Sul
+43;431020;Ijuí;Rio Grande do Sul
+43;431030;Ilópolis;Rio Grande do Sul
+43;431033;Imbé;Rio Grande do Sul
+43;431036;Imigrante;Rio Grande do Sul
+43;431040;Independência;Rio Grande do Sul
+43;431041;Inhacorá;Rio Grande do Sul
+43;431043;Ipê;Rio Grande do Sul
+43;431046;Ipiranga do Sul;Rio Grande do Sul
+43;431050;Iraí;Rio Grande do Sul
+43;431053;Itaara;Rio Grande do Sul
+43;431055;Itacurubi;Rio Grande do Sul
+43;431057;Itapuca;Rio Grande do Sul
+43;431060;Itaqui;Rio Grande do Sul
+43;431065;Itati;Rio Grande do Sul
+43;431070;Itatiba do Sul;Rio Grande do Sul
+43;431075;Ivorá;Rio Grande do Sul
+43;431080;Ivoti;Rio Grande do Sul
+43;431085;Jaboticaba;Rio Grande do Sul
+43;431087;Jacuizinho;Rio Grande do Sul
+43;431090;Jacutinga;Rio Grande do Sul
+43;431100;Jaguarão;Rio Grande do Sul
+43;431110;Jaguari;Rio Grande do Sul
+43;431112;Jaquirana;Rio Grande do Sul
+43;431113;Jari;Rio Grande do Sul
+43;431115;Jóia;Rio Grande do Sul
+43;431120;Júlio de Castilhos;Rio Grande do Sul
+43;431123;Lagoa Bonita do Sul;Rio Grande do Sul
+43;431127;Lagoa dos Três Cantos;Rio Grande do Sul
+43;431130;Lagoa Vermelha;Rio Grande do Sul
+43;431125;Lagoão;Rio Grande do Sul
+43;431140;Lajeado;Rio Grande do Sul
+43;431142;Lajeado do Bugre;Rio Grande do Sul
+43;431150;Lavras do Sul;Rio Grande do Sul
+43;431160;Liberato Salzano;Rio Grande do Sul
+43;431162;Lindolfo Collor;Rio Grande do Sul
+43;431164;Linha Nova;Rio Grande do Sul
+43;431171;Maçambara;Rio Grande do Sul
+43;431170;Machadinho;Rio Grande do Sul
+43;431173;Mampituba;Rio Grande do Sul
+43;431175;Manoel Viana;Rio Grande do Sul
+43;431177;Maquiné;Rio Grande do Sul
+43;431179;Maratá;Rio Grande do Sul
+43;431180;Marau;Rio Grande do Sul
+43;431190;Marcelino Ramos;Rio Grande do Sul
+43;431198;Mariana Pimentel;Rio Grande do Sul
+43;431200;Mariano Moro;Rio Grande do Sul
+43;431205;Marques de Souza;Rio Grande do Sul
+43;431210;Mata;Rio Grande do Sul
+43;431213;Mato Castelhano;Rio Grande do Sul
+43;431215;Mato Leitão;Rio Grande do Sul
+43;431217;Mato Queimado;Rio Grande do Sul
+43;431220;Maximiliano de Almeida;Rio Grande do Sul
+43;431225;Minas do Leão;Rio Grande do Sul
+43;431230;Miraguaí;Rio Grande do Sul
+43;431235;Montauri;Rio Grande do Sul
+43;431237;Monte Alegre dos Campos;Rio Grande do Sul
+43;431238;Monte Belo do Sul;Rio Grande do Sul
+43;431240;Montenegro;Rio Grande do Sul
+43;431242;Mormaço;Rio Grande do Sul
+43;431244;Morrinhos do Sul;Rio Grande do Sul
+43;431245;Morro Redondo;Rio Grande do Sul
+43;431247;Morro Reuter;Rio Grande do Sul
+43;431250;Mostardas;Rio Grande do Sul
+43;431260;Muçum;Rio Grande do Sul
+43;431261;Muitos Capões;Rio Grande do Sul
+43;431262;Muliterno;Rio Grande do Sul
+43;431265;Não-Me-Toque;Rio Grande do Sul
+43;431267;Nicolau Vergueiro;Rio Grande do Sul
+43;431270;Nonoai;Rio Grande do Sul
+43;431275;Nova Alvorada;Rio Grande do Sul
+43;431280;Nova Araçá;Rio Grande do Sul
+43;431290;Nova Bassano;Rio Grande do Sul
+43;431295;Nova Boa Vista;Rio Grande do Sul
+43;431300;Nova Bréscia;Rio Grande do Sul
+43;431301;Nova Candelária;Rio Grande do Sul
+43;431303;Nova Esperança do Sul;Rio Grande do Sul
+43;431306;Nova Hartz;Rio Grande do Sul
+43;431308;Nova Pádua;Rio Grande do Sul
+43;431310;Nova Palma;Rio Grande do Sul
+43;431320;Nova Petrópolis;Rio Grande do Sul
+43;431330;Nova Prata;Rio Grande do Sul
+43;431333;Nova Ramada;Rio Grande do Sul
+43;431335;Nova Roma do Sul;Rio Grande do Sul
+43;431337;Nova Santa Rita;Rio Grande do Sul
+43;431349;Novo Barreiro;Rio Grande do Sul
+43;431339;Novo Cabrais;Rio Grande do Sul
+43;431340;Novo Hamburgo;Rio Grande do Sul
+43;431342;Novo Machado;Rio Grande do Sul
+43;431344;Novo Tiradentes;Rio Grande do Sul
+43;431346;Novo Xingu;Rio Grande do Sul
+43;431350;Osório;Rio Grande do Sul
+43;431360;Paim Filho;Rio Grande do Sul
+43;431365;Palmares do Sul;Rio Grande do Sul
+43;431370;Palmeira das Missões;Rio Grande do Sul
+43;431380;Palmitinho;Rio Grande do Sul
+43;431390;Panambi;Rio Grande do Sul
+43;431395;Pantano Grande;Rio Grande do Sul
+43;431400;Paraí;Rio Grande do Sul
+43;431402;Paraíso do Sul;Rio Grande do Sul
+43;431403;Pareci Novo;Rio Grande do Sul
+43;431405;Parobé;Rio Grande do Sul
+43;431406;Passa Sete;Rio Grande do Sul
+43;431407;Passo do Sobrado;Rio Grande do Sul
+43;431410;Passo Fundo;Rio Grande do Sul
+43;431413;Paulo Bento;Rio Grande do Sul
+43;431415;Paverama;Rio Grande do Sul
+43;431417;Pedras Altas;Rio Grande do Sul
+43;431420;Pedro Osório;Rio Grande do Sul
+43;431430;Pejuçara;Rio Grande do Sul
+43;431440;Pelotas;Rio Grande do Sul
+43;431442;Picada Café;Rio Grande do Sul
+43;431445;Pinhal;Rio Grande do Sul
+43;431446;Pinhal da Serra;Rio Grande do Sul
+43;431447;Pinhal Grande;Rio Grande do Sul
+43;431449;Pinheirinho do Vale;Rio Grande do Sul
+43;431450;Pinheiro Machado;Rio Grande do Sul
+43;431454;Pinto Bandeira;Rio Grande do Sul
+43;431455;Pirapó;Rio Grande do Sul
+43;431460;Piratini;Rio Grande do Sul
+43;431470;Planalto;Rio Grande do Sul
+43;431475;Poço das Antas;Rio Grande do Sul
+43;431477;Pontão;Rio Grande do Sul
+43;431478;Ponte Preta;Rio Grande do Sul
+43;431480;Portão;Rio Grande do Sul
+43;431490;Porto Alegre;Rio Grande do Sul
+43;431500;Porto Lucena;Rio Grande do Sul
+43;431505;Porto Mauá;Rio Grande do Sul
+43;431507;Porto Vera Cruz;Rio Grande do Sul
+43;431510;Porto Xavier;Rio Grande do Sul
+43;431513;Pouso Novo;Rio Grande do Sul
+43;431514;Presidente Lucena;Rio Grande do Sul
+43;431515;Progresso;Rio Grande do Sul
+43;431517;Protásio Alves;Rio Grande do Sul
+43;431520;Putinga;Rio Grande do Sul
+43;431530;Quaraí;Rio Grande do Sul
+43;431531;Quatro Irmãos;Rio Grande do Sul
+43;431532;Quevedos;Rio Grande do Sul
+43;431535;Quinze de Novembro;Rio Grande do Sul
+43;431540;Redentora;Rio Grande do Sul
+43;431545;Relvado;Rio Grande do Sul
+43;431550;Restinga Seca;Rio Grande do Sul
+43;431555;Rio dos Índios;Rio Grande do Sul
+43;431560;Rio Grande;Rio Grande do Sul
+43;431570;Rio Pardo;Rio Grande do Sul
+43;431575;Riozinho;Rio Grande do Sul
+43;431580;Roca Sales;Rio Grande do Sul
+43;431590;Rodeio Bonito;Rio Grande do Sul
+43;431595;Rolador;Rio Grande do Sul
+43;431600;Rolante;Rio Grande do Sul
+43;431610;Ronda Alta;Rio Grande do Sul
+43;431620;Rondinha;Rio Grande do Sul
+43;431630;Roque Gonzales;Rio Grande do Sul
+43;431640;Rosário do Sul;Rio Grande do Sul
+43;431642;Sagrada Família;Rio Grande do Sul
+43;431643;Saldanha Marinho;Rio Grande do Sul
+43;431645;Salto do Jacuí;Rio Grande do Sul
+43;431647;Salvador das Missões;Rio Grande do Sul
+43;431650;Salvador do Sul;Rio Grande do Sul
+43;431660;Sananduva;Rio Grande do Sul
+43;431670;Santa Bárbara do Sul;Rio Grande do Sul
+43;431673;Santa Cecília do Sul;Rio Grande do Sul
+43;431675;Santa Clara do Sul;Rio Grande do Sul
+43;431680;Santa Cruz do Sul;Rio Grande do Sul
+43;431697;Santa Margarida do Sul;Rio Grande do Sul
+43;431690;Santa Maria;Rio Grande do Sul
+43;431695;Santa Maria do Herval;Rio Grande do Sul
+43;431720;Santa Rosa;Rio Grande do Sul
+43;431725;Santa Tereza;Rio Grande do Sul
+43;431730;Santa Vitória do Palmar;Rio Grande do Sul
+43;431700;Santana da Boa Vista;Rio Grande do Sul
+43;431710;Santana do Livramento;Rio Grande do Sul
+43;431740;Santiago;Rio Grande do Sul
+43;431750;Santo Ângelo;Rio Grande do Sul
+43;431760;Santo Antônio da Patrulha;Rio Grande do Sul
+43;431770;Santo Antônio das Missões;Rio Grande do Sul
+43;431755;Santo Antônio do Palma;Rio Grande do Sul
+43;431775;Santo Antônio do Planalto;Rio Grande do Sul
+43;431780;Santo Augusto;Rio Grande do Sul
+43;431790;Santo Cristo;Rio Grande do Sul
+43;431795;Santo Expedito do Sul;Rio Grande do Sul
+43;431800;São Borja;Rio Grande do Sul
+43;431805;São Domingos do Sul;Rio Grande do Sul
+43;431810;São Francisco de Assis;Rio Grande do Sul
+43;431820;São Francisco de Paula;Rio Grande do Sul
+43;431830;São Gabriel;Rio Grande do Sul
+43;431840;São Jerônimo;Rio Grande do Sul
+43;431842;São João da Urtiga;Rio Grande do Sul
+43;431843;São João do Polêsine;Rio Grande do Sul
+43;431844;São Jorge;Rio Grande do Sul
+43;431845;São José das Missões;Rio Grande do Sul
+43;431846;São José do Herval;Rio Grande do Sul
+43;431848;São José do Hortêncio;Rio Grande do Sul
+43;431849;São José do Inhacorá;Rio Grande do Sul
+43;431850;São José do Norte;Rio Grande do Sul
+43;431860;São José do Ouro;Rio Grande do Sul
+43;431861;São José do Sul;Rio Grande do Sul
+43;431862;São José dos Ausentes;Rio Grande do Sul
+43;431870;São Leopoldo;Rio Grande do Sul
+43;431880;São Lourenço do Sul;Rio Grande do Sul
+43;431890;São Luiz Gonzaga;Rio Grande do Sul
+43;431900;São Marcos;Rio Grande do Sul
+43;431910;São Martinho;Rio Grande do Sul
+43;431912;São Martinho da Serra;Rio Grande do Sul
+43;431915;São Miguel das Missões;Rio Grande do Sul
+43;431920;São Nicolau;Rio Grande do Sul
+43;431930;São Paulo das Missões;Rio Grande do Sul
+43;431935;São Pedro da Serra;Rio Grande do Sul
+43;431936;São Pedro das Missões;Rio Grande do Sul
+43;431937;São Pedro do Butiá;Rio Grande do Sul
+43;431940;São Pedro do Sul;Rio Grande do Sul
+43;431950;São Sebastião do Caí;Rio Grande do Sul
+43;431960;São Sepé;Rio Grande do Sul
+43;431970;São Valentim;Rio Grande do Sul
+43;431971;São Valentim do Sul;Rio Grande do Sul
+43;431973;São Valério do Sul;Rio Grande do Sul
+43;431975;São Vendelino;Rio Grande do Sul
+43;431980;São Vicente do Sul;Rio Grande do Sul
+43;431990;Sapiranga;Rio Grande do Sul
+43;432000;Sapucaia do Sul;Rio Grande do Sul
+43;432010;Sarandi;Rio Grande do Sul
+43;432020;Seberi;Rio Grande do Sul
+43;432023;Sede Nova;Rio Grande do Sul
+43;432026;Segredo;Rio Grande do Sul
+43;432030;Selbach;Rio Grande do Sul
+43;432032;Senador Salgado Filho;Rio Grande do Sul
+43;432035;Sentinela do Sul;Rio Grande do Sul
+43;432040;Serafina Corrêa;Rio Grande do Sul
+43;432045;Sério;Rio Grande do Sul
+43;432050;Sertão;Rio Grande do Sul
+43;432055;Sertão Santana;Rio Grande do Sul
+43;432057;Sete de Setembro;Rio Grande do Sul
+43;432060;Severiano de Almeida;Rio Grande do Sul
+43;432065;Silveira Martins;Rio Grande do Sul
+43;432067;Sinimbu;Rio Grande do Sul
+43;432070;Sobradinho;Rio Grande do Sul
+43;432080;Soledade;Rio Grande do Sul
+43;432085;Tabaí;Rio Grande do Sul
+43;432090;Tapejara;Rio Grande do Sul
+43;432100;Tapera;Rio Grande do Sul
+43;432110;Tapes;Rio Grande do Sul
+43;432120;Taquara;Rio Grande do Sul
+43;432130;Taquari;Rio Grande do Sul
+43;432132;Taquaruçu do Sul;Rio Grande do Sul
+43;432135;Tavares;Rio Grande do Sul
+43;432140;Tenente Portela;Rio Grande do Sul
+43;432143;Terra de Areia;Rio Grande do Sul
+43;432145;Teutônia;Rio Grande do Sul
+43;432146;Tio Hugo;Rio Grande do Sul
+43;432147;Tiradentes do Sul;Rio Grande do Sul
+43;432149;Toropi;Rio Grande do Sul
+43;432150;Torres;Rio Grande do Sul
+43;432160;Tramandaí;Rio Grande do Sul
+43;432162;Travesseiro;Rio Grande do Sul
+43;432163;Três Arroios;Rio Grande do Sul
+43;432166;Três Cachoeiras;Rio Grande do Sul
+43;432170;Três Coroas;Rio Grande do Sul
+43;432180;Três de Maio;Rio Grande do Sul
+43;432183;Três Forquilhas;Rio Grande do Sul
+43;432185;Três Palmeiras;Rio Grande do Sul
+43;432190;Três Passos;Rio Grande do Sul
+43;432195;Trindade do Sul;Rio Grande do Sul
+43;432200;Triunfo;Rio Grande do Sul
+43;432210;Tucunduva;Rio Grande do Sul
+43;432215;Tunas;Rio Grande do Sul
+43;432218;Tupanci do Sul;Rio Grande do Sul
+43;432220;Tupanciretã;Rio Grande do Sul
+43;432225;Tupandi;Rio Grande do Sul
+43;432230;Tuparendi;Rio Grande do Sul
+43;432232;Turuçu;Rio Grande do Sul
+43;432234;Ubiretama;Rio Grande do Sul
+43;432235;União da Serra;Rio Grande do Sul
+43;432237;Unistalda;Rio Grande do Sul
+43;432240;Uruguaiana;Rio Grande do Sul
+43;432250;Vacaria;Rio Grande do Sul
+43;432253;Vale do Sol;Rio Grande do Sul
+43;432254;Vale Real;Rio Grande do Sul
+43;432252;Vale Verde;Rio Grande do Sul
+43;432255;Vanini;Rio Grande do Sul
+43;432260;Venâncio Aires;Rio Grande do Sul
+43;432270;Vera Cruz;Rio Grande do Sul
+43;432280;Veranópolis;Rio Grande do Sul
+43;432285;Vespasiano Correa;Rio Grande do Sul
+43;432290;Viadutos;Rio Grande do Sul
+43;432300;Viamão;Rio Grande do Sul
+43;432310;Vicente Dutra;Rio Grande do Sul
+43;432320;Victor Graeff;Rio Grande do Sul
+43;432330;Vila Flores;Rio Grande do Sul
+43;432335;Vila Lângaro;Rio Grande do Sul
+43;432340;Vila Maria;Rio Grande do Sul
+43;432345;Vila Nova do Sul;Rio Grande do Sul
+43;432350;Vista Alegre;Rio Grande do Sul
+43;432360;Vista Alegre do Prata;Rio Grande do Sul
+43;432370;Vista Gaúcha;Rio Grande do Sul
+43;432375;Vitória das Missões;Rio Grande do Sul
+43;432377;Westfalia;Rio Grande do Sul
+43;432380;Xangri-lá;Rio Grande do Sul
+11;110001;Alta Floresta D'Oeste;Rondonia
+11;110037;Alto Alegre dos Parecis;Rondonia
+11;110040;Alto Paraíso;Rondonia
+11;110034;Alvorada D'Oeste;Rondonia
+11;110002;Ariquemes;Rondonia
+11;110045;Buritis;Rondonia
+11;110003;Cabixi;Rondonia
+11;110060;Cacaulândia;Rondonia
+11;110004;Cacoal;Rondonia
+11;110070;Campo Novo de Rondônia;Rondonia
+11;110080;Candeias do Jamari;Rondonia
+11;110090;Castanheiras;Rondonia
+11;110005;Cerejeiras;Rondonia
+11;110092;Chupinguaia;Rondonia
+11;110006;Colorado do Oeste;Rondonia
+11;110007;Corumbiara;Rondonia
+11;110008;Costa Marques;Rondonia
+11;110094;Cujubim;Rondonia
+11;110009;Espigão D'Oeste;Rondonia
+11;110100;Governador Jorge Teixeira;Rondonia
+11;110010;Guajará-Mirim;Rondonia
+11;110110;Itapuã do Oeste;Rondonia
+11;110011;Jaru;Rondonia
+11;110012;Ji-Paraná;Rondonia
+11;110013;Machadinho D'Oeste;Rondonia
+11;110120;Ministro Andreazza;Rondonia
+11;110130;Mirante da Serra;Rondonia
+11;110140;Monte Negro;Rondonia
+11;110014;Nova Brasilândia D'Oeste;Rondonia
+11;110033;Nova Mamoré;Rondonia
+11;110143;Nova União;Rondonia
+11;110050;Novo Horizonte do Oeste;Rondonia
+11;110015;Ouro Preto do Oeste;Rondonia
+11;110145;Parecis;Rondonia
+11;110018;Pimenta Bueno;Rondonia
+11;110146;Pimenteiras do Oeste;Rondonia
+11;110020;Porto Velho;Rondonia
+11;110025;Presidente Médici;Rondonia
+11;110147;Primavera de Rondônia;Rondonia
+11;110026;Rio Crespo;Rondonia
+11;110028;Rolim de Moura;Rondonia
+11;110029;Santa Luzia D'Oeste;Rondonia
+11;110148;São Felipe D'Oeste;Rondonia
+11;110149;São Francisco do Guaporé;Rondonia
+11;110032;São Miguel do Guaporé;Rondonia
+11;110150;Seringueiras;Rondonia
+11;110155;Teixeirópolis;Rondonia
+11;110160;Theobroma;Rondonia
+11;110170;Urupá;Rondonia
+11;110175;Vale do Anari;Rondonia
+11;110180;Vale do Paraíso;Rondonia
+11;110030;Vilhena;Rondonia
+14;140005;Alto Alegre;Roraima
+14;140002;Amajari;Roraima
+14;140010;Boa Vista;Roraima
+14;140015;Bonfim;Roraima
+14;140017;Cantá;Roraima
+14;140020;Caracaraí;Roraima
+14;140023;Caroebe;Roraima
+14;140028;Iracema;Roraima
+14;140030;Mucajaí;Roraima
+14;140040;Normandia;Roraima
+14;140045;Pacaraima;Roraima
+14;140047;Rorainópolis;Roraima
+14;140050;São João da Baliza;Roraima
+14;140060;São Luiz;Roraima
+14;140070;Uiramutã;Roraima
+42;420005;Abdon Batista;Santa Catarina
+42;420010;Abelardo Luz;Santa Catarina
+42;420020;Agrolândia;Santa Catarina
+42;420030;Agronômica;Santa Catarina
+42;420040;Água Doce;Santa Catarina
+42;420050;Águas de Chapecó;Santa Catarina
+42;420055;Águas Frias;Santa Catarina
+42;420060;Águas Mornas;Santa Catarina
+42;420070;Alfredo Wagner;Santa Catarina
+42;420075;Alto Bela Vista;Santa Catarina
+42;420080;Anchieta;Santa Catarina
+42;420090;Angelina;Santa Catarina
+42;420100;Anita Garibaldi;Santa Catarina
+42;420110;Anitápolis;Santa Catarina
+42;420120;Antônio Carlos;Santa Catarina
+42;420125;Apiúna;Santa Catarina
+42;420127;Arabutã;Santa Catarina
+42;420130;Araquari;Santa Catarina
+42;420140;Araranguá;Santa Catarina
+42;420150;Armazém;Santa Catarina
+42;420160;Arroio Trinta;Santa Catarina
+42;420165;Arvoredo;Santa Catarina
+42;420170;Ascurra;Santa Catarina
+42;420180;Atalanta;Santa Catarina
+42;420190;Aurora;Santa Catarina
+42;420195;Balneário Arroio do Silva;Santa Catarina
+42;420205;Balneário Barra do Sul;Santa Catarina
+42;420200;Balneário Camboriú;Santa Catarina
+42;420207;Balneário Gaivota;Santa Catarina
+42;421280;Balneário Piçarras;Santa Catarina
+42;422000;Balneário Rincão;Santa Catarina
+42;420208;Bandeirante;Santa Catarina
+42;420209;Barra Bonita;Santa Catarina
+42;420210;Barra Velha;Santa Catarina
+42;420213;Bela Vista do Toldo;Santa Catarina
+42;420215;Belmonte;Santa Catarina
+42;420220;Benedito Novo;Santa Catarina
+42;420230;Biguaçu;Santa Catarina
+42;420240;Blumenau;Santa Catarina
+42;420243;Bocaina do Sul;Santa Catarina
+42;420250;Bom Jardim da Serra;Santa Catarina
+42;420253;Bom Jesus;Santa Catarina
+42;420257;Bom Jesus do Oeste;Santa Catarina
+42;420260;Bom Retiro;Santa Catarina
+42;420245;Bombinhas;Santa Catarina
+42;420270;Botuverá;Santa Catarina
+42;420280;Braço do Norte;Santa Catarina
+42;420285;Braço do Trombudo;Santa Catarina
+42;420287;Brunópolis;Santa Catarina
+42;420290;Brusque;Santa Catarina
+42;420300;Caçador;Santa Catarina
+42;420310;Caibi;Santa Catarina
+42;420315;Calmon;Santa Catarina
+42;420320;Camboriú;Santa Catarina
+42;420330;Campo Alegre;Santa Catarina
+42;420340;Campo Belo do Sul;Santa Catarina
+42;420350;Campo Erê;Santa Catarina
+42;420360;Campos Novos;Santa Catarina
+42;420370;Canelinha;Santa Catarina
+42;420380;Canoinhas;Santa Catarina
+42;420325;Capão Alto;Santa Catarina
+42;420390;Capinzal;Santa Catarina
+42;420395;Capivari de Baixo;Santa Catarina
+42;420400;Catanduvas;Santa Catarina
+42;420410;Caxambu do Sul;Santa Catarina
+42;420415;Celso Ramos;Santa Catarina
+42;420417;Cerro Negro;Santa Catarina
+42;420419;Chapadão do Lageado;Santa Catarina
+42;420420;Chapecó;Santa Catarina
+42;420425;Cocal do Sul;Santa Catarina
+42;420430;Concórdia;Santa Catarina
+42;420435;Cordilheira Alta;Santa Catarina
+42;420440;Coronel Freitas;Santa Catarina
+42;420445;Coronel Martins;Santa Catarina
+42;420455;Correia Pinto;Santa Catarina
+42;420450;Corupá;Santa Catarina
+42;420460;Criciúma;Santa Catarina
+42;420470;Cunha Porã;Santa Catarina
+42;420475;Cunhataí;Santa Catarina
+42;420480;Curitibanos;Santa Catarina
+42;420490;Descanso;Santa Catarina
+42;420500;Dionísio Cerqueira;Santa Catarina
+42;420510;Dona Emma;Santa Catarina
+42;420515;Doutor Pedrinho;Santa Catarina
+42;420517;Entre Rios;Santa Catarina
+42;420519;Ermo;Santa Catarina
+42;420520;Erval Velho;Santa Catarina
+42;420530;Faxinal dos Guedes;Santa Catarina
+42;420535;Flor do Sertão;Santa Catarina
+42;420540;Florianópolis;Santa Catarina
+42;420543;Formosa do Sul;Santa Catarina
+42;420545;Forquilhinha;Santa Catarina
+42;420550;Fraiburgo;Santa Catarina
+42;420555;Frei Rogério;Santa Catarina
+42;420560;Galvão;Santa Catarina
+42;420570;Garopaba;Santa Catarina
+42;420580;Garuva;Santa Catarina
+42;420590;Gaspar;Santa Catarina
+42;420600;Governador Celso Ramos;Santa Catarina
+42;420610;Grão Pará;Santa Catarina
+42;420620;Gravatal;Santa Catarina
+42;420630;Guabiruba;Santa Catarina
+42;420640;Guaraciaba;Santa Catarina
+42;420650;Guaramirim;Santa Catarina
+42;420660;Guarujá do Sul;Santa Catarina
+42;420665;Guatambú;Santa Catarina
+42;420670;Herval d'Oeste;Santa Catarina
+42;420675;Ibiam;Santa Catarina
+42;420680;Ibicaré;Santa Catarina
+42;420690;Ibirama;Santa Catarina
+42;420700;Içara;Santa Catarina
+42;420710;Ilhota;Santa Catarina
+42;420720;Imaruí;Santa Catarina
+42;420730;Imbituba;Santa Catarina
+42;420740;Imbuia;Santa Catarina
+42;420750;Indaial;Santa Catarina
+42;420757;Iomerê;Santa Catarina
+42;420760;Ipira;Santa Catarina
+42;420765;Iporã do Oeste;Santa Catarina
+42;420768;Ipuaçu;Santa Catarina
+42;420770;Ipumirim;Santa Catarina
+42;420775;Iraceminha;Santa Catarina
+42;420780;Irani;Santa Catarina
+42;420785;Irati;Santa Catarina
+42;420790;Irineópolis;Santa Catarina
+42;420800;Itá;Santa Catarina
+42;420810;Itaiópolis;Santa Catarina
+42;420820;Itajaí;Santa Catarina
+42;420830;Itapema;Santa Catarina
+42;420840;Itapiranga;Santa Catarina
+42;420845;Itapoá;Santa Catarina
+42;420850;Ituporanga;Santa Catarina
+42;420860;Jaborá;Santa Catarina
+42;420870;Jacinto Machado;Santa Catarina
+42;420880;Jaguaruna;Santa Catarina
+42;420890;Jaraguá do Sul;Santa Catarina
+42;420895;Jardinópolis;Santa Catarina
+42;420900;Joaçaba;Santa Catarina
+42;420910;Joinville;Santa Catarina
+42;420915;José Boiteux;Santa Catarina
+42;420917;Jupiá;Santa Catarina
+42;420920;Lacerdópolis;Santa Catarina
+42;420930;Lages;Santa Catarina
+42;420940;Laguna;Santa Catarina
+42;420945;Lajeado Grande;Santa Catarina
+42;420950;Laurentino;Santa Catarina
+42;420960;Lauro Muller;Santa Catarina
+42;420970;Lebon Régis;Santa Catarina
+42;420980;Leoberto Leal;Santa Catarina
+42;420985;Lindóia do Sul;Santa Catarina
+42;420990;Lontras;Santa Catarina
+42;421000;Luiz Alves;Santa Catarina
+42;421003;Luzerna;Santa Catarina
+42;421005;Macieira;Santa Catarina
+42;421010;Mafra;Santa Catarina
+42;421020;Major Gercino;Santa Catarina
+42;421030;Major Vieira;Santa Catarina
+42;421040;Maracajá;Santa Catarina
+42;421050;Maravilha;Santa Catarina
+42;421055;Marema;Santa Catarina
+42;421060;Massaranduba;Santa Catarina
+42;421070;Matos Costa;Santa Catarina
+42;421080;Meleiro;Santa Catarina
+42;421085;Mirim Doce;Santa Catarina
+42;421090;Modelo;Santa Catarina
+42;421100;Mondaí;Santa Catarina
+42;421105;Monte Carlo;Santa Catarina
+42;421110;Monte Castelo;Santa Catarina
+42;421120;Morro da Fumaça;Santa Catarina
+42;421125;Morro Grande;Santa Catarina
+42;421130;Navegantes;Santa Catarina
+42;421140;Nova Erechim;Santa Catarina
+42;421145;Nova Itaberaba;Santa Catarina
+42;421150;Nova Trento;Santa Catarina
+42;421160;Nova Veneza;Santa Catarina
+42;421165;Novo Horizonte;Santa Catarina
+42;421170;Orleans;Santa Catarina
+42;421175;Otacílio Costa;Santa Catarina
+42;421180;Ouro;Santa Catarina
+42;421185;Ouro Verde;Santa Catarina
+42;421187;Paial;Santa Catarina
+42;421189;Painel;Santa Catarina
+42;421190;Palhoça;Santa Catarina
+42;421200;Palma Sola;Santa Catarina
+42;421205;Palmeira;Santa Catarina
+42;421210;Palmitos;Santa Catarina
+42;421220;Papanduva;Santa Catarina
+42;421223;Paraíso;Santa Catarina
+42;421225;Passo de Torres;Santa Catarina
+42;421227;Passos Maia;Santa Catarina
+42;421230;Paulo Lopes;Santa Catarina
+42;421240;Pedras Grandes;Santa Catarina
+42;421250;Penha;Santa Catarina
+42;421260;Peritiba;Santa Catarina
+42;421265;Pescaria Brava;Santa Catarina
+42;421270;Petrolândia;Santa Catarina
+42;421290;Pinhalzinho;Santa Catarina
+42;421300;Pinheiro Preto;Santa Catarina
+42;421310;Piratuba;Santa Catarina
+42;421315;Planalto Alegre;Santa Catarina
+42;421320;Pomerode;Santa Catarina
+42;421330;Ponte Alta;Santa Catarina
+42;421335;Ponte Alta do Norte;Santa Catarina
+42;421340;Ponte Serrada;Santa Catarina
+42;421350;Porto Belo;Santa Catarina
+42;421360;Porto União;Santa Catarina
+42;421370;Pouso Redondo;Santa Catarina
+42;421380;Praia Grande;Santa Catarina
+42;421390;Presidente Castello Branco;Santa Catarina
+42;421400;Presidente Getúlio;Santa Catarina
+42;421410;Presidente Nereu;Santa Catarina
+42;421415;Princesa;Santa Catarina
+42;421420;Quilombo;Santa Catarina
+42;421430;Rancho Queimado;Santa Catarina
+42;421440;Rio das Antas;Santa Catarina
+42;421450;Rio do Campo;Santa Catarina
+42;421460;Rio do Oeste;Santa Catarina
+42;421480;Rio do Sul;Santa Catarina
+42;421470;Rio dos Cedros;Santa Catarina
+42;421490;Rio Fortuna;Santa Catarina
+42;421500;Rio Negrinho;Santa Catarina
+42;421505;Rio Rufino;Santa Catarina
+42;421507;Riqueza;Santa Catarina
+42;421510;Rodeio;Santa Catarina
+42;421520;Romelândia;Santa Catarina
+42;421530;Salete;Santa Catarina
+42;421535;Saltinho;Santa Catarina
+42;421540;Salto Veloso;Santa Catarina
+42;421545;Sangão;Santa Catarina
+42;421550;Santa Cecília;Santa Catarina
+42;421555;Santa Helena;Santa Catarina
+42;421560;Santa Rosa de Lima;Santa Catarina
+42;421565;Santa Rosa do Sul;Santa Catarina
+42;421567;Santa Terezinha;Santa Catarina
+42;421568;Santa Terezinha do Progresso;Santa Catarina
+42;421569;Santiago do Sul;Santa Catarina
+42;421570;Santo Amaro da Imperatriz;Santa Catarina
+42;421580;São Bento do Sul;Santa Catarina
+42;421575;São Bernardino;Santa Catarina
+42;421590;São Bonifácio;Santa Catarina
+42;421600;São Carlos;Santa Catarina
+42;421605;São Cristovão do Sul;Santa Catarina
+42;421610;São Domingos;Santa Catarina
+42;421620;São Francisco do Sul;Santa Catarina
+42;421630;São João Batista;Santa Catarina
+42;421635;São João do Itaperiú;Santa Catarina
+42;421625;São João do Oeste;Santa Catarina
+42;421640;São João do Sul;Santa Catarina
+42;421650;São Joaquim;Santa Catarina
+42;421660;São José;Santa Catarina
+42;421670;São José do Cedro;Santa Catarina
+42;421680;São José do Cerrito;Santa Catarina
+42;421690;São Lourenço do Oeste;Santa Catarina
+42;421700;São Ludgero;Santa Catarina
+42;421710;São Martinho;Santa Catarina
+42;421715;São Miguel da Boa Vista;Santa Catarina
+42;421720;São Miguel do Oeste;Santa Catarina
+42;421725;São Pedro de Alcântara;Santa Catarina
+42;421730;Saudades;Santa Catarina
+42;421740;Schroeder;Santa Catarina
+42;421750;Seara;Santa Catarina
+42;421755;Serra Alta;Santa Catarina
+42;421760;Siderópolis;Santa Catarina
+42;421770;Sombrio;Santa Catarina
+42;421775;Sul Brasil;Santa Catarina
+42;421780;Taió;Santa Catarina
+42;421790;Tangará;Santa Catarina
+42;421795;Tigrinhos;Santa Catarina
+42;421800;Tijucas;Santa Catarina
+42;421810;Timbé do Sul;Santa Catarina
+42;421820;Timbó;Santa Catarina
+42;421825;Timbó Grande;Santa Catarina
+42;421830;Três Barras;Santa Catarina
+42;421835;Treviso;Santa Catarina
+42;421840;Treze de Maio;Santa Catarina
+42;421850;Treze Tílias;Santa Catarina
+42;421860;Trombudo Central;Santa Catarina
+42;421870;Tubarão;Santa Catarina
+42;421875;Tunápolis;Santa Catarina
+42;421880;Turvo;Santa Catarina
+42;421885;União do Oeste;Santa Catarina
+42;421890;Urubici;Santa Catarina
+42;421895;Urupema;Santa Catarina
+42;421900;Urussanga;Santa Catarina
+42;421910;Vargeão;Santa Catarina
+42;421915;Vargem;Santa Catarina
+42;421917;Vargem Bonita;Santa Catarina
+42;421920;Vidal Ramos;Santa Catarina
+42;421930;Videira;Santa Catarina
+42;421935;Vitor Meireles;Santa Catarina
+42;421940;Witmarsum;Santa Catarina
+42;421950;Xanxerê;Santa Catarina
+42;421960;Xavantina;Santa Catarina
+42;421970;Xaxim;Santa Catarina
+42;421985;Zortéa;Santa Catarina
+35;350010;Adamantina;Sao Paulo
+35;350020;Adolfo;Sao Paulo
+35;350030;Aguaí;Sao Paulo
+35;350040;Águas da Prata;Sao Paulo
+35;350050;Águas de Lindóia;Sao Paulo
+35;350055;Águas de Santa Bárbara;Sao Paulo
+35;350060;Águas de São Pedro;Sao Paulo
+35;350070;Agudos;Sao Paulo
+35;350075;Alambari;Sao Paulo
+35;350080;Alfredo Marcondes;Sao Paulo
+35;350090;Altair;Sao Paulo
+35;350100;Altinópolis;Sao Paulo
+35;350110;Alto Alegre;Sao Paulo
+35;350115;Alumínio;Sao Paulo
+35;350120;Álvares Florence;Sao Paulo
+35;350130;Álvares Machado;Sao Paulo
+35;350140;Álvaro de Carvalho;Sao Paulo
+35;350150;Alvinlândia;Sao Paulo
+35;350160;Americana;Sao Paulo
+35;350170;Américo Brasiliense;Sao Paulo
+35;350180;Américo de Campos;Sao Paulo
+35;350190;Amparo;Sao Paulo
+35;350200;Analândia;Sao Paulo
+35;350210;Andradina;Sao Paulo
+35;350220;Angatuba;Sao Paulo
+35;350230;Anhembi;Sao Paulo
+35;350240;Anhumas;Sao Paulo
+35;350250;Aparecida;Sao Paulo
+35;350260;Aparecida d'Oeste;Sao Paulo
+35;350270;Apiaí;Sao Paulo
+35;350275;Araçariguama;Sao Paulo
+35;350280;Araçatuba;Sao Paulo
+35;350290;Araçoiaba da Serra;Sao Paulo
+35;350300;Aramina;Sao Paulo
+35;350310;Arandu;Sao Paulo
+35;350315;Arapeí;Sao Paulo
+35;350320;Araraquara;Sao Paulo
+35;350330;Araras;Sao Paulo
+35;350335;Arco-Íris;Sao Paulo
+35;350340;Arealva;Sao Paulo
+35;350350;Areias;Sao Paulo
+35;350360;Areiópolis;Sao Paulo
+35;350370;Ariranha;Sao Paulo
+35;350380;Artur Nogueira;Sao Paulo
+35;350390;Arujá;Sao Paulo
+35;350395;Aspásia;Sao Paulo
+35;350400;Assis;Sao Paulo
+35;350410;Atibaia;Sao Paulo
+35;350420;Auriflama;Sao Paulo
+35;350430;Avaí;Sao Paulo
+35;350440;Avanhandava;Sao Paulo
+35;350450;Avaré;Sao Paulo
+35;350460;Bady Bassitt;Sao Paulo
+35;350470;Balbinos;Sao Paulo
+35;350480;Bálsamo;Sao Paulo
+35;350490;Bananal;Sao Paulo
+35;350500;Barão de Antonina;Sao Paulo
+35;350510;Barbosa;Sao Paulo
+35;350520;Bariri;Sao Paulo
+35;350530;Barra Bonita;Sao Paulo
+35;350535;Barra do Chapéu;Sao Paulo
+35;350540;Barra do Turvo;Sao Paulo
+35;350550;Barretos;Sao Paulo
+35;350560;Barrinha;Sao Paulo
+35;350570;Barueri;Sao Paulo
+35;350580;Bastos;Sao Paulo
+35;350590;Batatais;Sao Paulo
+35;350600;Bauru;Sao Paulo
+35;350610;Bebedouro;Sao Paulo
+35;350620;Bento de Abreu;Sao Paulo
+35;350630;Bernardino de Campos;Sao Paulo
+35;350635;Bertioga;Sao Paulo
+35;350640;Bilac;Sao Paulo
+35;350650;Birigui;Sao Paulo
+35;350660;Biritiba-Mirim;Sao Paulo
+35;350670;Boa Esperança do Sul;Sao Paulo
+35;350680;Bocaina;Sao Paulo
+35;350690;Bofete;Sao Paulo
+35;350700;Boituva;Sao Paulo
+35;350710;Bom Jesus dos Perdões;Sao Paulo
+35;350715;Bom Sucesso de Itararé;Sao Paulo
+35;350720;Borá;Sao Paulo
+35;350730;Boracéia;Sao Paulo
+35;350740;Borborema;Sao Paulo
+35;350745;Borebi;Sao Paulo
+35;350750;Botucatu;Sao Paulo
+35;350760;Bragança Paulista;Sao Paulo
+35;350770;Braúna;Sao Paulo
+35;350775;Brejo Alegre;Sao Paulo
+35;350780;Brodowski;Sao Paulo
+35;350790;Brotas;Sao Paulo
+35;350800;Buri;Sao Paulo
+35;350810;Buritama;Sao Paulo
+35;350820;Buritizal;Sao Paulo
+35;350830;Cabrália Paulista;Sao Paulo
+35;350840;Cabreúva;Sao Paulo
+35;350850;Caçapava;Sao Paulo
+35;350860;Cachoeira Paulista;Sao Paulo
+35;350870;Caconde;Sao Paulo
+35;350880;Cafelândia;Sao Paulo
+35;350890;Caiabu;Sao Paulo
+35;350900;Caieiras;Sao Paulo
+35;350910;Caiuá;Sao Paulo
+35;350920;Cajamar;Sao Paulo
+35;350925;Cajati;Sao Paulo
+35;350930;Cajobi;Sao Paulo
+35;350940;Cajuru;Sao Paulo
+35;350945;Campina do Monte Alegre;Sao Paulo
+35;350950;Campinas;Sao Paulo
+35;350960;Campo Limpo Paulista;Sao Paulo
+35;350970;Campos do Jordão;Sao Paulo
+35;350980;Campos Novos Paulista;Sao Paulo
+35;350990;Cananéia;Sao Paulo
+35;350995;Canas;Sao Paulo
+35;351000;Cândido Mota;Sao Paulo
+35;351010;Cândido Rodrigues;Sao Paulo
+35;351015;Canitar;Sao Paulo
+35;351020;Capão Bonito;Sao Paulo
+35;351030;Capela do Alto;Sao Paulo
+35;351040;Capivari;Sao Paulo
+35;351050;Caraguatatuba;Sao Paulo
+35;351060;Carapicuíba;Sao Paulo
+35;351070;Cardoso;Sao Paulo
+35;351080;Casa Branca;Sao Paulo
+35;351090;Cássia dos Coqueiros;Sao Paulo
+35;351100;Castilho;Sao Paulo
+35;351110;Catanduva;Sao Paulo
+35;351120;Catiguá;Sao Paulo
+35;351130;Cedral;Sao Paulo
+35;351140;Cerqueira César;Sao Paulo
+35;351150;Cerquilho;Sao Paulo
+35;351160;Cesário Lange;Sao Paulo
+35;351170;Charqueada;Sao Paulo
+35;355720;Chavantes;Sao Paulo
+35;351190;Clementina;Sao Paulo
+35;351200;Colina;Sao Paulo
+35;351210;Colômbia;Sao Paulo
+35;351220;Conchal;Sao Paulo
+35;351230;Conchas;Sao Paulo
+35;351240;Cordeirópolis;Sao Paulo
+35;351250;Coroados;Sao Paulo
+35;351260;Coronel Macedo;Sao Paulo
+35;351270;Corumbataí;Sao Paulo
+35;351280;Cosmópolis;Sao Paulo
+35;351290;Cosmorama;Sao Paulo
+35;351300;Cotia;Sao Paulo
+35;351310;Cravinhos;Sao Paulo
+35;351320;Cristais Paulista;Sao Paulo
+35;351330;Cruzália;Sao Paulo
+35;351340;Cruzeiro;Sao Paulo
+35;351350;Cubatão;Sao Paulo
+35;351360;Cunha;Sao Paulo
+35;351370;Descalvado;Sao Paulo
+35;351380;Diadema;Sao Paulo
+35;351385;Dirce Reis;Sao Paulo
+35;351390;Divinolândia;Sao Paulo
+35;351400;Dobrada;Sao Paulo
+35;351410;Dois Córregos;Sao Paulo
+35;351420;Dolcinópolis;Sao Paulo
+35;351430;Dourado;Sao Paulo
+35;351440;Dracena;Sao Paulo
+35;351450;Duartina;Sao Paulo
+35;351460;Dumont;Sao Paulo
+35;351470;Echaporã;Sao Paulo
+35;351480;Eldorado;Sao Paulo
+35;351490;Elias Fausto;Sao Paulo
+35;351492;Elisiário;Sao Paulo
+35;351495;Embaúba;Sao Paulo
+35;351500;Embu das Artes;Sao Paulo
+35;351510;Embu-Guaçu;Sao Paulo
+35;351512;Emilianópolis;Sao Paulo
+35;351515;Engenheiro Coelho;Sao Paulo
+35;351518;Espírito Santo do Pinhal;Sao Paulo
+35;351519;Espírito Santo do Turvo;Sao Paulo
+35;355730;Estiva Gerbi;Sao Paulo
+35;351530;Estrela do Norte;Sao Paulo
+35;351520;Estrela d'Oeste;Sao Paulo
+35;351535;Euclides da Cunha Paulista;Sao Paulo
+35;351540;Fartura;Sao Paulo
+35;351560;Fernando Prestes;Sao Paulo
+35;351550;Fernandópolis;Sao Paulo
+35;351565;Fernão;Sao Paulo
+35;351570;Ferraz de Vasconcelos;Sao Paulo
+35;351580;Flora Rica;Sao Paulo
+35;351590;Floreal;Sao Paulo
+35;351600;Flórida Paulista;Sao Paulo
+35;351610;Florínia;Sao Paulo
+35;351620;Franca;Sao Paulo
+35;351630;Francisco Morato;Sao Paulo
+35;351640;Franco da Rocha;Sao Paulo
+35;351650;Gabriel Monteiro;Sao Paulo
+35;351660;Gália;Sao Paulo
+35;351670;Garça;Sao Paulo
+35;351680;Gastão Vidigal;Sao Paulo
+35;351685;Gavião Peixoto;Sao Paulo
+35;351690;General Salgado;Sao Paulo
+35;351700;Getulina;Sao Paulo
+35;351710;Glicério;Sao Paulo
+35;351720;Guaiçara;Sao Paulo
+35;351730;Guaimbê;Sao Paulo
+35;351740;Guaíra;Sao Paulo
+35;351750;Guapiaçu;Sao Paulo
+35;351760;Guapiara;Sao Paulo
+35;351770;Guará;Sao Paulo
+35;351780;Guaraçaí;Sao Paulo
+35;351790;Guaraci;Sao Paulo
+35;351800;Guarani d'Oeste;Sao Paulo
+35;351810;Guarantã;Sao Paulo
+35;351820;Guararapes;Sao Paulo
+35;351830;Guararema;Sao Paulo
+35;351840;Guaratinguetá;Sao Paulo
+35;351850;Guareí;Sao Paulo
+35;351860;Guariba;Sao Paulo
+35;351870;Guarujá;Sao Paulo
+35;351880;Guarulhos;Sao Paulo
+35;351885;Guatapará;Sao Paulo
+35;351890;Guzolândia;Sao Paulo
+35;351900;Herculândia;Sao Paulo
+35;351905;Holambra;Sao Paulo
+35;351907;Hortolândia;Sao Paulo
+35;351910;Iacanga;Sao Paulo
+35;351920;Iacri;Sao Paulo
+35;351925;Iaras;Sao Paulo
+35;351930;Ibaté;Sao Paulo
+35;351940;Ibirá;Sao Paulo
+35;351950;Ibirarema;Sao Paulo
+35;351960;Ibitinga;Sao Paulo
+35;351970;Ibiúna;Sao Paulo
+35;351980;Icém;Sao Paulo
+35;351990;Iepê;Sao Paulo
+35;352000;Igaraçu do Tietê;Sao Paulo
+35;352010;Igarapava;Sao Paulo
+35;352020;Igaratá;Sao Paulo
+35;352030;Iguape;Sao Paulo
+35;352042;Ilha Comprida;Sao Paulo
+35;352044;Ilha Solteira;Sao Paulo
+35;352040;Ilhabela;Sao Paulo
+35;352050;Indaiatuba;Sao Paulo
+35;352060;Indiana;Sao Paulo
+35;352070;Indiaporã;Sao Paulo
+35;352080;Inúbia Paulista;Sao Paulo
+35;352090;Ipaussu;Sao Paulo
+35;352100;Iperó;Sao Paulo
+35;352110;Ipeúna;Sao Paulo
+35;352115;Ipiguá;Sao Paulo
+35;352120;Iporanga;Sao Paulo
+35;352130;Ipuã;Sao Paulo
+35;352140;Iracemápolis;Sao Paulo
+35;352150;Irapuã;Sao Paulo
+35;352160;Irapuru;Sao Paulo
+35;352170;Itaberá;Sao Paulo
+35;352180;Itaí;Sao Paulo
+35;352190;Itajobi;Sao Paulo
+35;352200;Itaju;Sao Paulo
+35;352210;Itanhaém;Sao Paulo
+35;352215;Itaóca;Sao Paulo
+35;352220;Itapecerica da Serra;Sao Paulo
+35;352230;Itapetininga;Sao Paulo
+35;352240;Itapeva;Sao Paulo
+35;352250;Itapevi;Sao Paulo
+35;352260;Itapira;Sao Paulo
+35;352265;Itapirapuã Paulista;Sao Paulo
+35;352270;Itápolis;Sao Paulo
+35;352280;Itaporanga;Sao Paulo
+35;352290;Itapuí;Sao Paulo
+35;352300;Itapura;Sao Paulo
+35;352310;Itaquaquecetuba;Sao Paulo
+35;352320;Itararé;Sao Paulo
+35;352330;Itariri;Sao Paulo
+35;352340;Itatiba;Sao Paulo
+35;352350;Itatinga;Sao Paulo
+35;352360;Itirapina;Sao Paulo
+35;352370;Itirapuã;Sao Paulo
+35;352380;Itobi;Sao Paulo
+35;352390;Itu;Sao Paulo
+35;352400;Itupeva;Sao Paulo
+35;352410;Ituverava;Sao Paulo
+35;352420;Jaborandi;Sao Paulo
+35;352430;Jaboticabal;Sao Paulo
+35;352440;Jacareí;Sao Paulo
+35;352450;Jaci;Sao Paulo
+35;352460;Jacupiranga;Sao Paulo
+35;352470;Jaguariúna;Sao Paulo
+35;352480;Jales;Sao Paulo
+35;352490;Jambeiro;Sao Paulo
+35;352500;Jandira;Sao Paulo
+35;352510;Jardinópolis;Sao Paulo
+35;352520;Jarinu;Sao Paulo
+35;352530;Jaú;Sao Paulo
+35;352540;Jeriquara;Sao Paulo
+35;352550;Joanópolis;Sao Paulo
+35;352560;João Ramalho;Sao Paulo
+35;352570;José Bonifácio;Sao Paulo
+35;352580;Júlio Mesquita;Sao Paulo
+35;352585;Jumirim;Sao Paulo
+35;352590;Jundiaí;Sao Paulo
+35;352600;Junqueirópolis;Sao Paulo
+35;352610;Juquiá;Sao Paulo
+35;352620;Juquitiba;Sao Paulo
+35;352630;Lagoinha;Sao Paulo
+35;352640;Laranjal Paulista;Sao Paulo
+35;352650;Lavínia;Sao Paulo
+35;352660;Lavrinhas;Sao Paulo
+35;352670;Leme;Sao Paulo
+35;352680;Lençóis Paulista;Sao Paulo
+35;352690;Limeira;Sao Paulo
+35;352700;Lindóia;Sao Paulo
+35;352710;Lins;Sao Paulo
+35;352720;Lorena;Sao Paulo
+35;352725;Lourdes;Sao Paulo
+35;352730;Louveira;Sao Paulo
+35;352740;Lucélia;Sao Paulo
+35;352750;Lucianópolis;Sao Paulo
+35;352760;Luís Antônio;Sao Paulo
+35;352770;Luiziânia;Sao Paulo
+35;352780;Lupércio;Sao Paulo
+35;352790;Lutécia;Sao Paulo
+35;352800;Macatuba;Sao Paulo
+35;352810;Macaubal;Sao Paulo
+35;352820;Macedônia;Sao Paulo
+35;352830;Magda;Sao Paulo
+35;352840;Mairinque;Sao Paulo
+35;352850;Mairiporã;Sao Paulo
+35;352860;Manduri;Sao Paulo
+35;352870;Marabá Paulista;Sao Paulo
+35;352880;Maracaí;Sao Paulo
+35;352885;Marapoama;Sao Paulo
+35;352890;Mariápolis;Sao Paulo
+35;352900;Marília;Sao Paulo
+35;352910;Marinópolis;Sao Paulo
+35;352920;Martinópolis;Sao Paulo
+35;352930;Matão;Sao Paulo
+35;352940;Mauá;Sao Paulo
+35;352950;Mendonça;Sao Paulo
+35;352960;Meridiano;Sao Paulo
+35;352965;Mesópolis;Sao Paulo
+35;352970;Miguelópolis;Sao Paulo
+35;352980;Mineiros do Tietê;Sao Paulo
+35;353000;Mira Estrela;Sao Paulo
+35;352990;Miracatu;Sao Paulo
+35;353010;Mirandópolis;Sao Paulo
+35;353020;Mirante do Paranapanema;Sao Paulo
+35;353030;Mirassol;Sao Paulo
+35;353040;Mirassolândia;Sao Paulo
+35;353050;Mococa;Sao Paulo
+35;353060;Mogi das Cruzes;Sao Paulo
+35;353070;Mogi Guaçu;Sao Paulo
+35;353080;Moji Mirim;Sao Paulo
+35;353090;Mombuca;Sao Paulo
+35;353100;Monções;Sao Paulo
+35;353110;Mongaguá;Sao Paulo
+35;353120;Monte Alegre do Sul;Sao Paulo
+35;353130;Monte Alto;Sao Paulo
+35;353140;Monte Aprazível;Sao Paulo
+35;353150;Monte Azul Paulista;Sao Paulo
+35;353160;Monte Castelo;Sao Paulo
+35;353180;Monte Mor;Sao Paulo
+35;353170;Monteiro Lobato;Sao Paulo
+35;353190;Morro Agudo;Sao Paulo
+35;353200;Morungaba;Sao Paulo
+35;353205;Motuca;Sao Paulo
+35;353210;Murutinga do Sul;Sao Paulo
+35;353215;Nantes;Sao Paulo
+35;353220;Narandiba;Sao Paulo
+35;353230;Natividade da Serra;Sao Paulo
+35;353240;Nazaré Paulista;Sao Paulo
+35;353250;Neves Paulista;Sao Paulo
+35;353260;Nhandeara;Sao Paulo
+35;353270;Nipoã;Sao Paulo
+35;353280;Nova Aliança;Sao Paulo
+35;353282;Nova Campina;Sao Paulo
+35;353284;Nova Canaã Paulista;Sao Paulo
+35;353286;Nova Castilho;Sao Paulo
+35;353290;Nova Europa;Sao Paulo
+35;353300;Nova Granada;Sao Paulo
+35;353310;Nova Guataporanga;Sao Paulo
+35;353320;Nova Independência;Sao Paulo
+35;353330;Nova Luzitânia;Sao Paulo
+35;353340;Nova Odessa;Sao Paulo
+35;353325;Novais;Sao Paulo
+35;353350;Novo Horizonte;Sao Paulo
+35;353360;Nuporanga;Sao Paulo
+35;353370;Ocauçu;Sao Paulo
+35;353380;Óleo;Sao Paulo
+35;353390;Olímpia;Sao Paulo
+35;353400;Onda Verde;Sao Paulo
+35;353410;Oriente;Sao Paulo
+35;353420;Orindiúva;Sao Paulo
+35;353430;Orlândia;Sao Paulo
+35;353440;Osasco;Sao Paulo
+35;353450;Oscar Bressane;Sao Paulo
+35;353460;Osvaldo Cruz;Sao Paulo
+35;353470;Ourinhos;Sao Paulo
+35;353480;Ouro Verde;Sao Paulo
+35;353475;Ouroeste;Sao Paulo
+35;353490;Pacaembu;Sao Paulo
+35;353500;Palestina;Sao Paulo
+35;353510;Palmares Paulista;Sao Paulo
+35;353520;Palmeira d'Oeste;Sao Paulo
+35;353530;Palmital;Sao Paulo
+35;353540;Panorama;Sao Paulo
+35;353550;Paraguaçu Paulista;Sao Paulo
+35;353560;Paraibuna;Sao Paulo
+35;353570;Paraíso;Sao Paulo
+35;353580;Paranapanema;Sao Paulo
+35;353590;Paranapuã;Sao Paulo
+35;353600;Parapuã;Sao Paulo
+35;353610;Pardinho;Sao Paulo
+35;353620;Pariquera-Açu;Sao Paulo
+35;353625;Parisi;Sao Paulo
+35;353630;Patrocínio Paulista;Sao Paulo
+35;353640;Paulicéia;Sao Paulo
+35;353650;Paulínia;Sao Paulo
+35;353657;Paulistânia;Sao Paulo
+35;353660;Paulo de Faria;Sao Paulo
+35;353670;Pederneiras;Sao Paulo
+35;353680;Pedra Bela;Sao Paulo
+35;353690;Pedranópolis;Sao Paulo
+35;353700;Pedregulho;Sao Paulo
+35;353710;Pedreira;Sao Paulo
+35;353715;Pedrinhas Paulista;Sao Paulo
+35;353720;Pedro de Toledo;Sao Paulo
+35;353730;Penápolis;Sao Paulo
+35;353740;Pereira Barreto;Sao Paulo
+35;353750;Pereiras;Sao Paulo
+35;353760;Peruíbe;Sao Paulo
+35;353770;Piacatu;Sao Paulo
+35;353780;Piedade;Sao Paulo
+35;353790;Pilar do Sul;Sao Paulo
+35;353800;Pindamonhangaba;Sao Paulo
+35;353810;Pindorama;Sao Paulo
+35;353820;Pinhalzinho;Sao Paulo
+35;353830;Piquerobi;Sao Paulo
+35;353850;Piquete;Sao Paulo
+35;353860;Piracaia;Sao Paulo
+35;353870;Piracicaba;Sao Paulo
+35;353880;Piraju;Sao Paulo
+35;353890;Pirajuí;Sao Paulo
+35;353900;Pirangi;Sao Paulo
+35;353910;Pirapora do Bom Jesus;Sao Paulo
+35;353920;Pirapozinho;Sao Paulo
+35;353930;Pirassununga;Sao Paulo
+35;353940;Piratininga;Sao Paulo
+35;353950;Pitangueiras;Sao Paulo
+35;353960;Planalto;Sao Paulo
+35;353970;Platina;Sao Paulo
+35;353980;Poá;Sao Paulo
+35;353990;Poloni;Sao Paulo
+35;354000;Pompéia;Sao Paulo
+35;354010;Pongaí;Sao Paulo
+35;354020;Pontal;Sao Paulo
+35;354025;Pontalinda;Sao Paulo
+35;354030;Pontes Gestal;Sao Paulo
+35;354040;Populina;Sao Paulo
+35;354050;Porangaba;Sao Paulo
+35;354060;Porto Feliz;Sao Paulo
+35;354070;Porto Ferreira;Sao Paulo
+35;354075;Potim;Sao Paulo
+35;354080;Potirendaba;Sao Paulo
+35;354085;Pracinha;Sao Paulo
+35;354090;Pradópolis;Sao Paulo
+35;354100;Praia Grande;Sao Paulo
+35;354105;Pratânia;Sao Paulo
+35;354110;Presidente Alves;Sao Paulo
+35;354120;Presidente Bernardes;Sao Paulo
+35;354130;Presidente Epitácio;Sao Paulo
+35;354140;Presidente Prudente;Sao Paulo
+35;354150;Presidente Venceslau;Sao Paulo
+35;354160;Promissão;Sao Paulo
+35;354165;Quadra;Sao Paulo
+35;354170;Quatá;Sao Paulo
+35;354180;Queiroz;Sao Paulo
+35;354190;Queluz;Sao Paulo
+35;354200;Quintana;Sao Paulo
+35;354210;Rafard;Sao Paulo
+35;354220;Rancharia;Sao Paulo
+35;354230;Redenção da Serra;Sao Paulo
+35;354240;Regente Feijó;Sao Paulo
+35;354250;Reginópolis;Sao Paulo
+35;354260;Registro;Sao Paulo
+35;354270;Restinga;Sao Paulo
+35;354280;Ribeira;Sao Paulo
+35;354290;Ribeirão Bonito;Sao Paulo
+35;354300;Ribeirão Branco;Sao Paulo
+35;354310;Ribeirão Corrente;Sao Paulo
+35;354320;Ribeirão do Sul;Sao Paulo
+35;354323;Ribeirão dos Índios;Sao Paulo
+35;354325;Ribeirão Grande;Sao Paulo
+35;354330;Ribeirão Pires;Sao Paulo
+35;354340;Ribeirão Preto;Sao Paulo
+35;354360;Rifaina;Sao Paulo
+35;354370;Rincão;Sao Paulo
+35;354380;Rinópolis;Sao Paulo
+35;354390;Rio Claro;Sao Paulo
+35;354400;Rio das Pedras;Sao Paulo
+35;354410;Rio Grande da Serra;Sao Paulo
+35;354420;Riolândia;Sao Paulo
+35;354350;Riversul;Sao Paulo
+35;354425;Rosana;Sao Paulo
+35;354430;Roseira;Sao Paulo
+35;354440;Rubiácea;Sao Paulo
+35;354450;Rubinéia;Sao Paulo
+35;354460;Sabino;Sao Paulo
+35;354470;Sagres;Sao Paulo
+35;354480;Sales;Sao Paulo
+35;354490;Sales Oliveira;Sao Paulo
+35;354500;Salesópolis;Sao Paulo
+35;354510;Salmourão;Sao Paulo
+35;354515;Saltinho;Sao Paulo
+35;354520;Salto;Sao Paulo
+35;354530;Salto de Pirapora;Sao Paulo
+35;354540;Salto Grande;Sao Paulo
+35;354550;Sandovalina;Sao Paulo
+35;354560;Santa Adélia;Sao Paulo
+35;354570;Santa Albertina;Sao Paulo
+35;354580;Santa Bárbara d'Oeste;Sao Paulo
+35;354600;Santa Branca;Sao Paulo
+35;354610;Santa Clara d'Oeste;Sao Paulo
+35;354620;Santa Cruz da Conceição;Sao Paulo
+35;354625;Santa Cruz da Esperança;Sao Paulo
+35;354630;Santa Cruz das Palmeiras;Sao Paulo
+35;354640;Santa Cruz do Rio Pardo;Sao Paulo
+35;354650;Santa Ernestina;Sao Paulo
+35;354660;Santa Fé do Sul;Sao Paulo
+35;354670;Santa Gertrudes;Sao Paulo
+35;354680;Santa Isabel;Sao Paulo
+35;354690;Santa Lúcia;Sao Paulo
+35;354700;Santa Maria da Serra;Sao Paulo
+35;354710;Santa Mercedes;Sao Paulo
+35;354750;Santa Rita do Passa Quatro;Sao Paulo
+35;354740;Santa Rita d'Oeste;Sao Paulo
+35;354760;Santa Rosa de Viterbo;Sao Paulo
+35;354765;Santa Salete;Sao Paulo
+35;354720;Santana da Ponte Pensa;Sao Paulo
+35;354730;Santana de Parnaíba;Sao Paulo
+35;354770;Santo Anastácio;Sao Paulo
+35;354780;Santo André;Sao Paulo
+35;354790;Santo Antônio da Alegria;Sao Paulo
+35;354800;Santo Antônio de Posse;Sao Paulo
+35;354805;Santo Antônio do Aracanguá;Sao Paulo
+35;354810;Santo Antônio do Jardim;Sao Paulo
+35;354820;Santo Antônio do Pinhal;Sao Paulo
+35;354830;Santo Expedito;Sao Paulo
+35;354840;Santópolis do Aguapeí;Sao Paulo
+35;354850;Santos;Sao Paulo
+35;354860;São Bento do Sapucaí;Sao Paulo
+35;354870;São Bernardo do Campo;Sao Paulo
+35;354880;São Caetano do Sul;Sao Paulo
+35;354890;São Carlos;Sao Paulo
+35;354900;São Francisco;Sao Paulo
+35;354910;São João da Boa Vista;Sao Paulo
+35;354920;São João das Duas Pontes;Sao Paulo
+35;354925;São João de Iracema;Sao Paulo
+35;354930;São João do Pau d'Alho;Sao Paulo
+35;354940;São Joaquim da Barra;Sao Paulo
+35;354950;São José da Bela Vista;Sao Paulo
+35;354960;São José do Barreiro;Sao Paulo
+35;354970;São José do Rio Pardo;Sao Paulo
+35;354980;São José do Rio Preto;Sao Paulo
+35;354990;São José dos Campos;Sao Paulo
+35;354995;São Lourenço da Serra;Sao Paulo
+35;355000;São Luís do Paraitinga;Sao Paulo
+35;355010;São Manuel;Sao Paulo
+35;355020;São Miguel Arcanjo;Sao Paulo
+35;355030;São Paulo;Sao Paulo
+35;355040;São Pedro;Sao Paulo
+35;355050;São Pedro do Turvo;Sao Paulo
+35;355060;São Roque;Sao Paulo
+35;355070;São Sebastião;Sao Paulo
+35;355080;São Sebastião da Grama;Sao Paulo
+35;355090;São Simão;Sao Paulo
+35;355100;São Vicente;Sao Paulo
+35;355110;Sarapuí;Sao Paulo
+35;355120;Sarutaiá;Sao Paulo
+35;355130;Sebastianópolis do Sul;Sao Paulo
+35;355140;Serra Azul;Sao Paulo
+35;355160;Serra Negra;Sao Paulo
+35;355150;Serrana;Sao Paulo
+35;355170;Sertãozinho;Sao Paulo
+35;355180;Sete Barras;Sao Paulo
+35;355190;Severínia;Sao Paulo
+35;355200;Silveiras;Sao Paulo
+35;355210;Socorro;Sao Paulo
+35;355220;Sorocaba;Sao Paulo
+35;355230;Sud Mennucci;Sao Paulo
+35;355240;Sumaré;Sao Paulo
+35;355255;Suzanápolis;Sao Paulo
+35;355250;Suzano;Sao Paulo
+35;355260;Tabapuã;Sao Paulo
+35;355270;Tabatinga;Sao Paulo
+35;355280;Taboão da Serra;Sao Paulo
+35;355290;Taciba;Sao Paulo
+35;355300;Taguaí;Sao Paulo
+35;355310;Taiaçu;Sao Paulo
+35;355320;Taiúva;Sao Paulo
+35;355330;Tambaú;Sao Paulo
+35;355340;Tanabi;Sao Paulo
+35;355350;Tapiraí;Sao Paulo
+35;355360;Tapiratiba;Sao Paulo
+35;355365;Taquaral;Sao Paulo
+35;355370;Taquaritinga;Sao Paulo
+35;355380;Taquarituba;Sao Paulo
+35;355385;Taquarivaí;Sao Paulo
+35;355390;Tarabai;Sao Paulo
+35;355395;Tarumã;Sao Paulo
+35;355400;Tatuí;Sao Paulo
+35;355410;Taubaté;Sao Paulo
+35;355420;Tejupá;Sao Paulo
+35;355430;Teodoro Sampaio;Sao Paulo
+35;355440;Terra Roxa;Sao Paulo
+35;355450;Tietê;Sao Paulo
+35;355460;Timburi;Sao Paulo
+35;355465;Torre de Pedra;Sao Paulo
+35;355470;Torrinha;Sao Paulo
+35;355475;Trabiju;Sao Paulo
+35;355480;Tremembé;Sao Paulo
+35;355490;Três Fronteiras;Sao Paulo
+35;355495;Tuiuti;Sao Paulo
+35;355500;Tupã;Sao Paulo
+35;355510;Tupi Paulista;Sao Paulo
+35;355520;Turiúba;Sao Paulo
+35;355530;Turmalina;Sao Paulo
+35;355535;Ubarana;Sao Paulo
+35;355540;Ubatuba;Sao Paulo
+35;355550;Ubirajara;Sao Paulo
+35;355560;Uchoa;Sao Paulo
+35;355570;União Paulista;Sao Paulo
+35;355580;Urânia;Sao Paulo
+35;355590;Uru;Sao Paulo
+35;355600;Urupês;Sao Paulo
+35;355610;Valentim Gentil;Sao Paulo
+35;355620;Valinhos;Sao Paulo
+35;355630;Valparaíso;Sao Paulo
+35;355635;Vargem;Sao Paulo
+35;355640;Vargem Grande do Sul;Sao Paulo
+35;355645;Vargem Grande Paulista;Sao Paulo
+35;355650;Várzea Paulista;Sao Paulo
+35;355660;Vera Cruz;Sao Paulo
+35;355670;Vinhedo;Sao Paulo
+35;355680;Viradouro;Sao Paulo
+35;355690;Vista Alegre do Alto;Sao Paulo
+35;355695;Vitória Brasil;Sao Paulo
+35;355700;Votorantim;Sao Paulo
+35;355710;Votuporanga;Sao Paulo
+35;355715;Zacarias;Sao Paulo
+28;280010;Amparo de São Francisco;Sergipe
+28;280020;Aquidabã;Sergipe
+28;280030;Aracaju;Sergipe
+28;280040;Arauá;Sergipe
+28;280050;Areia Branca;Sergipe
+28;280060;Barra dos Coqueiros;Sergipe
+28;280067;Boquim;Sergipe
+28;280070;Brejo Grande;Sergipe
+28;280100;Campo do Brito;Sergipe
+28;280110;Canhoba;Sergipe
+28;280120;Canindé de São Francisco;Sergipe
+28;280130;Capela;Sergipe
+28;280140;Carira;Sergipe
+28;280150;Carmópolis;Sergipe
+28;280160;Cedro de São João;Sergipe
+28;280170;Cristinápolis;Sergipe
+28;280190;Cumbe;Sergipe
+28;280200;Divina Pastora;Sergipe
+28;280210;Estância;Sergipe
+28;280220;Feira Nova;Sergipe
+28;280230;Frei Paulo;Sergipe
+28;280240;Gararu;Sergipe
+28;280250;General Maynard;Sergipe
+28;280260;Gracho Cardoso;Sergipe
+28;280270;Ilha das Flores;Sergipe
+28;280280;Indiaroba;Sergipe
+28;280290;Itabaiana;Sergipe
+28;280300;Itabaianinha;Sergipe
+28;280310;Itabi;Sergipe
+28;280320;Itaporanga d'Ajuda;Sergipe
+28;280330;Japaratuba;Sergipe
+28;280340;Japoatã;Sergipe
+28;280350;Lagarto;Sergipe
+28;280360;Laranjeiras;Sergipe
+28;280370;Macambira;Sergipe
+28;280380;Malhada dos Bois;Sergipe
+28;280390;Malhador;Sergipe
+28;280400;Maruim;Sergipe
+28;280410;Moita Bonita;Sergipe
+28;280420;Monte Alegre de Sergipe;Sergipe
+28;280430;Muribeca;Sergipe
+28;280440;Neópolis;Sergipe
+28;280445;Nossa Senhora Aparecida;Sergipe
+28;280450;Nossa Senhora da Glória;Sergipe
+28;280460;Nossa Senhora das Dores;Sergipe
+28;280470;Nossa Senhora de Lourdes;Sergipe
+28;280480;Nossa Senhora do Socorro;Sergipe
+28;280490;Pacatuba;Sergipe
+28;280500;Pedra Mole;Sergipe
+28;280510;Pedrinhas;Sergipe
+28;280520;Pinhão;Sergipe
+28;280530;Pirambu;Sergipe
+28;280540;Poço Redondo;Sergipe
+28;280550;Poço Verde;Sergipe
+28;280560;Porto da Folha;Sergipe
+28;280570;Propriá;Sergipe
+28;280580;Riachão do Dantas;Sergipe
+28;280590;Riachuelo;Sergipe
+28;280600;Ribeirópolis;Sergipe
+28;280610;Rosário do Catete;Sergipe
+28;280620;Salgado;Sergipe
+28;280630;Santa Luzia do Itanhy;Sergipe
+28;280650;Santa Rosa de Lima;Sergipe
+28;280640;Santana do São Francisco;Sergipe
+28;280660;Santo Amaro das Brotas;Sergipe
+28;280670;São Cristóvão;Sergipe
+28;280680;São Domingos;Sergipe
+28;280690;São Francisco;Sergipe
+28;280700;São Miguel do Aleixo;Sergipe
+28;280710;Simão Dias;Sergipe
+28;280720;Siriri;Sergipe
+28;280730;Telha;Sergipe
+28;280740;Tobias Barreto;Sergipe
+28;280750;Tomar do Geru;Sergipe
+28;280760;Umbaúba;Sergipe
+17;170025;Abreulândia;Tocantins
+17;170030;Aguiarnópolis;Tocantins
+17;170035;Aliança do Tocantins;Tocantins
+17;170040;Almas;Tocantins
+17;170070;Alvorada;Tocantins
+17;170100;Ananás;Tocantins
+17;170105;Angico;Tocantins
+17;170110;Aparecida do Rio Negro;Tocantins
+17;170130;Aragominas;Tocantins
+17;170190;Araguacema;Tocantins
+17;170200;Araguaçu;Tocantins
+17;170210;Araguaína;Tocantins
+17;170215;Araguanã;Tocantins
+17;170220;Araguatins;Tocantins
+17;170230;Arapoema;Tocantins
+17;170240;Arraias;Tocantins
+17;170255;Augustinópolis;Tocantins
+17;170270;Aurora do Tocantins;Tocantins
+17;170290;Axixá do Tocantins;Tocantins
+17;170300;Babaçulândia;Tocantins
+17;170305;Bandeirantes do Tocantins;Tocantins
+17;170307;Barra do Ouro;Tocantins
+17;170310;Barrolândia;Tocantins
+17;170320;Bernardo Sayão;Tocantins
+17;170330;Bom Jesus do Tocantins;Tocantins
+17;170360;Brasilândia do Tocantins;Tocantins
+17;170370;Brejinho de Nazaré;Tocantins
+17;170380;Buriti do Tocantins;Tocantins
+17;170382;Cachoeirinha;Tocantins
+17;170384;Campos Lindos;Tocantins
+17;170386;Cariri do Tocantins;Tocantins
+17;170388;Carmolândia;Tocantins
+17;170389;Carrasco Bonito;Tocantins
+17;170390;Caseara;Tocantins
+17;170410;Centenário;Tocantins
+17;170510;Chapada da Natividade;Tocantins
+17;170460;Chapada de Areia;Tocantins
+17;170550;Colinas do Tocantins;Tocantins
+17;171670;Colméia;Tocantins
+17;170555;Combinado;Tocantins
+17;170560;Conceição do Tocantins;Tocantins
+17;170600;Couto de Magalhães;Tocantins
+17;170610;Cristalândia;Tocantins
+17;170625;Crixás do Tocantins;Tocantins
+17;170650;Darcinópolis;Tocantins
+17;170700;Dianópolis;Tocantins
+17;170710;Divinópolis do Tocantins;Tocantins
+17;170720;Dois Irmãos do Tocantins;Tocantins
+17;170730;Dueré;Tocantins
+17;170740;Esperantina;Tocantins
+17;170755;Fátima;Tocantins
+17;170765;Figueirópolis;Tocantins
+17;170770;Filadélfia;Tocantins
+17;170820;Formoso do Araguaia;Tocantins
+17;170825;Fortaleza do Tabocão;Tocantins
+17;170830;Goianorte;Tocantins
+17;170900;Goiatins;Tocantins
+17;170930;Guaraí;Tocantins
+17;170950;Gurupi;Tocantins
+17;170980;Ipueiras;Tocantins
+17;171050;Itacajá;Tocantins
+17;171070;Itaguatins;Tocantins
+17;171090;Itapiratins;Tocantins
+17;171110;Itaporã do Tocantins;Tocantins
+17;171150;Jaú do Tocantins;Tocantins
+17;171180;Juarina;Tocantins
+17;171190;Lagoa da Confusão;Tocantins
+17;171195;Lagoa do Tocantins;Tocantins
+17;171200;Lajeado;Tocantins
+17;171215;Lavandeira;Tocantins
+17;171240;Lizarda;Tocantins
+17;171245;Luzinópolis;Tocantins
+17;171250;Marianópolis do Tocantins;Tocantins
+17;171270;Mateiros;Tocantins
+17;171280;Maurilândia do Tocantins;Tocantins
+17;171320;Miracema do Tocantins;Tocantins
+17;171330;Miranorte;Tocantins
+17;171360;Monte do Carmo;Tocantins
+17;171370;Monte Santo do Tocantins;Tocantins
+17;171395;Muricilândia;Tocantins
+17;171420;Natividade;Tocantins
+17;171430;Nazaré;Tocantins
+17;171488;Nova Olinda;Tocantins
+17;171500;Nova Rosalândia;Tocantins
+17;171510;Novo Acordo;Tocantins
+17;171515;Novo Alegre;Tocantins
+17;171525;Novo Jardim;Tocantins
+17;171550;Oliveira de Fátima;Tocantins
+17;172100;Palmas;Tocantins
+17;171570;Palmeirante;Tocantins
+17;171380;Palmeiras do Tocantins;Tocantins
+17;171575;Palmeirópolis;Tocantins
+17;171610;Paraíso do Tocantins;Tocantins
+17;171620;Paranã;Tocantins
+17;171630;Pau D'Arco;Tocantins
+17;171650;Pedro Afonso;Tocantins
+17;171660;Peixe;Tocantins
+17;171665;Pequizeiro;Tocantins
+17;171700;Pindorama do Tocantins;Tocantins
+17;171720;Piraquê;Tocantins
+17;171750;Pium;Tocantins
+17;171780;Ponte Alta do Bom Jesus;Tocantins
+17;171790;Ponte Alta do Tocantins;Tocantins
+17;171800;Porto Alegre do Tocantins;Tocantins
+17;171820;Porto Nacional;Tocantins
+17;171830;Praia Norte;Tocantins
+17;171840;Presidente Kennedy;Tocantins
+17;171845;Pugmil;Tocantins
+17;171850;Recursolândia;Tocantins
+17;171855;Riachinho;Tocantins
+17;171865;Rio da Conceição;Tocantins
+17;171870;Rio dos Bois;Tocantins
+17;171875;Rio Sono;Tocantins
+17;171880;Sampaio;Tocantins
+17;171884;Sandolândia;Tocantins
+17;171886;Santa Fé do Araguaia;Tocantins
+17;171888;Santa Maria do Tocantins;Tocantins
+17;171889;Santa Rita do Tocantins;Tocantins
+17;171890;Santa Rosa do Tocantins;Tocantins
+17;171900;Santa Tereza do Tocantins;Tocantins
+17;172000;Santa Terezinha do Tocantins;Tocantins
+17;172010;São Bento do Tocantins;Tocantins
+17;172015;São Félix do Tocantins;Tocantins
+17;172020;São Miguel do Tocantins;Tocantins
+17;172025;São Salvador do Tocantins;Tocantins
+17;172030;São Sebastião do Tocantins;Tocantins
+17;172049;São Valério da Natividade;Tocantins
+17;172065;Silvanópolis;Tocantins
+17;172080;Sítio Novo do Tocantins;Tocantins
+17;172085;Sucupira;Tocantins
+17;172090;Taguatinga;Tocantins
+17;172093;Taipas do Tocantins;Tocantins
+17;172097;Talismã;Tocantins
+17;172110;Tocantínia;Tocantins
+17;172120;Tocantinópolis;Tocantins
+17;172125;Tupirama;Tocantins
+17;172130;Tupiratins;Tocantins
+17;172208;Wanderlândia;Tocantins
+17;172210;Xambioá;Tocantins
