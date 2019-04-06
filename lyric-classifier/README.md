@@ -1,5 +1,4 @@
 ﻿# FINCH LYRIC CLASSIFIER
----
 
 Projeto desenvolvido durante o processo seletivo para a vaga de cientista de dados na Finch Soluções.
 
@@ -11,7 +10,7 @@ Para mais detalhes do pipeline de construção do modelo, visualizar os notebook
 
 O webapp desenvolvido foi publicado e está disponível no endereço http://diegocavalca.pythonanywhere.com/
 
-Além disso, os arquivos deste projeto estão disponíveis* também em minha conta no Github para melhor avaliação, em https://github.com/diegocavalca/data-science/tree/master/lyric-classifier.
+Além disso, os arquivos deste projeto estão disponíveis¹ também em minha conta no Github para melhor avaliação, em https://github.com/diegocavalca/data-science/tree/master/lyric-classifier.
 
 ## ESTRUTURA DE DIRETÓRIOS E ARQUIVOS
 
@@ -31,12 +30,10 @@ Os arquivos do projeto estão organizador da seguinte forma:
 
 Para a execução do webapp flask contruído, deve ser seguidos os seguintes passos:
 
-	1. Instalar o Python 3.6.1 ou superior no computador (instalar a distribuição Anaconda), bem como os pacotes descritos no arquivo requirements.txt;
-
-	2. Baixar e extrair os arquivos deste projeto em uma pasta no computador, executar o seguinte comando no terminal:
-		'python PATH/webapp/app.py'
-
-	3. Acessar o endereço informado no prompt de comando no navegador, resultante da etapa anterior (em geral, http://127.0.0.1:5000)
+1. Instalar o Python 3.6.1 ou superior no computador (instalar a distribuição Anaconda), bem como os pacotes descritos no arquivo requirements.txt;
+2. Baixar e extrair os arquivos deste projeto em uma pasta no computador, executar o seguinte comando no terminal:
+	'python PATH/webapp/app.py'
+3. Acessar o endereço informado no prompt de comando no navegador, resultante da etapa anterior (em geral, http://127.0.0.1:5000)
 
 ---
-* Estarão disponíveis durante o tempo do processo seletivo; após a finalização, irei remover o diretório.
+¹Estarão disponíveis durante o tempo do processo seletivo; após a finalização, irei remover o diretório.
