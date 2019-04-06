@@ -19,9 +19,9 @@ Os arquivos do projeto estão organizador da seguinte forma:
 - **input**: diretório contendo os dados que foram utilizados no processo de criação do modelo, incluindo os conjuntos de treino 'X_train.dat'/'y_train.dat' e testes 'X_test.dat'/'y_test.dat', utilizados no processo de verificação de acurácia do modelo de ML;
 
 - **notebooks**: contém os notebooks produzidos para a exploração dos dados e elaboração do classificador. Estes notebooks contém TODO O DETALHAMENTO dos processos conduzidos neste projeto, inclusive as análises, conclusões e trabalhos futuros, sendo que os notebooks devem ser lidos na ordem:
-	**1. data_analysis.ipynb** => contempla a exploração de dados e estabelecimento de hipótese;
-	**2. machine_learning.ipynb** => descreve o pipeline de construção e otimização do modelo;
-	**3. webapp.ipynb** => opcional, apenas testes para produção do webapp flask.
+	1. **data_analysis.ipynb** => contempla a exploração de dados e estabelecimento de hipótese;
+	2. **machine_learning.ipynb** => descreve o pipeline de construção e otimização do modelo;
+	3. **webapp.ipynb** => opcional, apenas testes para produção do webapp flask.
 	
 - **resources**: arquivos utilizados e/ou criados durante processo de criação do modelo e execução no webapp flask;
 
