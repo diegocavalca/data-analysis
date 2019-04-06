@@ -32,8 +32,8 @@ Para a execução do webapp flask contruído, deve ser seguidos os seguintes pas
 
 1. Instalar o Python 3.6.1 ou superior no computador (instalar a distribuição Anaconda), bem como os pacotes descritos no arquivo requirements.txt;
 2. Baixar e extrair os arquivos deste projeto em uma pasta no computador, executar o seguinte comando no terminal:
-	'python PATH/webapp/app.py'
+> 'python PATH/webapp/app.py'
 3. Acessar o endereço informado no prompt de comando no navegador, resultante da etapa anterior (em geral, http://127.0.0.1:5000)
 
 ---
-¹Estarão disponíveis durante o tempo do processo seletivo; após a finalização, irei remover o diretório.
+> ¹Estarão disponíveis durante o tempo do processo seletivo; após a finalização, irei remover o diretório.
