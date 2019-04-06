@@ -1,4 +1,4 @@
-# FINCH LYRIC CLASSIFIER
+﻿# FINCH LYRIC CLASSIFIER
 ---
 
 Projeto desenvolvido durante o processo seletivo para a vaga de cientista de dados na Finch Soluções.
