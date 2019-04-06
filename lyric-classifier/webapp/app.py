@@ -29,15 +29,15 @@ def tokenizer(text):
     return source
 
 # Stop words
-with open(os.path.join(cur_dir, 'resources/stopwords.txt'), 'r', encoding='utf-8') as infile:
+with open(os.path.join(cur_dir, '../resources/stopwords.txt'), 'r', encoding='utf-8') as infile:
     stopwords = infile.read().splitlines()
 
 # Vetorizador
-with open(os.path.join(cur_dir, 'resources/vectorizer.pkl'), 'rb') as fid:
+with open(os.path.join(cur_dir, '../resources/vectorizer.pkl'), 'rb') as fid:
    vec = pickle.load(fid)
 
 # Classificador
-with open(os.path.join(cur_dir, 'resources/classifier.pkl'), 'rb') as fid:
+with open(os.path.join(cur_dir, '../resources/classifier.pkl'), 'rb') as fid:
     clf = pickle.load(fid)
 
 ######## PREPARANDO O CLASSIFICADOR / VECTORIZADOR ########   
