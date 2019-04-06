@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Classifica&ccedil;&atilde;o de G&ecirc;nero Musical</title>
+
+		<link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}" >
+		<link rel="stylesheet" href="{{ url_for('static', filename='css/sticky-footer.css') }}" >
+		<script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+	</head>
+	<body>
+		<div class="container">
+			<div class="page-header">
+				<h1>Finch Lyric Classifier</h1>
+			</div>
+			<p class="lead">
+				Resultado: <strong>{{ prediction }}!</strong> <br>
+				Probabilidade: {{ probability }}%
+			</p>
+
+			<p>
+				<h3>Letra fornecida</h3>
+				<div>{{ content }}</div>
+			</p>
+			<form action="/">
+				<button type="submit" class="btn btn-lg btn-primary btn-block">Classificar outra m&uacute;sica</button>
+			</form>			
+		</div>
+
+		<footer class="footer">
+			<div class="container">
+				<p class="text-muted">&copy; Diego Cavalca - 2019</p>
+			</div>
+		</footer>
+	</body>
+
+</html>
