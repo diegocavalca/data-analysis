@@ -1,5 +1,4 @@
 # COGNITIVO.AI - TESTE TÉCNICO
----
 
 Análise da qualidade de vinhos com *Machine Learning*.
 
@@ -39,8 +38,8 @@ Porém, é importante ressaltar que o **critério de aceitação** - ou definiç
 
 ## REFERÊNCIAS:
 
-[1] Introduction to Data Mining, 2005. Disponível em https://www-users.cs.umn.edu/~kumar001/dmbook/
-[2] https://scikit-learn.org/stable/user_guide.html
-[3] https://towardsdatascience.com/a-deep-dive-into-imbalanced-data-over-sampling-f1167ed74b5
-[4] https://scikit-learn.org/stable/auto_examples/model_selection/plot_randomized_search.html
-[5] https://machinelearningmastery.com/how-to-tune-algorithm-parameters-with-scikit-learn/
+	[1] Introduction to Data Mining, 2005. Disponível em https://www-users.cs.umn.edu/~kumar001/dmbook/
+	[2] https://scikit-learn.org/stable/user_guide.html
+	[3] https://towardsdatascience.com/a-deep-dive-into-imbalanced-data-over-sampling-f1167ed74b5
+	[4] https://scikit-learn.org/stable/auto_examples/model_selection/plot_randomized_search.html
+	[5] https://machinelearningmastery.com/how-to-tune-algorithm-parameters-with-scikit-learn/
