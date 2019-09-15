@@ -1,5 +1,7 @@
-# COGNITIVO.AI - ANÁLISE DA QUALIDADE DE VINHOS COM *MACHINE LEARNING*
+# COGNITIVO.AI - TESTE TÉCNICO
 ---
+
+Análise da qualidade de vinhos com *Machine Learning*.
 
 ## QUESTÕES
 
